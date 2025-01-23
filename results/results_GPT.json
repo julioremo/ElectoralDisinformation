@@ -1,0 +1,182 @@
+[
+    {
+        "feat":"9. Protagonista",
+        "test":"And22",
+        "f1":0.1933369521,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"9. Protagonista",
+        "test":"Cat21",
+        "f1":0.2665119246,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"9. Protagonista",
+        "test":"CyL22",
+        "f1":0.3276504819,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"9. Protagonista",
+        "test":"Gal-Eus20",
+        "f1":0.3008494031,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"9. Protagonista",
+        "test":"Gen19",
+        "f1":0.3136079085,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"9. Protagonista",
+        "test":"Mad21",
+        "f1":0.2681733851,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"11. Macro tema",
+        "test":"And22",
+        "f1":0.8,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"11. Macro tema",
+        "test":"Cat21",
+        "f1":0.3678120617,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"11. Macro tema",
+        "test":"CyL22",
+        "f1":0.0,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"11. Macro tema",
+        "test":"Gal-Eus20",
+        "f1":0.5664160401,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"11. Macro tema",
+        "test":"Gen19",
+        "f1":0.5466666667,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"11. Macro tema",
+        "test":"Mad21",
+        "f1":0.3882352941,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"12. Populismo",
+        "test":"And22",
+        "f1":0.1428571429,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"12. Populismo",
+        "test":"Cat21",
+        "f1":0.1428571429,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"12. Populismo",
+        "test":"CyL22",
+        "f1":1.0,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"12. Populismo",
+        "test":"Gal-Eus20",
+        "f1":0.1851851852,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"12. Populismo",
+        "test":"Gen19",
+        "f1":0.1132075472,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"12. Populismo",
+        "test":"Mad21",
+        "f1":0.1428571429,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"13. Ataque",
+        "test":"And22",
+        "f1":0.6376417234,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"13. Ataque",
+        "test":"Cat21",
+        "f1":0.6802721088,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"13. Ataque",
+        "test":"CyL22",
+        "f1":0.747826087,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"13. Ataque",
+        "test":"Gal-Eus20",
+        "f1":0.6239316239,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"13. Ataque",
+        "test":"Gen19",
+        "f1":0.5977785655,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"13. Ataque",
+        "test":"Mad21",
+        "f1":0.6568627451,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"14. Tipo de ataque",
+        "test":"And22",
+        "f1":0.23945031,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"14. Tipo de ataque",
+        "test":"Cat21",
+        "f1":0.4428571429,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"14. Tipo de ataque",
+        "test":"CyL22",
+        "f1":0.2117584932,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"14. Tipo de ataque",
+        "test":"Gal-Eus20",
+        "f1":0.5641025641,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"14. Tipo de ataque",
+        "test":"Gen19",
+        "f1":0.1827206217,
+        "clf":"gpt-4o-mini"
+    },
+    {
+        "feat":"14. Tipo de ataque",
+        "test":"Mad21",
+        "f1":0.2868686869,
+        "clf":"gpt-4o-mini"
+    }
+]
