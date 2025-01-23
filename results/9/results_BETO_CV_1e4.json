@@ -1,0 +1,110 @@
+[
+    {
+        "feat": "10. Atributo",
+        "test": "And22",
+        "accuracy": 0.6003663003663003,
+        "f1": 0.24853754940711462
+    },
+    {
+        "feat": "10. Atributo",
+        "test": "Cat21",
+        "accuracy": 0.8186790505675955,
+        "f1": 0.3000747513081479
+    },
+    {
+        "feat": "10. Atributo",
+        "test": "CyL22",
+        "accuracy": 0.6955555555555556,
+        "f1": 0.2732352941176471
+    },
+    {
+        "feat": "10. Atributo",
+        "test": "Gal-Eus20",
+        "accuracy": 0.7505555555555555,
+        "f1": 0.3451190476190476
+    },
+    {
+        "feat": "10. Atributo",
+        "test": "Gen19",
+        "accuracy": 0.8175438596491228,
+        "f1": 0.2998115609880316
+    },
+    {
+        "feat": "10. Atributo",
+        "test": "Mad21",
+        "accuracy": 0.7359477124183006,
+        "f1": 0.28239463601532566
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "And22",
+        "accuracy": 0.4057142857142857,
+        "f1": 0.16448296801237977
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "Cat21",
+        "accuracy": 0.3973512211902305,
+        "f1": 0.2033402457973156
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "CyL22",
+        "accuracy": 0.5,
+        "f1": 0.14732600732600734
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "Gal-Eus20",
+        "accuracy": 0.3555555555555555,
+        "f1": 0.16910533910533912
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "Gen19",
+        "accuracy": 0.4302923976608187,
+        "f1": 0.09793106893106893
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "Mad21",
+        "accuracy": 0.36797385620915035,
+        "f1": 0.11587308288546679
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "And22",
+        "accuracy": 0.4810989010989011,
+        "f1": 0.20399725873255284
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "Cat21",
+        "accuracy": 0.5019263845889232,
+        "f1": 0.27314509564509565
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "CyL22",
+        "accuracy": 0.5,
+        "f1": 0.14732600732600734
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "Gal-Eus20",
+        "accuracy": 0.35944444444444446,
+        "f1": 0.17682539682539683
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "Gen19",
+        "accuracy": 0.419766081871345,
+        "f1": 0.10696344396344397
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "Mad21",
+        "accuracy": 0.34444444444444444,
+        "f1": 0.15018822447393876
+    }
+]

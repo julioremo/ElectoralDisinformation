@@ -1,0 +1,326 @@
+[
+    {
+        "feat": "10. Atributo",
+        "test": "And22",
+        "accuracy": 0.6003663003663003,
+        "f1": 0.24853754940711462
+    },
+    {
+        "feat": "10. Atributo",
+        "test": "Cat21",
+        "accuracy": 0.8186790505675955,
+        "f1": 0.3000747513081479
+    },
+    {
+        "feat": "10. Atributo",
+        "test": "CyL22",
+        "accuracy": 0.6955555555555556,
+        "f1": 0.2732352941176471
+    },
+    {
+        "feat": "10. Atributo",
+        "test": "Gal-Eus20",
+        "accuracy": 0.7505555555555555,
+        "f1": 0.3451190476190476
+    },
+    {
+        "feat": "10. Atributo",
+        "test": "Gen19",
+        "accuracy": 0.8175438596491228,
+        "f1": 0.2998115609880316
+    },
+    {
+        "feat": "10. Atributo",
+        "test": "Mad21",
+        "accuracy": 0.7359477124183006,
+        "f1": 0.28239463601532566
+    },
+    {
+        "feat": "11. Macro tema",
+        "test": "And22",
+        "accuracy": 0.6088827838827839,
+        "f1": 0.22726270805218177
+    },
+    {
+        "feat": "11. Macro tema",
+        "test": "Cat21",
+        "accuracy": 0.5791881664946681,
+        "f1": 0.24005167296471647
+    },
+    {
+        "feat": "11. Macro tema",
+        "test": "CyL22",
+        "accuracy": 0.6311111111111111,
+        "f1": 0.2717857142857143
+    },
+    {
+        "feat": "11. Macro tema",
+        "test": "Gal-Eus20",
+        "accuracy": 0.5083333333333333,
+        "f1": 0.2896296296296296
+    },
+    {
+        "feat": "11. Macro tema",
+        "test": "Gen19",
+        "accuracy": 0.6807602339181287,
+        "f1": 0.4998633866133867
+    },
+    {
+        "feat": "11. Macro tema",
+        "test": "Mad21",
+        "accuracy": 0.5826625386996904,
+        "f1": 0.30541332580463015
+    },
+    {
+        "feat": "12. Populismo",
+        "test": "And22",
+        "accuracy": 0.6128571428571428,
+        "f1": 0.3355222228751641
+    },
+    {
+        "feat": "12. Populismo",
+        "test": "Cat21",
+        "accuracy": 0.6013071895424836,
+        "f1": 0.3529433952774914
+    },
+    {
+        "feat": "12. Populismo",
+        "test": "CyL22",
+        "accuracy": 0.5022222222222222,
+        "f1": 0.25096070596070597
+    },
+    {
+        "feat": "12. Populismo",
+        "test": "Gal-Eus20",
+        "accuracy": 0.5161111111111112,
+        "f1": 0.2450793650793651
+    },
+    {
+        "feat": "12. Populismo",
+        "test": "Gen19",
+        "accuracy": 0.5141520467836257,
+        "f1": 0.30584253661939087
+    },
+    {
+        "feat": "12. Populismo",
+        "test": "Mad21",
+        "accuracy": 0.6107241142070864,
+        "f1": 0.2248968464485706
+    },
+    {
+        "feat": "13. Ataque",
+        "test": "And22",
+        "accuracy": 0.5947619047619048,
+        "f1": 0.5677101398773226
+    },
+    {
+        "feat": "13. Ataque",
+        "test": "Cat21",
+        "accuracy": 0.5773649810801513,
+        "f1": 0.5304730795520269
+    },
+    {
+        "feat": "13. Ataque",
+        "test": "CyL22",
+        "accuracy": 0.5222222222222223,
+        "f1": 0.3710622710622711
+    },
+    {
+        "feat": "13. Ataque",
+        "test": "Gal-Eus20",
+        "accuracy": 0.65,
+        "f1": 0.3927747252747253
+    },
+    {
+        "feat": "13. Ataque",
+        "test": "Gen19",
+        "accuracy": 0.5246783625730994,
+        "f1": 0.4954184704184704
+    },
+    {
+        "feat": "13. Ataque",
+        "test": "Mad21",
+        "accuracy": 0.5393188854489164,
+        "f1": 0.4022658094511641
+    },
+    {
+        "feat": "14. Tipo de ataque",
+        "test": "And22",
+        "accuracy": 0.5230769230769231,
+        "f1": 0.15083982683982683
+    },
+    {
+        "feat": "14. Tipo de ataque",
+        "test": "Cat21",
+        "accuracy": 0.5204334365325077,
+        "f1": 0.16041021394064872
+    },
+    {
+        "feat": "14. Tipo de ataque",
+        "test": "CyL22",
+        "accuracy": 0.43555555555555553,
+        "f1": 0.13978021978021976
+    },
+    {
+        "feat": "14. Tipo de ataque",
+        "test": "Gal-Eus20",
+        "accuracy": 0.65,
+        "f1": 0.25204212454212455
+    },
+    {
+        "feat": "14. Tipo de ataque",
+        "test": "Gen19",
+        "accuracy": 0.5380116959064327,
+        "f1": 0.12131036587933139
+    },
+    {
+        "feat": "14. Tipo de ataque",
+        "test": "Mad21",
+        "accuracy": 0.6216718266253871,
+        "f1": 0.13818342151675483
+    },
+    {
+        "feat": "7. Cuenta emisora",
+        "test": "And22",
+        "accuracy": 0.5385714285714286,
+        "f1": 0.3478515928515929
+    },
+    {
+        "feat": "7. Cuenta emisora",
+        "test": "Cat21",
+        "accuracy": 0.6596491228070176,
+        "f1": 0.4100609857978279
+    },
+    {
+        "feat": "7. Cuenta emisora",
+        "test": "CyL22",
+        "accuracy": 0.48,
+        "f1": 0.27844877344877345
+    },
+    {
+        "feat": "7. Cuenta emisora",
+        "test": "Gal-Eus20",
+        "accuracy": 0.586111111111111,
+        "f1": 0.19633699633699636
+    },
+    {
+        "feat": "7. Cuenta emisora",
+        "test": "Gen19",
+        "accuracy": 0.7222222222222222,
+        "f1": 0.3816632928475034
+    },
+    {
+        "feat": "7. Cuenta emisora",
+        "test": "Mad21",
+        "accuracy": 0.681764705882353,
+        "f1": 0.27210004810004806
+    },
+    {
+        "feat": "8. Fuente",
+        "test": "And22",
+        "accuracy": 0.6858974358974359,
+        "f1": 0.4583625730994152
+    },
+    {
+        "feat": "8. Fuente",
+        "test": "Cat21",
+        "accuracy": 0.7017543859649122,
+        "f1": 0.5815069462128285
+    },
+    {
+        "feat": "8. Fuente",
+        "test": "CyL22",
+        "accuracy": 0.5666666666666667,
+        "f1": 0.2750915750915751
+    },
+    {
+        "feat": "8. Fuente",
+        "test": "Gal-Eus20",
+        "accuracy": 0.5261111111111111,
+        "f1": 0.29516594516594513
+    },
+    {
+        "feat": "8. Fuente",
+        "test": "Gen19",
+        "accuracy": 0.6894736842105262,
+        "f1": 0.6335426731078905
+    },
+    {
+        "feat": "8. Fuente",
+        "test": "Mad21",
+        "accuracy": 0.6960294117647059,
+        "f1": 0.4848430345024772
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "And22",
+        "accuracy": 0.4057142857142857,
+        "f1": 0.16448296801237977
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "Cat21",
+        "accuracy": 0.3973512211902305,
+        "f1": 0.2033402457973156
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "CyL22",
+        "accuracy": 0.5,
+        "f1": 0.14732600732600734
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "Gal-Eus20",
+        "accuracy": 0.3555555555555555,
+        "f1": 0.16910533910533912
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "Gen19",
+        "accuracy": 0.4302923976608187,
+        "f1": 0.09793106893106893
+    },
+    {
+        "feat": "9. Protagonista",
+        "test": "Mad21",
+        "accuracy": 0.36797385620915035,
+        "f1": 0.11587308288546679
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "And22",
+        "accuracy": 0.4964835164835165,
+        "f1": 0.2117506164859106
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "Cat21",
+        "accuracy": 0.5019263845889232,
+        "f1": 0.27363349613349613
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "CyL22",
+        "accuracy": 0.5,
+        "f1": 0.14732600732600734
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "Gal-Eus20",
+        "accuracy": 0.35944444444444446,
+        "f1": 0.17682539682539683
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "Gen19",
+        "accuracy": 0.419766081871345,
+        "f1": 0.10696344396344397
+    },
+    {
+        "feat": "9. Protagonista reduced",
+        "test": "Mad21",
+        "accuracy": 0.34444444444444444,
+        "f1": 0.15018822447393876
+    }
+]
