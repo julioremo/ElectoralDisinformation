@@ -1944,5 +1944,859 @@
         "attack_reasoning": "El art\u00edculo responde a un mensaje que critica a Pedro S\u00e1nchez, insinuando que su llegada a Galicia para hacer campa\u00f1a electoral, con un gran despliegue de recursos, es excesiva y muestra un 'problema de ego' preocupante. Esto se puede considerar un ataque verbal, ya que se ataca su imagen y se cuestiona su comportamiento como l\u00edder.",
         "type_of_attack": "Personal",
         "type_of_attack_reasoning": "El comentario incluye un ataque a la persona de Pedro S\u00e1nchez, sugiriendo que su uso de recursos para la campa\u00f1a es inapropiado y refleja un problema personal de ego, lo cual es una cr\u00edtica personal en lugar de una discusi\u00f3n sobre pol\u00edticas o gestiones espec\u00edficas."
+    },
+    {
+        "ID_Medio_Crono": 3544,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather presents factual information concerning the spread of misinformation related to a COVID-19 outbreak. It addresses false claims and refutes them with statements from official sources.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the type of attack is classified as 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 3546,
+        "attack": "No",
+        "attack_reasoning": "The article does not depict a verbal attack; it focuses on debunking a false email that claims a legal action against a person. The content lies within the realm of misinformation rather than direct criticism or attack on an individual or group.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack involved in the article, it falls under the category 'Sin ataque'. The piece serves as an informative report on a fraudulent communication rather than a confrontational or accusatory statement."
+    },
+    {
+        "ID_Medio_Crono": 3549,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack; rather, it is focused on debunking false claims regarding Bego\u00f1a G\u00f3mez and Pedro S\u00e1nchez, clarifying misinformation without attacking individuals.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack identified in the article, the appropriate classification is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 3555,
+        "attack": "No",
+        "attack_reasoning": "The article primarily refutes a false claim about a publication regarding immigration and taxes, focusing on clarifying misinformation rather than attacking anyone verbally.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the content, the classification of 'Sin ataque' is appropriate."
+    },
+    {
+        "ID_Medio_Crono": 3558,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack against a person or group. Instead, it focuses on debunking a false claim about a manipulated image related to feminism.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no identified attack within the content of the article, the appropriate classification is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4313,
+        "attack": "No",
+        "attack_reasoning": "The article does not present a verbal attack, but instead focuses on debunking a false claim regarding a manipulated image. It does not contain any disparaging language or direct criticism of individuals; rather, it clarifies misinformation.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack identified in the article, the appropriate classification for the type of attack is 'Sin ataque.' The article serves to inform and rectify inaccuracies rather than to attack any individual or group."
+    },
+    {
+        "ID_Medio_Crono": 4317,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack. Instead, it focuses on debunking a misinformation about the COVID-19 vaccination priorities for migrants, providing factual corrections and clarifications from official sources.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article does not report any attack or offensive comments, 'Sin ataque' is the most appropriate classification."
+    },
+    {
+        "ID_Medio_Crono": 4320,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack against any person, group, or political entity. Instead, it focuses on debunking a false claim regarding financial aid and clarifying the eligibility criteria for the Renta M\u00ednima de Inserci\u00f3n.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the classification for type of attack is 'Sin ataque', which indicates the absence of such an attack."
+    },
+    {
+        "ID_Medio_Crono": 4328,
+        "attack": "No",
+        "attack_reasoning": "The article focuses on debunking a false tweet attributed to 'eldiario.es' regarding Franco rather than making a personal or ideological attack. It clarifies misinformation without targeting or disparaging any individual or group.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present, the appropriate classification is 'Sin ataque', indicating that the content of the article is informational and does not convey any adversarial tone."
+    },
+    {
+        "ID_Medio_Crono": 4337,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo describe la difusi\u00f3n de un v\u00eddeo en el que se vincula un atraco en un supermercado con inmigrantes y se utiliza un lenguaje despectivo, lo que constituye un ataque verbal hacia un grupo espec\u00edfico (los inmigrantes).",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El ataque se centra en una ideolog\u00eda relacionada con la inmigraci\u00f3n y el racismo, dado que el mensaje vincula err\u00f3neamente el acto delictivo con la condici\u00f3n de ser inmigrante, lo que refleja una postura ideol\u00f3gica negativa hacia este grupo social."
+    },
+    {
+        "ID_Medio_Crono": 4347,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo menciona que ciertos mensajes en redes sociales vinculan falsamente a menores inmigrantes robando en Espa\u00f1a, lo que implica un ataque verbal que busca desacreditar a un grupo particular (los inmigrantes) a trav\u00e9s de desinformaci\u00f3n.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El ataque se basa en ideolog\u00edas y creencias sobre la inmigraci\u00f3n, sugiriendo que la llegada de inmigrantes conduce a actividades delictivas, lo que refleja un ataque en t\u00e9rminos de ideas y creencias sobre la sociedad y la inmigraci\u00f3n."
+    },
+    {
+        "ID_Medio_Crono": 4353,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article describes a situation where public figures (mayors and an ex-minister) are criticized through the distribution of a misleading audio clip. This constitutes a verbal attack on their reputations due to the implied negative judgment regarding their governance during the coronavirus crisis.",
+        "type_of_attack": "De gesti\u00f3n",
+        "type_of_attack_reasoning": "The attack specifically relates to the management of the government in handling the coronavirus crisis. The audio falsely attributes critical remarks to prominent political figures, which directly targets their administrative actions."
+    },
+    {
+        "ID_Medio_Crono": 4356,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather addresses the spread of misinformation regarding a tweet attributed to El Pa\u00eds. It focuses on fact-checking the false claim without attacking any individual or group verbally.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the classification for the type of attack is 'Sin ataque', indicating the absence of an attack."
+    },
+    {
+        "ID_Medio_Crono": 4357,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe any verbal attack but rather addresses a misinformation issue regarding a video that falsely attributes a robbery incident to the Canary Islands, clarifying its actual location in Naples, Italy.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the type of attack is classified as 'Sin ataque' which reflects the absence of any direct verbal confrontation or assault."
+    },
+    {
+        "ID_Medio_Crono": 4358,
+        "attack": "No",
+        "attack_reasoning": "The article does not contain verbal attacks directed at an individual or a group; instead, it aims to clarify misinformation regarding Santiago Abascal and his father's financial dealings.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack in the article, the category 'Sin ataque' is appropriate."
+    },
+    {
+        "ID_Medio_Crono": 4359,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack; rather, it focuses on debunking a false statement attributed to Mar\u00eda Dolores de Cospedal.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the content, the appropriate classification is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4361,
+        "attack": "No",
+        "attack_reasoning": "The article does not present any verbal attack or disparagement towards any individual, group, or political entity. Instead, it focuses on debunking a false claim made on social media about a potential crime.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there was no verbal attack identified, the classification is 'Sin ataque' as the article only addresses misinformation without targeting any specific person or entity."
+    },
+    {
+        "ID_Medio_Crono": 4362,
+        "attack": "No",
+        "attack_reasoning": "The article does not contain a verbal attack against an individual or group. Instead, it focuses on debunking a false image related to Pablo Iglesias, clarifying that the image circulating online is a manipulated version.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the article, the appropriate classification for the TYPE OF ATTACK is 'Sin ataque'. The content is centered around fact-checking rather than attacking any person."
+    },
+    {
+        "ID_Medio_Crono": 4364,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo describe c\u00f3mo se ha generado un ataque verbal a trav\u00e9s de afirmaciones err\u00f3neas sobre la reforma de la Ley de Salud en Galicia, donde se menciona que se abrir\u00e1n 'campos de concentraci\u00f3n'. Esto se presenta como un bulo que est\u00e1 siendo difundido por grupos negacionistas.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El ataque se basa en manipular ideas y conceptos en relaci\u00f3n con la reforma legal, asoci\u00e1ndola de manera err\u00f3nea con 'campos de concentraci\u00f3n', lo que refleja un ataque ideol\u00f3gico que busca desacreditar las acciones del gobierno y propagar desinformaci\u00f3n sobre la salud p\u00fablica."
+    },
+    {
+        "ID_Medio_Crono": 4367,
+        "attack": "No",
+        "attack_reasoning": "The article does not present a verbal attack but instead focuses on clarifying misinformation regarding unemployment benefits and the portrayal of nationalities in that context.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack described in the article, the classification remains as 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4368,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather clarifies misinformation regarding an alleged official communication from the Government of Catalonia. It focuses on fact-checking rather than attacking any individual or entity verbally.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the classification 'Sin ataque' is appropriate."
+    },
+    {
+        "ID_Medio_Crono": 4372,
+        "attack": "No",
+        "attack_reasoning": "The article is focused on fact-checking false claims regarding the health effects of long-term mask usage. It does not present any form of verbal attack against individuals or groups; instead, it aims to clarify misinformation.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article does not contain an attack, the type of attack is classified as 'Sin ataque.'"
+    },
+    {
+        "ID_Medio_Crono": 4373,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article addresses a false accusation made against Pablo Iglesias, suggesting he incited violence against leaders of the PP, which constitutes a verbal attack on his character and integrity.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The nature of the attack revolves around ideological differences, as it falsely portrays Iglesias' stance towards the political right and insinuates extremist views that do not align with his actual beliefs."
+    },
+    {
+        "ID_Medio_Crono": 4374,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack against an individual or a group, but rather debunks a false statement attributed to the minister, Arancha Gonz\u00e1lez Laya. It focuses on clarifying misinformation rather than attacking anyone.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the classification remains as 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4377,
+        "attack": "No",
+        "attack_reasoning": "The article is fact-checking a viral claim regarding \u00cd\u00f1igo Errej\u00f3n's alleged statement about 'masacrar' individuals carrying the Spanish flag. It clarifies that this claim is false but does not itself constitute a verbal attack on any individual or group.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article identifies misinformation and clarifies the facts without attacking anyone directly, the classification here is appropriate as 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4379,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article describes an incident involving a man who verbally insulted and physically attacked a civil guard during an encounter related to a security perimeter around the home of a political figure, Pablo Iglesias. This constitutes a verbal attack as it includes derogatory language directed at the officer.",
+        "type_of_attack": "Personal",
+        "type_of_attack_reasoning": "Given that the insults were directed towards a specific individual (the civil guard), this falls under a personal attack, as it involves direct confrontational language and actions against another person."
+    },
+    {
+        "ID_Medio_Crono": 4381,
+        "attack": "No",
+        "attack_reasoning": "The article does not present any form of verbal attack. Instead, it focuses on clarifying misinformation regarding Eugenio Espinosa de los Monteros and his association with the politician Iv\u00e1n Espinosa de los Monteros.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack or any derogatory comments aimed at any individual, the appropriate classification is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4384,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather seeks to clarify the nature of the project 'La Bandera' funded by the Madrid City Council, focusing on debunking a misconception rather than attacking an individual or group.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the article, the classification is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4386,
+        "attack": "No",
+        "attack_reasoning": "The article provides a fact-checking breakdown of allegations regarding Juanma Moreno's financial dealings related to a supposed slush fund (caja B) of the Popular Party. It clarifies misinformation rather than engaging in a verbal attack against any individual or party.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since no attack is present, the class 'Sin ataque' is appropriate as the content seeks to debunk claims rather than attack anyone."
+    },
+    {
+        "ID_Medio_Crono": 4392,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe any verbal attack. It is focused on fact-checking a misinformation regarding child kidnapping rumors, rather than attacking a person or a group verbally.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the article, the classification 'Sin ataque' is appropriate."
+    },
+    {
+        "ID_Medio_Crono": 4393,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article discusses allegations related to political censorship regarding the removal of an electoral poster, which suggests a verbal attack on the administration led by Ada Colau. This context implies conflict or criticism based on political grounds.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The accusations of political censorship relate to political beliefs and actions. The controversy revolves around the perception of bias against one political party over another, indicating that the attack is ideological."
+    },
+    {
+        "ID_Medio_Crono": 4394,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo se refiere a desinformaciones graves que atacan al Gobierno espa\u00f1ol al acusarlo de construir 'campos de concentraci\u00f3n' para ciertos grupos de personas. Esto constituye un ataque verbal hacia una instituci\u00f3n y sus pol\u00edticas.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El ataque verbal se centra en una cr\u00edtica ideol\u00f3gica contra el Gobierno al insinuar que est\u00e1 persiguiendo a grupos disidentes y asintom\u00e1ticos, utilizando un lenguaje que connota autoritarismo y violaciones de derechos humanos."
+    },
+    {
+        "ID_Medio_Crono": 4397,
+        "attack": "No",
+        "attack_reasoning": "The article presents a fact-checking narrative concerning Salvador Illa's decision regarding PCR testing before a debate. It discusses claims made against Illa without resorting to personal attacks or derogatory language. Instead, the focus is on providing factual clarification regarding the protocols and Illa's statements.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the appropriate classification for TYPE OF ATTACK is 'Sin ataque', as the content does not indicate any ideological, personal, electoral, or other forms of attacks."
+    },
+    {
+        "ID_Medio_Crono": 4398,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo se refiere a la circulaci\u00f3n de rumores y afirmaciones falsas sobre la vacunaci\u00f3n de Salvador Illa, lo que indica que hay una verbalizaci\u00f3n de ataques a su integridad y reputaci\u00f3n relacionados con su cumplimiento de medidas de salud p\u00fablica. Esto se clasifica como un ataque verbal porque pone en duda su credibilidad como candidato pol\u00edtico.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El ataque se centra en la ideolog\u00eda pol\u00edtica y la percepci\u00f3n p\u00fablica de Salvador Illa como un l\u00edder en salud p\u00fablica durante una crisis sanitaria. Al cuestionar su vacunaci\u00f3n, los ataques buscan deslegitimar su capacidad y compromiso en su papel como pol\u00edtico durante la pandemia, lo que se alinea con un ataque ideol\u00f3gico."
+    },
+    {
+        "ID_Medio_Crono": 4401,
+        "attack": "No",
+        "attack_reasoning": "The article addresses a misinformation issue regarding an audio falsely attributed to actor Ricardo Dar\u00edn. It corrects the misconception and provides factual clarification without any verbal attack on individuals or groups.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack identified, the appropriate classification is 'Sin ataque' as the focus is on debunking a false claim rather than attacking anyone."
+    },
+    {
+        "ID_Medio_Crono": 4410,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack. Instead, it focuses on explaining a situation related to social media activity between two politicians, analyzing the context and facts surrounding a 'unfollow' action without derogatory or aggressive language.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article does not detail any attack on individuals or ideologies, the classification of 'Sin ataque' is appropriate as it merely reports and clarifies information regarding a social media incident."
+    },
+    {
+        "ID_Medio_Crono": 4418,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather clarifies misinformation regarding a tweet about Salvador Illa and his alleged following of ERC.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the type of attack is categorized as 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4419,
+        "attack": "No",
+        "attack_reasoning": "The article does not present a verbal attack. Instead, it focuses on debunking a false claim regarding Toni Cant\u00f3 and his actions on social media.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack described in the article, the appropriate class is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4420,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article describes a situation where false accusations were made against Adriana Lastra, labeling her as 'analfabeta', 'inculta', and 'ignorante', which constitutes a verbal attack on her character.",
+        "type_of_attack": "Personal",
+        "type_of_attack_reasoning": "The labeling and derogatory terms used against Adriana Lastra represent a personal attack on her, focusing on her abilities and character rather than her political actions or ideologies."
+    },
+    {
+        "ID_Medio_Crono": 4422,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack; instead, it focuses on debunking false claims regarding the health of King Emeritus Juan Carlos I, as stated by the Royal House.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the article, the classification for the type of attack is also 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4423,
+        "attack": "No",
+        "attack_reasoning": "The article does not depict any verbal attack but rather focuses on debunking misinformation regarding a parody Twitter account that spreads false information about politicians' activities.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the text, the appropriate classification is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4425,
+        "attack": "No",
+        "attack_reasoning": "The article does not contain any verbal attack against an individual or group. Instead, it discusses a situation regarding the allocation of office space to members of parliament and aims to clarify misconceptions around it.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the article, the appropriate classification is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4728,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but focuses on debunking a false claim regarding home robberies disguised as judicial deliveries, which is being circulated in WhatsApp.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the type of attack is classified as 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4729,
+        "attack": "No",
+        "attack_reasoning": "The article does not present a verbal attack or personal criticism against an individual or group. Instead, it focuses on debunking a false claim regarding the Guardia Civil's role in the custody of postal votes, providing factual information and official statements.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the article, the classification is 'Sin ataque' as it focuses solely on fact-checking and clarifying misinformation."
+    },
+    {
+        "ID_Medio_Crono": 4731,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article addresses a false claim (a bulo) that implies a significant accusation against Pedro S\u00e1nchez, suggesting that the EU has 'demanded' him to call for early elections. This constitutes a verbal attack on his leadership and decisions.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The nature of the attack is ideological as it challenges Pedro S\u00e1nchez's ability to govern and questions his legitimacy in managing Spain's political landscape, particularly in relation to the handling of EU funds and the electoral process."
+    },
+    {
+        "ID_Medio_Crono": 4732,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but instead focuses on debunking a false claim about a photo related to the Podemos party. It aims to clarify misinformation, rather than engage in any form of verbal aggression.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article relates to fact-checking and exposure of a falsehood rather than an attack on a person or a party, it is classified as 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4741,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo aborda la controversia en torno a la campa\u00f1a 'Rebeldes de g\u00e9nero' del Ayuntamiento de Getafe, en la que se han hecho declaraciones y se ha generado un debate p\u00fablico intenso que involucra cr\u00edticas severas hacia la alcaldesa y su propuesta educativa. Estas cr\u00edticas pueden considerarse un ataque verbal por el tono incendiario de algunas acusaciones y la manipulaci\u00f3n de las declaraciones realizadas.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El ataque se centra en las ideolog\u00edas detr\u00e1s de las gu\u00edas que el Ayuntamiento est\u00e1 promoviendo, espec\u00edficamente la educaci\u00f3n en relaci\u00f3n al g\u00e9nero y las relaciones sexuales. Las cr\u00edticas se basan en desacuerdos ideol\u00f3gicos sobre c\u00f3mo debe abordarse la educaci\u00f3n de g\u00e9nero, indicando que los detractores consideran que las gu\u00edas promueven una agenda ideol\u00f3gica que no deber\u00eda ser implementada en las escuelas."
+    },
+    {
+        "ID_Medio_Crono": 4743,
+        "attack": "No",
+        "attack_reasoning": "The article does not present a clear verbal attack against a person or entity. Instead, it focuses on debunking misinformation regarding mail-in voting procedures in Spain.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the classification is 'Sin ataque', indicating that the article does not fit into any type of attack category."
+    },
+    {
+        "ID_Medio_Crono": 4750,
+        "attack": "No",
+        "attack_reasoning": "The article primarily focuses on debunking a false claim regarding the PSOE's handling of fiscal policies and the assertion that the cross for the Church would not be marked by default on tax declarations. It presents factual information without targeting any individual or political entity in a derogatory manner.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "As there is no verbal attack present in the article, it falls under the category of 'Sin ataque'. The content aims to clarify misinformation rather than attack or criticize."
+    },
+    {
+        "ID_Medio_Crono": 4752,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe any verbal attacks but rather provides factual information about misinformation regarding COVID-19 measures proposed in the Comunidad Valenciana. It clarifies that the document being circulated is a falsehood (bulo) and emphasizes the importance of verifying information through official channels.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal assault presented in the article, the chosen class is 'Sin ataque', indicating that the content does not involve any type of attack."
+    },
+    {
+        "ID_Medio_Crono": 4753,
+        "attack": "No",
+        "attack_reasoning": "The article discusses a misinformation claim about a debate interpreter and refutes it with factual information from RTVE. There is no verbal attack present; rather, it addresses and debunks a false claim.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present, the classification is 'Sin ataque'. The content focuses on fact-checking rather than attacking or discrediting an individual or a group."
+    },
+    {
+        "ID_Medio_Crono": 4754,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article addresses claims made in a message that falsely alleges the existence of manipulated election ballots, which is a form of verbal attack characterized as spreading misinformation about the electoral process.",
+        "type_of_attack": "Electoral",
+        "type_of_attack_reasoning": "The context of the attack involves allegations concerning the integrity of electoral ballots and the legitimacy of candidates in the upcoming elections, which directly relates to the electoral process."
+    },
+    {
+        "ID_Medio_Crono": 4755,
+        "attack": "No",
+        "attack_reasoning": "The article fact-checks a false claim but does not present a verbal attack against any individual or group. It focuses on clarifying misinformation regarding the origin of the name AstraZeneca, thus it is purely informative and analytical.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack in the article, the appropriate classification under TYPE OF ATTACK is 'Sin ataque'. The article is dedicated to debunking a myth rather than attacking anyone."
+    },
+    {
+        "ID_Medio_Crono": 4757,
+        "attack": "No",
+        "attack_reasoning": "The article does not contain verbal attacks but rather aims to clarify misinformation regarding the funding of the film 'Los Europeos'. It focuses on fact-checking and providing official information.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the classification as 'Sin ataque' is appropriate."
+    },
+    {
+        "ID_Medio_Crono": 4758,
+        "attack": "No",
+        "attack_reasoning": "The article does not present any verbal attack, but rather addresses the dissemination of misinformation regarding a supposed viral challenge related to a horrific topic (the 'International Day of Rape'). The focus is on debunking rumors rather than attacking individuals or groups.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal or personal attack present in the article, the type of attack falls under 'Sin ataque'. The article aims to clarify and provide factual information without any disparagement."
+    },
+    {
+        "ID_Medio_Crono": 4761,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather focuses on debunking misinformation regarding a false tweet attributed to Correos.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the article, the correct classification for the type of attack is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4764,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article discusses a serious incident involving threats of death made against prominent political figures, specifically Pablo Iglesias, suggesting that these threats were conveyed through letters containing bullets. This context indicates that there is indeed a verbal attack being described, as the content of the letter communicates explicit threats.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The threats are politically motivated, targeting figures associated with specific political ideologies and parties, suggesting an ideological conflict is at play. The use of threats in this context aligns more with an ideological stance against individuals based on their political beliefs rather than a personal vendetta or a simple electoral maneuver."
+    },
+    {
+        "ID_Medio_Crono": 4765,
+        "attack": "No",
+        "attack_reasoning": "The article is focused on fact-checking and debunking a misinformation campaign regarding health alerts related to strawberries and raspberries from Morocco. It does not contain any personal attacks, ideological criticisms, or management critiques, thus classifying it as not involving a verbal attack.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the appropriate classification for the type of attack is 'Sin ataque'. The article is instead focused on clarifying misinformation."
+    },
+    {
+        "ID_Medio_Crono": 4766,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo describe un ataque verbal en forma de amenazas a la ministra de Industria, Reyes Maroto, tras la recepci\u00f3n de una navaja con manchas rojas y notas manuscritas. Este tipo de situaci\u00f3n implica un ataque hacia la integridad y la seguridad de la ministra.",
+        "type_of_attack": "Personal",
+        "type_of_attack_reasoning": "El ataque est\u00e1 relacionado directamente con la persona de la ministra, ya que se hace hincapi\u00e9 en la amenaza a su vida y en la violencia hacia ella. Esto se clasifica como un ataque personal en lugar de uno ideol\u00f3gico o de gesti\u00f3n, ya que el foco est\u00e1 en la figura individual de Reyes Maroto."
+    },
+    {
+        "ID_Medio_Crono": 4767,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe any verbal attack; instead, it addresses the dissemination of misinformation regarding a supposed serial killer and clarifies the inaccuracies surrounding this claim.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the article, the appropriate classification is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4769,
+        "attack": "No",
+        "attack_reasoning": "The article focuses on debunking a viral claim rather than engaging in a verbal attack. It presents factual information to clarify the situation and combat misinformation related to a specific incident in Barcelona.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article does not present any verbal attack but rather aims to correct a false narrative circulating online, the appropriate classification is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4770,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack aimed at an individual or group, but rather addresses and debunks a false claim circulating on social media about pensions paid to immigrants.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since no verbal attack is present, the appropriate classification is 'Sin ataque', indicating that the article's focus is on correcting misinformation rather than attacking any person or policy."
+    },
+    {
+        "ID_Medio_Crono": 4771,
+        "attack": "No",
+        "attack_reasoning": "The article does not contain any verbal attack but rather aims to clarify misinformation regarding COVID-19 vaccines and their relationship with genetic modification. Its focus is on fact-checking rather than attacking an individual or a group.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the category 'Sin ataque' is the appropriate classification."
+    },
+    {
+        "ID_Medio_Crono": 4773,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo expone una situaci\u00f3n en la que diversos usuarios en redes sociales est\u00e1n realizando una serie de publicaciones repetitivas con un mensaje pol\u00edtico, lo que indica un ataque verbal organizado que busca desinformar y manipular la opini\u00f3n p\u00fablica sobre la intenci\u00f3n de voto en las elecciones.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El contenido y la din\u00e1mica del ataque est\u00e1n dirigidos a cuestionar la autenticidad de las intenciones de voto a favor de Vox, involucrando a un grupo con posturas pol\u00edticas espec\u00edficas y generando confusi\u00f3n en torno a la veracidad de estas afirmaciones, lo cual se alinea claramente con un ataque ideol\u00f3gico."
+    },
+    {
+        "ID_Medio_Crono": 4775,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack; instead, it is focused on fact-checking a claim about an improper relationship between a person who sent a threatening item and a politician, which has been clarified as false.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the correct classification for the type of attack is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4777,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo describe una situaci\u00f3n en la que M\u00f2nica L\u00f3pez ha sido acusada de falta de imparcialidad en su labor como presentadora de TVE, lo que implica un ataque verbal hacia su profesionalismo y su posici\u00f3n como periodista. Las acusaciones han llevado a una campa\u00f1a pidiendo el cierre de RTVE, lo que refuerza la idea de un ataque verbal en su contra.",
+        "type_of_attack": "De gesti\u00f3n",
+        "type_of_attack_reasoning": "El ataque est\u00e1 centrado en la gesti\u00f3n pol\u00edtica de Isabel D\u00edaz Ayuso, ya que M\u00f2nica L\u00f3pez interrog\u00f3 a M\u00f3nica Garc\u00eda sobre la percepci\u00f3n de la gesti\u00f3n de Ayuso. Al cuestionar c\u00f3mo Ayuso segu\u00eda siendo apoyada a pesar de las cr\u00edticas sobre su gesti\u00f3n, se establece un contexto de ataque relacionado con la evaluaci\u00f3n de la gesti\u00f3n pol\u00edtica."
+    },
+    {
+        "ID_Medio_Crono": 4778,
+        "attack": "No",
+        "attack_reasoning": "The article provides a fact-check regarding a false claim attributed to Vox Madrid about comments on journalists assassinated in Burkina Faso. It clarifies that the message was fabricated and confirms that Vox did not make those statements. This indicates a debunking of misinformation rather than a verbal attack.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the appropriate classification is 'Sin ataque'. The focus is on correcting misleading information rather than attacking an individual or group."
+    },
+    {
+        "ID_Medio_Crono": 4780,
+        "attack": "No",
+        "attack_reasoning": "The article does not contain any verbal attacks against individuals or groups. Instead, it focuses on debunking a false claim regarding Enrique Ram\u00edrez Palac\u00edn's position, presenting factual information to clarify the situation.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there was no verbal attack present in the article, the classification for the type of attack is 'Sin ataque' as it does not fit any of the other categories."
+    },
+    {
+        "ID_Medio_Crono": 4781,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe any verbal attacks; instead, it focuses on debunking a false statement attributed to Roc\u00edo Monasterio and provides evidence to clarify that the statement was fabricated.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack described in the article, the most appropriate classification for the type of attack is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4784,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather focuses on debunking a misinformation related to voting processes and the validity of tickets from Correos. It addresses a rumor rather than attacking any individual or group verbally.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack identified in the article, the classification accordingly falls under 'Sin ataque'. The article's purpose is informational and corrective."
+    },
+    {
+        "ID_Medio_Crono": 4785,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack; instead, it focuses on debunking false claims made in a viral video about the census and immigration statistics in Spain. It provides factual corrections and evidence to refute misinformation.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the appropriate classification is 'Sin ataque' as the article serves to clarify and correct misinformation rather than attacking any individual or group."
+    },
+    {
+        "ID_Medio_Crono": 4786,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article discusses claims made by Alternativa Sindical questioning the authenticity of an image pertaining to threats against public figures, which suggests a challenge to the integrity of the information presented by Correos. This indicates a verbal attack on the credibility of the source of information.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The attack is ideological as it involves a dispute over the truthfulness and reliability of information that has political implications, specifically regarding threats against politicians. The claims undermine the authority of the institution providing the image, which is rooted in ideological contention."
+    },
+    {
+        "ID_Medio_Crono": 4788,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack. Instead, it focuses on debunking a false claim attributed to Pablo Iglesias without engaging in any attacks against a person or an ideology.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, 'Sin ataque' is the appropriate classification."
+    },
+    {
+        "ID_Medio_Crono": 4789,
+        "attack": "No",
+        "attack_reasoning": "The article discusses a misinformation regarding voting procedures but does not present a verbal attack on any individual or group. It focuses on clarifying facts rather than attacking anyone.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article does not classify as a verbal attack, 'Sin ataque' is the appropriate classification."
+    },
+    {
+        "ID_Medio_Crono": 4790,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo describe una clara verbal ATTACK en forma de desinformaci\u00f3n y manipulaci\u00f3n de declaraciones de un partido pol\u00edtico, enfoc\u00e1ndose en la cuenta de Twitter que puede confundir a la opini\u00f3n p\u00fablica respecto a la postura de Unidas Podemos.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "La naturaleza del ataque es ideol\u00f3gica porque se centra en presentar una agenda pol\u00edtica distorsionada a trav\u00e9s de tuits enga\u00f1osos, lo que puede afectar las percepciones ideol\u00f3gicas sobre el partido y sus posturas."
+    },
+    {
+        "ID_Medio_Crono": 4791,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo describe un ataque verbal contra \u00c1ngel Gabilondo, en el cual se hacen acusaciones graves sobre su conducta como profesor, incluyendo una supuesta agresi\u00f3n f\u00edsica a un alumno. Las afirmaciones son presentadas como si fueran testimonios de un exalumno, lo que implica un intento de da\u00f1ar su reputaci\u00f3n y credibilidad en el contexto pol\u00edtico actual.",
+        "type_of_attack": "Personal",
+        "type_of_attack_reasoning": "El ataque es de naturaleza personal porque se centra en la acusaci\u00f3n de un comportamiento violento de Gabilondo hacia un estudiante, lo que ataca su car\u00e1cter y moralidad personal, m\u00e1s que su gesti\u00f3n pol\u00edtica o ideol\u00f3gica."
+    },
+    {
+        "ID_Medio_Crono": 4792,
+        "attack": "No",
+        "attack_reasoning": "The article is focused on debunking a false claim attributed to Isabel D\u00edaz Ayuso but does not involve a direct verbal attack on her. Instead, it clarifies misinformation circulating online and points out that the statement was a hoax.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the appropriate classification for the type of attack is 'Sin ataque'. The article serves more to inform and correct false information rather than criticize or attack."
+    },
+    {
+        "ID_Medio_Crono": 4794,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article discusses claims made by certain media outlets regarding the involvement of security personnel associated with Pablo Iglesias in a violent incident. These claims are challenged by Podemos, which represents a public verbal confrontation regarding the truth of these claims and their implications for Iglesias.",
+        "type_of_attack": "De gesti\u00f3n",
+        "type_of_attack_reasoning": "The focus of the attack revolves around the management and responsibilities of Pablo Iglesias and his team, specifically regarding the claims about the security personnel being involved in the incident and what that implies for his political management and image."
+    },
+    {
+        "ID_Medio_Crono": 4795,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El texto presenta un lenguaje agresivo y despectivo hacia el gobierno, haciendo afirmaciones que cuestionan la legitimidad de las instituciones y procesos electorales de Espa\u00f1a. Frases como 'la Rep\u00fablica bananera en la que que estos impresentables que nos gobiernan han convertido Espa\u00f1a' reflejan un ataque verbal directo hacia la autoridad y la legalidad del sistema electoral.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El ataque se centra en una cr\u00edtica general al sistema democr\u00e1tico y a los representantes del gobierno, sugiriendo que se est\u00e1 llevando a cabo un fraude y que la democracia est\u00e1 en peligro. Esto corresponde a una postura ideol\u00f3gica que afecta la confianza en los valores democr\u00e1ticos y en las instituciones del pa\u00eds."
+    },
+    {
+        "ID_Medio_Crono": 4796,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo describe una acci\u00f3n donde cuentas de Twitter comunican un mensaje repetitivo acerca de ser afiliados a Podemos y afirmar que votar\u00e1n a Vox, lo cual puede ser interpretado como una forma de ataque verbal a la credibilidad de los votantes de Podemos, insinuando que est\u00e1n cambiando su lealtad pol\u00edtica de manera inconsistente.",
+        "type_of_attack": "Programa",
+        "type_of_attack_reasoning": "El tipo de ataque refleja un esfuerzo por deslegitimar a un grupo pol\u00edtico (en este caso, Podemos) al sugerir que sus propios afiliados est\u00e1n desertando hacia un adversario pol\u00edtico (Vox). Este tipo de desinformaci\u00f3n afecta el programa y la imagen de un partido pol\u00edtico espec\u00edfico."
+    },
+    {
+        "ID_Medio_Crono": 4797,
+        "attack": "No",
+        "attack_reasoning": "The article identifies and debunks a misinformation or false claim regarding a supposed protest by the political party PACMA, but it does not present any form of verbal attack against individuals or groups.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there was no verbal attack identified in the article, the classification is 'Sin ataque'. The focus is on correcting misinformation rather than attacking anyone."
+    },
+    {
+        "ID_Medio_Crono": 4799,
+        "attack": "No",
+        "attack_reasoning": "The article does not contain any verbal attack against an individual or a group. Instead, it focuses on debunking misinformation regarding Crist\u00f3bal Montoro.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the content, the classification is 'Sin ataque'. The article aims to clarify false claims rather than attacking anyone."
+    },
+    {
+        "ID_Medio_Crono": 4800,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather focuses on debunking a rumor related to a video that has been incorrectly attributed to Spanish politicians. It aims to clarify misinformation rather than attacking someone verbally.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the article, the appropriate classification is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 4801,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo aborda una acusaci\u00f3n grave sobre el partido Vox, sugiriendo que su nombre tiene conexiones con la propaganda nazi, lo cual es presentado como una desinformaci\u00f3n. Esto implica un ataque verbal a la legitimidad y la imagen de Vox.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El ataque se centra en la ideolog\u00eda del partido Vox, sugiriendo que su nombre est\u00e1 relacionado con el fascismo y el nazismo, lo que ataca la representaci\u00f3n y los valores que el partido dice defender."
+    },
+    {
+        "ID_Medio_Crono": 4803,
+        "attack": "No",
+        "attack_reasoning": "The article is focused on debunking rumors and misinformation regarding social media activity surrounding an election, rather than containing any verbal attacks against individuals or groups.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there was no verbal attack, the appropriate classification is 'Sin ataque' as the article does not engage in attacking discourse."
+    },
+    {
+        "ID_Medio_Crono": 4804,
+        "attack": "No",
+        "attack_reasoning": "The article focuses on debunking a false claim rather than attacking any individual or political group verbally. It addresses misinformation without resorting to insults or aggressive language.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the classification 'Sin ataque' accurately reflects that there is no assault on a person or ideology."
+    },
+    {
+        "ID_Medio_Crono": 4809,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack directed at any individual or group. Instead, it debunks a misinformation claim regarding the placement of election ballots.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the content, the classification for the type of attack is also 'Sin ataque', indicating that there was no attack to categorize."
+    },
+    {
+        "ID_Medio_Crono": 4810,
+        "attack": "No",
+        "attack_reasoning": "The article focuses on debunking false information about an electoral poll and indicates that the claim about the poll's results is not in fact true. It is primarily an informative piece rather than a verbal attack on any individual or organization.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the appropriate classification is 'Sin ataque'. The content centers around fact-checking and explaining misinformation regarding an electoral poll, not attacking any specific person or entity."
+    },
+    {
+        "ID_Medio_Crono": 4811,
+        "attack": "No",
+        "attack_reasoning": "El art\u00edculo de hecho est\u00e1 desmintiendo una afirmaci\u00f3n falsa que circula, enfatizando que no hay fundamento en la acusaci\u00f3n contra Isabel D\u00edaz Ayuso ni en la implicaci\u00f3n de Pablo Iglesias. M\u00e1s bien, proporciona una aclaraci\u00f3n sobre los hechos y explica las competencias en relaci\u00f3n con las residencias durante la pandemia, lo que indica que el objetivo del texto no es atacar, sino informar.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Dado que no hay un ataque verbal o impl\u00edcito en el contenido, la categor\u00eda \u2018Sin ataque\u2019 es la m\u00e1s adecuada. El texto se centra en desmentir informaci\u00f3n incorrecta en lugar de realizar un ataque, ya sea ideol\u00f3gico, personal, etc."
+    },
+    {
+        "ID_Medio_Crono": 5645,
+        "attack": "No",
+        "attack_reasoning": "The article does not contain any verbal attack directed at any individual, group, or political entity. Instead, it focuses on refuting a viral claim with factual information.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present, the classification is appropriately 'Sin ataque'. The content is informative and corrective rather than accusatory."
+    },
+    {
+        "ID_Medio_Crono": 5848,
+        "attack": "No",
+        "attack_reasoning": "El art\u00edculo se centra en desmentir un bulo espec\u00edfico y no presenta un ataque verbal hacia ninguna persona o entidad en concreto. Simplemente aclara la desinformaci\u00f3n sobre un tuit enga\u00f1oso.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Dado que no hay un ataque verbal identificado, la clasificaci\u00f3n adecuada es 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 5853,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack; instead, it addresses misinformation regarding Manuel Chaves and his alleged ownership of the Group Abades. It fact-checks claims made in a WhatsApp message without resorting to name-calling or derogatory remarks, focusing instead on debunking the false claims.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present, the class 'Sin ataque' is appropriate. The article aims to clarify misinformation rather than attacking a person or entity."
+    },
+    {
+        "ID_Medio_Crono": 5854,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack; instead, it focuses on debunking misinformation regarding statements attributed to UGT and CCOO.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the classification for the type of attack is 'Sin ataque', indicating the absence of an attack."
+    },
+    {
+        "ID_Medio_Crono": 5856,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article discusses a false claim that attacks the reputation of the Mayor of Barcelona, Ada Colau, suggesting her involvement in a controversial project to convert a historic site into a mosque. This insinuation is aggressive and defamatory, marking it as a verbal attack.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The claim is rooted in ideological beliefs about religion and migration, portraying a negative view of the mayor and aligning with broader issues of cultural identity and immigration in Spain. It reflects an ideological attack by framing the proposed action in a derogatory manner."
+    },
+    {
+        "ID_Medio_Crono": 5860,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack. Instead, it focuses on clarifying a misunderstanding regarding the removal of a statue and the attribution of that action to the correct municipal authority rather than promoting a negative or hostile statement against any individual or group.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the text, the appropriate classification for the type of attack is 'Sin ataque'. The article serves to fact-check and provide accurate information rather than attacking a person, party, or ideology."
+    },
+    {
+        "ID_Medio_Crono": 5872,
+        "attack": "No",
+        "attack_reasoning": "The article refutes false claims about Teresa Rodr\u00edguez but does not contain a verbal attack against her or any negative language intended to harm her reputation. Instead, it focuses on correcting misinformation.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article does not exhibit an attack of any form, the classification 'Sin ataque' is appropriate."
+    },
+    {
+        "ID_Medio_Crono": 5873,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article addresses the spread of false messages suggesting a 'cacer\u00eda' (hunt) in Madrid, which creates fear and panic among the public. This constitutes a verbal attack aimed at discrediting public perception of safety and security in the city.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The spread of these false messages reflects an ideological attack by contributing to a narrative that portrays specific neighborhoods as unsafe and fosters distrust in societal order. It plays on fears regarding gang violence and public safety, which is often a politically charged issue."
+    },
+    {
+        "ID_Medio_Crono": 5874,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe any form of verbal attack; instead, it focuses on clarifying a misconception about a quote attributed to the European Commission regarding the Spanish government.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there was no verbal attack identified in the article, the relevant class for type of attack is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 5875,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article addresses false claims made by individuals regarding the removal of a video, which involves disputing the credibility of statements made by Joan-Ramon Laporte about vaccines. This constitutes a verbal attack on the misinformation spread by these individuals.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The attack is primarily ideological as it revolves around the contestation of false narratives regarding COVID-19 vaccines, challenging the scientific validity of Laporte's statements and the claims made about censorship."
+    },
+    {
+        "ID_Medio_Crono": 5878,
+        "attack": "No",
+        "attack_reasoning": "The article focuses on debunking misinformation rather than attacking an individual or a group. It clarifies the falsehood of a circulated image and provides evidence to counter the claims made.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the class 'Sin ataque' is appropriate."
+    },
+    {
+        "ID_Medio_Crono": 5881,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo describe un ataque verbal contra Pedro S\u00e1nchez, en el que se le atribuyen declaraciones falsas que lo implican en una supuesta extorsi\u00f3n relacionada con la vacunaci\u00f3n contra la COVID-19.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "La naturaleza del ataque se enfoca en desacreditar las decisiones y acciones del presidente S\u00e1nchez en relaci\u00f3n a la vacunaci\u00f3n, lo cual tiene implicaciones ideol\u00f3gicas sobre la gesti\u00f3n de la crisis sanitaria y la confianza en las autoridades."
+    },
+    {
+        "ID_Medio_Crono": 5884,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo describe un ataque verbal dirigido hacia una persona de nacionalidad marroqu\u00ed, insinuando que recibe privilegios econ\u00f3micos injustos en comparaci\u00f3n con los espa\u00f1oles, lo que se considera un elemento de racismo y xenofobia.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El ataque se basa en ideolog\u00edas que fomentan la discriminaci\u00f3n y la xenofobia, sugiriendo que los inmigrantes tienen beneficios econ\u00f3micos injustos, lo cual es una afirmaci\u00f3n ideol\u00f3gica que busca deslegitimar su presencia y derechos en el pa\u00eds."
+    },
+    {
+        "ID_Medio_Crono": 5885,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack. Instead, it focuses on debunking a false attribution regarding a text allegedly authored by Arturo P\u00e9rez-Reverte. It presents evidence to clarify that the text is a fictitious creation and addresses misinformation rather than attacking someone verbally.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there was no verbal attack present in the article, the appropriate classification for the type of attack is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 5886,
+        "attack": "No",
+        "attack_reasoning": "El art\u00edculo se centra en desmentir y clarificar informaci\u00f3n incorrecta sobre declaraciones atribuidas a Albert Rivera, pero no se presenta como un ataque verbal hacia \u00e9l o cualquier otra persona. Se trata m\u00e1s de una exposici\u00f3n de hechos y rectificaci\u00f3n de la desinformaci\u00f3n.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Dado que no hay un ataque verbal o una cr\u00edtica personal, sino una defensa y aclaraci\u00f3n de hechos mal interpretados, la clasificaci\u00f3n correspondiente es 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 5887,
+        "attack": "No",
+        "attack_reasoning": "The article does not contain any verbal attack against an individual or group. It focuses on debunking a false tweet and clarifying misinformation rather than targeting any person with abusive or aggressive language.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article describes a case of misinformation without any associated attack, 'Sin ataque' is the appropriate classification."
+    },
+    {
+        "ID_Medio_Crono": 5890,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather focuses on debunking a false tweet claiming that Pablo Iglesias made certain statements. It aims to clarify misinformation rather than attacking an individual or entity verbally.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article does not present any attack, it falls under the 'Sin ataque' category. The purpose of the article is to inform readers about a false claim, not to assault someone's reputation or credibility."
+    },
+    {
+        "ID_Medio_Crono": 5891,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article presents a case where there are false claims about the identity of the attackers involved in the aggression against a young man with intellectual disabilities. The term 'mentiras' (lies) used by the police to refer to the spread of misinformation indicates a verbal attack on those perpetuating the false narrative.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The attack is ideological because it revolves around the narrative that falsely associates a racial or ethnic identity ('moros') with the aggression. This reflects underlying social attitudes and prejudices related to migration and racism, thus categorizing it as an ideological attack."
+    },
+    {
+        "ID_Medio_Crono": 6323,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article discusses a false claim attributed to Vox, suggesting there is an attack on the credibility of the party through misinformation. This indicates a verbal attack, as it directly challenges Vox by falsely associating them with a extreme statement about communism.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The nature of the misinformation revolves around ideological beliefs regarding communism, labeling it as a 'criminal ideology'. Therefore, the attack primarily concerns ideological aspects rather than personal or electoral dimensions."
+    },
+    {
+        "ID_Medio_Crono": 6326,
+        "attack": "No",
+        "attack_reasoning": "The article does not depict a verbal attack; rather, it presents a fact-checking investigation into the misinformation surrounding health guides related to drug use during sexual activities. It attempts to clarify misconceptions based on viral claims rather than attacking any individual's reputation or views.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, 'Sin ataque' is the appropriate classification."
+    },
+    {
+        "ID_Medio_Crono": 6327,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack; instead, it addresses misinformation regarding an event incorrectly attributed to the Ministry of Equality. It focuses on fact-checking and clarifying false claims rather than attacking any individual or entity.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the text, the appropriate classification is 'Sin ataque'. The article's purpose is to debunk a false narrative rather than to criticize or attack."
+    },
+    {
+        "ID_Medio_Crono": 6334,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo aborda la difusi\u00f3n de informaci\u00f3n incorrecta sobre un evento pol\u00edtico relacionado con el candidato del PSOE, Juan Espadas, lo que puede considerarse una ataque verbal al poner en duda la veracidad de un evento se\u00f1alado como inicio de campa\u00f1a. Adem\u00e1s, se incluyen comparaciones con otros medios y figuras pol\u00edticas, sugiriendo que hay una desinformaci\u00f3n deliberada.",
+        "type_of_attack": "De gesti\u00f3n",
+        "type_of_attack_reasoning": "El ataque se centra en la gesti\u00f3n de la informaci\u00f3n relacionada con el inicio de la campa\u00f1a de Juan Espadas, destacando c\u00f3mo se han presentado eventos y asistencias de manera equ\u00edvoca. La cr\u00edtica est\u00e1 relacionada con la forma en que se manejan y comunican los eventos pol\u00edticos, m\u00e1s que en enfoques ideol\u00f3gicos o personales."
+    },
+    {
+        "ID_Medio_Crono": 6335,
+        "attack": "No",
+        "attack_reasoning": "The article is a fact-checking piece that corrects misinformation regarding the candidacy of Salud Anguita in relation to the Vox party. It does not present a verbal attack on any individual or party but rather aims to clarify a misunderstanding based on a false claim circulating on social media.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the appropriate classification is 'Sin ataque'. The article does not attack any ideology, management, personal character, or any electoral aspects."
+    },
+    {
+        "ID_Medio_Crono": 6336,
+        "attack": "No",
+        "attack_reasoning": "The article focuses on debunking a false claim regarding financial aid provided to Ukrainian refugees and presents factual information from relevant organizations. It does not express hostility or have the characteristics of a verbal attack.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the appropriate classification is 'Sin ataque'. The article emphasizes clarification and correction rather than engaging in any form of attack."
+    },
+    {
+        "ID_Medio_Crono": 6337,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather addresses misinformation regarding a false tweet attributed to Teresa Rodr\u00edguez. The focus is on debunking the misinformation instead of presenting any form of attack.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present in the article, the classification for the type of attack is 'Sin ataque'."
+    },
+    {
+        "ID_Medio_Crono": 6338,
+        "attack": "No",
+        "attack_reasoning": "El art\u00edculo no describe un ataque verbal o agresi\u00f3n hacia una persona o grupo espec\u00edfico. M\u00e1s bien, se centra en desmentir un rumor o bulo relacionado con un incidente violento que ocurri\u00f3 en Brasil y fue incorrectamente atribuido a Espa\u00f1a.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Dado que no hay un ataque verbal en el texto, la clasificaci\u00f3n adecuada es 'Sin ataque', ya que el art\u00edculo se limita a corregir informaci\u00f3n err\u00f3nea sin atacar a ninguna persona o entidad."
+    },
+    {
+        "ID_Medio_Crono": 6345,
+        "attack": "S\u00ed",
+        "attack_reasoning": "The article describes the spread of false information regarding a video, which included derogatory comments about the individuals in the video, indicating a verbal attack on the identity of those portrayed.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "The focus on labeling the individuals in the video as migrants and using derogatory phrasing reflects an ideological attack against specific communities, promoting negative stereotyping and perceptions based on their apparent ethnicity or origin."
+    },
+    {
+        "ID_Medio_Crono": 6354,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack; instead, it fact-checks a claim regarding a photo of Pedro S\u00e1nchez, clarifying its date and context. It debunks misinformation without presenting an attack or negative comments against S\u00e1nchez.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no attack present in the article, the appropriate classification is 'Sin ataque'. The article focuses on correcting misinformation rather than launching a verbal assault."
+    },
+    {
+        "ID_Medio_Crono": 6355,
+        "attack": "No",
+        "attack_reasoning": "The article is focused on debunking a false claim regarding electoral ballots and does not describe any direct verbal attack against individuals or political entities. It explains the situation factually, clarifying misconceptions without expressing any derogatory or hostile statements.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there was no verbal attack identified in the previous step, the appropriate classification here is 'Sin ataque'. The article serves primarily as a fact-checking piece that corrects misinformation rather than attacking a person or party."
+    },
+    {
+        "ID_Medio_Crono": 6358,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo describe un ataque verbal a Juanma Moreno, ya que se difunden afirmaciones manipuladas y enga\u00f1osas sobre sus declaraciones y su situaci\u00f3n en las papeletas electorales, lo que constituye un ataque a su imagen y reputaci\u00f3n p\u00fablica.",
+        "type_of_attack": "Electoral",
+        "type_of_attack_reasoning": "El ataque se centra en desacreditar a Juanma Moreno en el contexto de las elecciones, sugiriendo que ha sido eliminado de las papeletas y manipulando sus declaraciones, lo que claramente busca influir en su desempe\u00f1o electoral."
+    },
+    {
+        "ID_Medio_Crono": 6360,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack; it focuses on debunking a false claim regarding access to a municipal swimming pool based on religion. There are no attacks against individuals or groups expressed in this text.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since the article describes no verbal attacks, the classification falls under 'Sin ataque' as it is more about correcting misinformation rather than engaging in any form of attack."
+    },
+    {
+        "ID_Medio_Crono": 6364,
+        "attack": "S\u00ed",
+        "attack_reasoning": "El art\u00edculo discute las afirmaciones realizadas por Vito Quiles respecto a las intenciones del PSOE de ilegalizar a Vox, lo que se puede considerar un ataque verbal, dado que se cuestiona la legitimidad de un partido pol\u00edtico y se utilizan t\u00e9rminos que podr\u00edan deslegitimar a la oposici\u00f3n pol\u00edtica.",
+        "type_of_attack": "Ideol\u00f3gico",
+        "type_of_attack_reasoning": "El ataque se enmarca en el \u00e1mbito ideol\u00f3gico, ya que se trata de desacreditar la posici\u00f3n pol\u00edtica de Vox al insinuar que sus posturas sobre la violencia y la participaci\u00f3n pol\u00edtica son inaceptables y en contradicci\u00f3n con la democracia, constituyendo un ataque al enfoque ideol\u00f3gico que representa Vox."
+    },
+    {
+        "ID_Medio_Crono": 6367,
+        "attack": "No",
+        "attack_reasoning": "The article does not describe a verbal attack but rather addresses and debunks misinformation regarding electoral results involving the PACMA party. It focuses on correcting false information rather than attacking any individual or group verbally.",
+        "type_of_attack": "Sin ataque",
+        "type_of_attack_reasoning": "Since there is no verbal attack present, the classification for type of attack is 'Sin ataque' which indicates that none of the specified types of attacks apply."
     }
 ]

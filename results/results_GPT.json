@@ -3,180 +3,240 @@
         "feat":"9. Protagonista",
         "test":"And22",
         "f1":0.1933369521,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.5322580645,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"9. Protagonista",
         "test":"Cat21",
         "f1":0.2665119246,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.4823529412,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"9. Protagonista",
         "test":"CyL22",
         "f1":0.3276504819,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.5434782609,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"9. Protagonista",
         "test":"Gal-Eus20",
         "f1":0.3008494031,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.487804878,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"9. Protagonista",
         "test":"Gen19",
         "f1":0.3136079085,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.5217391304,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"9. Protagonista",
         "test":"Mad21",
         "f1":0.2681733851,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.5243902439,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"11. Macro tema",
         "test":"And22",
-        "f1":0.8,
-        "clf":"gpt-4o-mini"
+        "f1":0.7733333333,
+        "accuracy":0.8235294118,
+        "clf":"gpt-4o-mini",
+        "completion":"55%"
     },
     {
         "feat":"11. Macro tema",
         "test":"Cat21",
         "f1":0.3678120617,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.725,
+        "clf":"gpt-4o-mini",
+        "completion":"47%"
     },
     {
         "feat":"11. Macro tema",
         "test":"CyL22",
-        "f1":0.0,
-        "clf":"gpt-4o-mini"
+        "f1":0.5252525253,
+        "accuracy":0.8,
+        "clf":"gpt-4o-mini",
+        "completion":"54%"
     },
     {
         "feat":"11. Macro tema",
         "test":"Gal-Eus20",
         "f1":0.5664160401,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.8235294118,
+        "clf":"gpt-4o-mini",
+        "completion":"41%"
     },
     {
         "feat":"11. Macro tema",
         "test":"Gen19",
         "f1":0.5466666667,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.756097561,
+        "clf":"gpt-4o-mini",
+        "completion":"45%"
     },
     {
         "feat":"11. Macro tema",
         "test":"Mad21",
         "f1":0.3882352941,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.64,
+        "clf":"gpt-4o-mini",
+        "completion":"30%"
     },
     {
         "feat":"12. Populismo",
         "test":"And22",
-        "f1":0.1428571429,
-        "clf":"gpt-4o-mini"
+        "f1":0.1304347826,
+        "accuracy":0.3529411765,
+        "clf":"gpt-4o-mini",
+        "completion":"55%"
     },
     {
         "feat":"12. Populismo",
         "test":"Cat21",
         "f1":0.1428571429,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.4,
+        "clf":"gpt-4o-mini",
+        "completion":"47%"
     },
     {
         "feat":"12. Populismo",
         "test":"CyL22",
-        "f1":1.0,
-        "clf":"gpt-4o-mini"
+        "f1":0.1764705882,
+        "accuracy":0.36,
+        "clf":"gpt-4o-mini",
+        "completion":"54%"
     },
     {
         "feat":"12. Populismo",
         "test":"Gal-Eus20",
         "f1":0.1851851852,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.5882352941,
+        "clf":"gpt-4o-mini",
+        "completion":"41%"
     },
     {
         "feat":"12. Populismo",
         "test":"Gen19",
         "f1":0.1132075472,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.2926829268,
+        "clf":"gpt-4o-mini",
+        "completion":"45%"
     },
     {
         "feat":"12. Populismo",
         "test":"Mad21",
         "f1":0.1428571429,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.4,
+        "clf":"gpt-4o-mini",
+        "completion":"30%"
     },
     {
         "feat":"13. Ataque",
         "test":"And22",
-        "f1":0.6376417234,
-        "clf":"gpt-4o-mini"
+        "f1":0.6129032258,
+        "accuracy":0.6129032258,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"13. Ataque",
         "test":"Cat21",
-        "f1":0.6802721088,
-        "clf":"gpt-4o-mini"
+        "f1":0.6209587514,
+        "accuracy":0.6235294118,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"13. Ataque",
         "test":"CyL22",
-        "f1":0.747826087,
-        "clf":"gpt-4o-mini"
+        "f1":0.5619047619,
+        "accuracy":0.5652173913,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"13. Ataque",
         "test":"Gal-Eus20",
-        "f1":0.6239316239,
-        "clf":"gpt-4o-mini"
+        "f1":0.5858585859,
+        "accuracy":0.6341463415,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"13. Ataque",
         "test":"Gen19",
         "f1":0.5977785655,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.597826087,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"13. Ataque",
         "test":"Mad21",
-        "f1":0.6568627451,
-        "clf":"gpt-4o-mini"
+        "f1":0.6340975535,
+        "accuracy":0.6463414634,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"14. Tipo de ataque",
         "test":"And22",
-        "f1":0.23945031,
-        "clf":"gpt-4o-mini"
+        "f1":0.3058115719,
+        "accuracy":0.5,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"14. Tipo de ataque",
         "test":"Cat21",
-        "f1":0.4428571429,
-        "clf":"gpt-4o-mini"
+        "f1":0.2519356535,
+        "accuracy":0.5176470588,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"14. Tipo de ataque",
         "test":"CyL22",
-        "f1":0.2117584932,
-        "clf":"gpt-4o-mini"
+        "f1":0.1389411028,
+        "accuracy":0.3695652174,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"14. Tipo de ataque",
         "test":"Gal-Eus20",
-        "f1":0.5641025641,
-        "clf":"gpt-4o-mini"
+        "f1":0.4248196248,
+        "accuracy":0.6097560976,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"14. Tipo de ataque",
         "test":"Gen19",
         "f1":0.1827206217,
-        "clf":"gpt-4o-mini"
+        "accuracy":0.4347826087,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     },
     {
         "feat":"14. Tipo de ataque",
         "test":"Mad21",
-        "f1":0.2868686869,
-        "clf":"gpt-4o-mini"
+        "f1":0.2517955326,
+        "accuracy":0.5487804878,
+        "clf":"gpt-4o-mini",
+        "completion":"100%"
     }
 ]

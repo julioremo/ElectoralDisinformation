@@ -845,5 +845,418 @@
         "theme_reasoning": "The article discusses a false claim made by a political figure regarding election results, which pertains directly to the political landscape and representation in Spain.",
         "populist_strategy": "Cr\u00edtica a las \u00e9lites",
         "populist_strategy_reasoning": "The article requires scrutiny of the statements made by a high-ranking member of the political elite (Teodoro Garc\u00eda Egea). It focuses on correcting misleading information from political leaders, which fits the strategy of critiquing the elite."
+    },
+    {
+        "ID_Medio_Crono": 672,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses statements made by a political candidate regarding the legality and obligations surrounding electoral debates, which is a political issue rather than a personal or campaign issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The focus on truthfulness and accountability of political statements implies a critique of established political figures and parties, positioning the candidate's claims against the backdrop of the broader political elite."
+    },
+    {
+        "ID_Medio_Crono": 671,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses statements made by a political figure regarding the issues concerning the management of the city, which is fundamentally a political issue impacting citizens' perceptions and concerns.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the statement made by Elsa Artadi, implying that there is a disconnect between political leaders and the concerns of the populace, thus reflecting a populist strategy that criticizes the elites' understanding of public issues."
+    },
+    {
+        "ID_Medio_Crono": 685,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a statement made by a political figure regarding the use of a specific legal mechanism (real decreto ley) by the government, which revolves around the actions of the current and former administrations. This aligns with political issues as it involves the evaluation of government actions and statements.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "Ana Pastor's statement critiques the actions of the current government (led by Pedro S\u00e1nchez) in comparison to the previous government (led by Mariano Rajoy), implying an elite manipulation of legislative processes. The language used suggests a direct attack against the current governing elite while presenting the opposition party as more favorable in their legislative actions."
+    },
+    {
+        "ID_Medio_Crono": 688,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily discusses the content of electoral programs related to key policy issues like housing and historical memory, and how these issues were addressed (or misrepresented) by a political figure during a campaign event.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "Isabel D\u00edaz Ayuso's statement criticizes the PSOE for focusing on historical memory at the expense of housing, indicating a strategy that positions her party and supporters against the established elite, which she implies ignores urgent concerns of the common people."
+    },
+    {
+        "ID_Medio_Crono": 674,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily deals with economic claims, specifically inflation rates in Hungary and Spain, which falls under the category of policy issues as it discusses a significant economic topic relevant to governance and policy debates.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the statements made by a representative of a populist party (VOX) regarding economic data, highlighting misinformation. This aligns with the 'Cr\u00edtica a las \u00e9lites' strategy, as it addresses and exposes the inaccuracies presented by a member of the political elite."
+    },
+    {
+        "ID_Medio_Crono": 678,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article revolves around a specific statement made during an electoral debate regarding the rate of children aged 0 to 3 years enrolled in public schools. This directly pertains to educational policy and data, making it relevant to policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques misleading statements made by a political candidate, which suggests a focus on challenging the narratives or claims put forth by political elites. This aligns with the populist strategy of criticizing the establishment and its representations."
+    },
+    {
+        "ID_Medio_Crono": 686,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on the political situation in Catalonia, specifically regarding the actions of political figures and their legal statuses concerning parliamentary issues. This encompasses the broader political implications and decisions made within the context of Catalonia's governance.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights the actions of political leaders and their relationship with the judiciary, which often plays into a narrative of criticism against political elites' decisions. The statements made by Oriol Junqueras about the different treatment of political figures reference a perceived injustice or inconsistency in elite behavior, aligning with a populist critique of those in power."
+    },
+    {
+        "ID_Medio_Crono": 679,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the investment comparisons made by government officials regarding Castilla y Le\u00f3n, evaluating the financial commitments of two different administrations, which relates primarily to policy matters regarding government expenditures and resource allocations.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The focus of the article is on criticizing the past administration of Mariano Rajoy in contrast to the current government led by Pedro S\u00e1nchez, highlighting discrepancies in investment claims. This aligns with a strategy of critiquing the elite or established leaders by contrasting their actions with those of the current leadership."
+    },
+    {
+        "ID_Medio_Crono": 687,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a political controversy involving a deputy's statements about his past collaboration with the party Bildu, and how these statements relate to ongoing political debates regarding labor reform. The focus is on political decisions and alliances, rather than a specific policy or personal issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights the inconsistency of Sergio Sayas's statements and his refusal to negotiate with Bildu, framing it as a matter of indignity. This suggests an underlying critique of political elites who engage in deals while publicly denouncing them, fitting the populist strategy of criticizing the political class."
+    },
+    {
+        "ID_Medio_Crono": 689,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the statements made by Laura Borr\u00e0s, the President of the Parliament of Catalonia, regarding the voting behavior of Pau Juvill\u00e0, which relates to the functioning and decisions within the political body of the Catalan Parliament. Thus, it fits under political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights misinformation or erroneous statements made by a high-ranking political figure (Laura Borr\u00e0s), challenging the credibility of elites in politics. This aligns with the strategy of criticizing elites, which is often employed in populist rhetoric."
+    },
+    {
+        "ID_Medio_Crono": 675,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on the policy related to educational abandonment rates in Spain, specifically analyzing statements made by Pedro S\u00e1nchez regarding the improvements in this area amid economic growth. This aligns well with the classification of 'Policy issues', which encompasses discussions about public policies and their effects.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "S\u00e1nchez's statements and the subsequent criticism reflect a critique of the political elite's narratives around economic growth and educational policy. The article emphasizes the discrepancy between the government's claims and the factual data, positioning S\u00e1nchez's narrative as potentially misleading, which fits the strategy of 'Cr\u00edtica a las \u00e9lites'."
+    },
+    {
+        "ID_Medio_Crono": 681,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the increase in housing prices in Castilla y Le\u00f3n, which is a specific policy-related issue tied to economic conditions and governance. The focus is on factual analysis regarding the state of housing prices and their implications for the population, fitting into the 'Policy issues' category.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the claim made by a political candidate about housing prices, countering it with factual data that calls into question the candidate's competence or ability to provide accurate information. This strategy aligns with 'Cr\u00edtica a las \u00e9lites', as it highlights inconsistencies in statements made by political figures, reflecting a common populist tactic of challenging establishment narratives."
+    },
+    {
+        "ID_Medio_Crono": 673,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the allocation of subsidies by the Barcelona City Council to social organizations like C\u00e1ritas and Cruz Roja, which pertains to political decisions regarding funding and aid, falling under policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The comments made by Mar\u00eda Luz Guilarte imply a critique of the city's governing authority (Ada Colau) and suggest favoritism in the administration's financial decisions, which aligns with a populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 677,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the demographic issue of depopulation in Castilla y Le\u00f3n, focusing on the political candidates' claims and the historical data related to population changes. This aligns with the theme of 'Policy issues' as it specifically addresses a significant concern faced by the region and the policies related to population management.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques Luis Tudanca's claims regarding the depopulation of Castilla y Le\u00f3n, suggesting that his position may be influenced by political motives aimed at criticizing the ruling Partido Popular (PP). This involves a form of populist strategy that targets political elites by holding them accountable for the demographic challenges the region faces."
+    },
+    {
+        "ID_Medio_Crono": 683,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on statements made by a political candidate, Francisco Igea, regarding migration trends in Castilla y Le\u00f3n during the election period. This aligns with political issues related to election campaigns and the claims made by politicians.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the statements of a political leader and highlights the context and historical data that contradicts the claims made. This reflects a strategy of criticizing the political elite's narratives by presenting factual discrepancies related to a public figure's assertions."
+    },
+    {
+        "ID_Medio_Crono": 690,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily addresses issues related to healthcare policy in rural Spain, specifically examining the claim made by the candidate regarding the closure of medical consultorios. This directly relates to policy decisions and their implications for public health services in rural areas.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the political statement made by Alfonso Fern\u00e1ndez Ma\u00f1ueco, highlighting discrepancies between his claims and the reality of healthcare access in rural regions. This aligns with the populist strategy of criticizing political elites for failing to fulfill promises that impact ordinary citizens."
+    },
+    {
+        "ID_Medio_Crono": 691,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the issues surrounding the ownership and funding of elderly care facilities in Castilla y Le\u00f3n, focusing on the implications of political statements made during the electoral campaign regarding the privatization of these services. This aligns closely with policy issues as it examines the structure and funding of public services.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights a political candidate's assertion that there has been profit-making in the care of the elderly, which criticizes the alleged exploitation by private entities at the expense of a vulnerable population. This reflects a populist strategy aimed at drawing attention to the actions and decisions of elites in the context of public welfare."
+    },
+    {
+        "ID_Medio_Crono": 692,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on the public health policy related to the availability of healthcare services in Monumenta, highlighting the discrepancies in the candidate's claims about ongoing medical assistance versus the actual situation of the closed consultory and lack of medical professionals.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The candidate's assertion is criticized by contrasting it with the reality faced by local residents and the governor's accountability. This reflects a populist strategy of criticizing political elites who misrepresent the situation and fail to provide adequate public services."
+    },
+    {
+        "ID_Medio_Crono": 684,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses financial allocations and budgetary details concerning agricultural compensation in the context of wolf attacks, which firmly places it within the realm of policy issues related to environmental management and agricultural support.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article showcases a statement made by a political candidate that critiques government budget allocations, contrasting a relatively minor amount for wolf damage compensation against a much larger budget for a ministry focused on equality. This reflects a common populist strategy of criticizing government priorities and alleged misallocation of resources, which is central to the theme of 'cr\u00edtica a las \u00e9lites'."
+    },
+    {
+        "ID_Medio_Crono": 676,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily discusses a policy issue related to nutritional labeling standards (NutriScore) and the statements made by political figures regarding the health assessments of cheese in Spain. It focuses on verifying the claims made by Pablo Casado about Minister Alberto Garz\u00f3n's alleged statements, which are directly tied to policy surrounding food labeling and health standards.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "Pablo Casado's comments can be seen as an attack on the political elite, particularly targeting Minister Garz\u00f3n and the government's handling of food labeling. By emphasizing what he perceives as a damaging statement by a government official, he positions himself in opposition to the elite (in this case, the government and its ministers), which is a common populist strategy."
+    },
+    {
+        "ID_Medio_Crono": 680,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on the recent labor reform in Spain, discussing specific changes to labor contracts, particularly within the construction sector, which are indicative of policy changes and implications for labor laws. This clearly categorizes it within policy issues rather than more general political, campaign, or personal issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights criticisms from the PP, particularly targeting government actions and policies regarding labor contracts. This aligns with a populist strategy of criticizing elites by implying that the government is enacting reforms that may not consider the broader implications for working-class individuals and specific sectors, thus situating it within a critical stance towards those in power."
+    },
+    {
+        "ID_Medio_Crono": 682,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily revolves around the system of payments (cotizaci\u00f3n) for autonomous workers in Spain and France, explaining the differences in their structures and how they are calculated. This falls under 'Policy issues' as it discusses the implications of social security and payment regulations for different countries, which is a significant political topic.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the statement made by Teodoro Garc\u00eda Egea, Secretary General of the Popular Party, suggesting that his comparison is misleading and serves a political purpose that simplifies complex issues. This act of highlighting inaccuracies in elite political statements can be framed as a critical approach towards political elites, fitting the strategy of 'Cr\u00edtica a las \u00e9lites'."
+    },
+    {
+        "ID_Medio_Crono": 693,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily addresses a specific aspect of labor reform related to the assertion made by Edmundo Bal regarding the agreement among social agents, focusing on the historical context of labor reforms. This categorizes the theme as 'Policy issues' since it revolves around the implications of political decisions related to labor legislation.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misleading statements of a political figure, indicating an underlying tension with political elites. By highlighting misinformation and providing expert testimony, the piece embodies the populist strategy of critiquing elites for misrepresentation or failure, which is common in political discourse that seeks to establish a connection with the general populace."
+    },
+    {
+        "ID_Medio_Crono": 1708,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a false claim concerning the economic impact of Pedro S\u00e1nchez's government, which is primarily focused on accusations made against a political figure. This places it squarely within the realm of political issues rather than specific policy or campaign issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses a false narrative that suggests Brussels (a representation of European elite institutions) is criticizing Pedro S\u00e1nchez, indicating an underlying theme of elite criticism. This aligns with the populist strategy of criticizing elites, as the false claim essentially seeks to undermine S\u00e1nchez's leadership by associating it with disapproval from established institutions."
+    },
+    {
+        "ID_Medio_Crono": 780,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article examines the claims made by a political figure regarding investment in public infrastructure in the Comunidad de Madrid, focusing on the accurate attribution of funding sources for specific projects. This clearly falls within the realm of policy issues, particularly regarding government investment and budget allocations.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights how the statements made by a government official could be misleading or false, which implies a critique of the elites (in this case, the political leaders and their claims). The discourse often emphasizes accountability and transparency in governance, suggesting that those in power may not be accurately representing their contributions to public welfare."
+    },
+    {
+        "ID_Medio_Crono": 792,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on the statement made by Alberto N\u00fa\u00f1ez Feij\u00f3o regarding the risk premium in Spain, which is a specific economic and financial matter. This falls under 'Policy issues' as it pertains to economic policy and fiscal matters.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "Alberto N\u00fa\u00f1ez Feij\u00f3o's assertion about the risk premium serves as a critique of the current government's handling of economic affairs, portraying it as ineffective or misleading. This aligns with the populist strategy of criticizing elites, particularly in relation to governmental financial management."
+    },
+    {
+        "ID_Medio_Crono": 794,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily discusses specific claims made by the Partido Popular (PP) regarding the economic performance of exports in Andaluc\u00eda. It fact-checks these claims, focusing on policy-related information about economic growth and statistics that are relevant to government performance, making it a clear fit under policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article reveals misleading claims made by the PP, which can be interpreted as an attack on political opponents (specifically, the PSOE) and their governance record. By exposing inaccuracies in the PP's narrative, it aligns with a populist strategy that criticizes political elites and their purported failures."
+    },
+    {
+        "ID_Medio_Crono": 800,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the accuracy of a political statement regarding the approval of budgets in Catalonia, focusing on the specifics of government finance and public policy procedures. This aligns with 'Policy issues' as it deals with governmental financial practices rather than broader political or campaign-related topics.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques a political figure's misleading statement about the budget process, which reflects a common populist strategy of challenging the elite or established political narratives by fact-checking and exposing inaccuracies, thereby promoting accountability against perceived elite misinformation."
+    },
+    {
+        "ID_Medio_Crono": 793,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses statements made by a political figure, J\u00e9ssica Albiach, in relation to actions taken (or not taken) regarding the reprobation of the Education Minister in the Catalan Parliament. It involves the dynamics within the political parties and their actions in parliament, making it primarily a political issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights tensions between political parties, particularly the criticism directed at the PSC for allegedly protecting the Education Minister. This suggests an underlying narrative of critique against established political elites for their actions, fitting within the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 798,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily discusses a specific claim made by Pere Aragon\u00e8s regarding the educational budget in Catalonia, which falls under policy issues as it relates to government spending on education and its implications.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the statements made by a political leader, pointing out misleading aspects of his claim; this aligns with a populist strategy that challenges the credibility and statements of political elites, showcasing a discrepancy between their claims and reality."
+    },
+    {
+        "ID_Medio_Crono": 1150,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses claims made by a political candidate regarding a controversial educational program in Andalusia, which falls under the realm of political discourse and party positioning, particularly related to electoral debates.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The candidate's statements involve criticizing the actions of established political figures (the heads of the Junta and the PP), which is a common populist strategy to position themselves against the elite and highlight perceived failings in governance."
+    },
+    {
+        "ID_Medio_Crono": 779,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses an assertion made by a political figure regarding unemployment rates in specific neighborhoods during the COVID-19 pandemic, which falls under the category of policy issues as it relates to socio-economic factors and public policy context.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article fact-checks a claim made by Jaume Collboni, a high-ranking official, critiquing his misleading statement about unemployment rates, which exemplifies a populist strategy that seeks to hold elites accountable for their statements and actions."
+    },
+    {
+        "ID_Medio_Crono": 789,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on a controversy during the electoral campaign in Andaluc\u00eda, particularly regarding claims made by the candidate Macarena Olona related to education and the content of school textbooks, which are integral to political discourses in an election context.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "Macarena Olona criticizes the current government and its handling of educational materials, pointing to alleged negligence in allowing a controversial book to circulate, which aligns with a typical populist strategy of criticizing the elites or the established political class."
+    },
+    {
+        "ID_Medio_Crono": 802,
+        "theme": "Political issues",
+        "theme_reasoning": "The article revolves around a political statement made by Cuca Gamarra of the Partido Popular, specifically regarding her incorrect claim about the identity of the first female mayor in Spain, which raises issues of historical accuracy in politics.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misinformation propagated by a political elite (Cuca Gamarra and the Partido Popular) regarding the historical context of female mayors in Spain, reflecting a common populist strategy of attacking perceived elitism or false narratives spread by political figures."
+    },
+    {
+        "ID_Medio_Crono": 803,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily addresses a specific claim made by a politician regarding the allocation of European funds to Catalonia, which involves intricate details about public budget planning and economic resource distribution. Therefore, it falls into the category of 'Policy issues'.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques a statement made by a government official, Nadia Calvi\u00f1o, which involves questioning the accuracy and potential exaggeration of governmental promises related to funding. This critique aligns more closely with the strategy of 'Cr\u00edtica a las \u00e9lites', as it highlights discrepancies in information provided by government officials."
+    },
+    {
+        "ID_Medio_Crono": 795,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily discusses the claims made by Inma Nieto regarding the statistics of gender violence in Andaluc\u00eda, which falls under policy issues as it relates to government data and social policy concerning violence against women.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The scrutiny of political statements made by Inma Nieto suggests a critical stance towards the political elite's handling of sensitive issues. The focus on the inaccuracy in her claims reflects a challenge to the authority of established political narratives."
+    },
+    {
+        "ID_Medio_Crono": 787,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses primarily on the issue of youth unemployment in Andaluc\u00eda, which is a specific policy concern that impacts economic and social conditions in the region. It discusses statistics related to this issue, making it a clear case of policy issues being analyzed.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The statement made by Macarena Olona appears to be a criticism of the current situation and the government's handling of unemployment among youth, positioning her party as a voice against the establishment that has failed to address this pressing issue. This aligns with the populist strategy of criticizing elites who are perceived as not addressing the needs of the common people."
+    },
+    {
+        "ID_Medio_Crono": 783,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses specific claims made by Juanma Moreno regarding the population growth in Andaluc\u00eda and links it to his government's tax policies. This analysis falls under 'Policy issues' as it assesses the impact of governmental policies on demographic changes and examines the veracity of claims made about these policies.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques Juanma Moreno\u2019s assertion that his policies led to population growth, which indirectly points to previous administrations (specifically the PSOE) as failing in this regard. By framing the situation in a way that contrasts the current government\u2019s achievements with the shortcomings of the opposition, it employs a strategy that criticizes the elites associated with the prior administration."
+    },
+    {
+        "ID_Medio_Crono": 785,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses a public policy issue related to urban mobility and transportation, specifically addressing the validity of statements made by a political figure regarding bicycle use in cities. This positions the article firmly within the realm of policy issues, as it involves the implementation and impact of transportation policies.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques a statement made by Jaume Collboni, who holds a significant political position. This critique highlights a disconnect between political statements and empirical evidence, a common feature of populist rhetoric that targets elite figures and their assertions. By disproving Collboni's claim, the article aligns itself with a populist strategy that challenges the credibility of political elites."
+    },
+    {
+        "ID_Medio_Crono": 781,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the handling of legislative processes in the Spanish government, specifically focusing on the number and processing of royal decree laws. It analyzes the claims made by Alberto N\u00fa\u00f1ez Feij\u00f3o in relation to these policies, thereby centering on a significant issue concerning governmental practices and legislation.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The focus of the article is on the criticism made by the leader of the PP against the government's legislative practices, which can be seen as a direct critique of political elites' handling of laws and governance. This aligns with the populist strategy of attacking the elite's authority and practices."
+    },
+    {
+        "ID_Medio_Crono": 797,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the political context of the electoral debate in Andalusia, specifically addressing claims of corruption related to a political candidate and her potential legal implications. This aligns with political issues as it focuses on the actions and statements of political figures within a political framework, particularly in the context of an election.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The focus of the article is on a political figure (Inmaculada Nieto) making allegations against another (Carmen Crespo), which can be seen as a criticism of the political elite. The discussion of corruption and accusations implies a challenge to the status quo and accountability of those in power, fitting the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 790,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily discusses the investment in public healthcare in Andalusia, which falls under policy issues as it focuses on the governance and management of public resources in this sector.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The candidate Teresa Rodr\u00edguez critiques the current administration's management of healthcare funding, implying mismanagement and lack of attention to the public's needs, characteristic of a populist strategy that positions political elites as responsible for public grievances."
+    },
+    {
+        "ID_Medio_Crono": 796,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the investment in healthcare per capita in Andaluc\u00eda, highlighting issues concerning public spending and budgeting in the context of healthcare policy, which fits well under policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the previous government (PSOE) for its long-term neglect regarding healthcare spending, suggesting that the current criticism from PSOE targets political elites and their past policies, aligning with the strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 801,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the veracity of a claim made by a political candidate regarding healthcare expenditure in Andaluc\u00eda. This directly relates to public policy and governance, classifying it under policy issues, which is the most prominent theme.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article involves a critical analysis of former and current government officials' management of healthcare spending. The candidate's statements are framed within a context that critiques the established political elites, making this a clear example of 'Cr\u00edtica a las \u00e9lites' as a populist strategy."
+    },
+    {
+        "ID_Medio_Crono": 784,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the electoral program of the PSOE in relation to the economic performance of the industry in Andaluc\u00eda, focusing on an analysis of economic data and industry statistics. This makes it primarily a policy issue, as it is concerned with the claims made in a political context during an election.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The PSOE's criticism of the current government led by Juanma Moreno (Popular Party) reflects a populist strategy aimed at undermining the establishment by claiming that their economic statements are misleading. This aligns with the strategy of criticizing elites, as it positions the PSOE against the perceived failures of the current ruling party's governance."
+    },
+    {
+        "ID_Medio_Crono": 799,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article critically analyzes the candidate Macarena Olona's statements regarding economic and industrial policies in Andaluc\u00eda, focusing on the issue of company relocations and local economic impacts, which are direct policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights how Olona's claims about companies relocating internationally play into a narrative that blames existing governmental or elite structures for perceived economic failures, which is a common populist strategy to rally support by criticizing recognized authorities."
+    },
+    {
+        "ID_Medio_Crono": 788,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily discusses the political statement made by Juanma Moreno, a candidate for the presidency of Andalusia, regarding the number of terrorism victims from ETA in the region. This falls under political issues as it involves the individual's claims impacting the political landscape during the election.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "Juanma Moreno's assertion about victims of ETA appears to be a strategy to critique the PSOE for their alleged ties with Bildu and to frame the political narrative in a way that could be seen as scapegoating or criticizing the establishment and its handling of terrorism-related issues. This aligns with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 782,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on the employment statistics in Andaluc\u00eda, specifically regarding the percentage of female employment compared to the national average. This discussion of employment data and government policy measures relates closely to policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the statements made by Juanma Moreno, the president of Andaluc\u00eda, suggesting that his claims are misleading. This reflects a critical stance toward political elites and their proclamations, which aligns with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 786,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on employment data and the validity of claims made by the PSOE regarding job losses in Andaluc\u00eda, making it primarily concerned with policy-related facts about employment rather than on general political or campaign-related themes.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The analysis critiques the PSOE's claims about employment, which can be seen as a challenge to the party's credibility and elite status within the political discourse. This is indicative of a strategy often employed in populist rhetoric, where elites are questioned and their narratives are dismantled."
+    },
+    {
+        "ID_Medio_Crono": 791,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on a political claim regarding the number of self-employed persons in Andaluc\u00eda compared to Catalu\u00f1a, which directly pertains to policy issues related to employment and regional statistics.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The claim made by Juan Mar\u00edn can be seen as a criticism of regional comparisons that may reflect broader political narratives, which often involve challenging the status quo or elite interpretations of regional data\u2014this aligns with the populist strategy of critiquing elites."
+    },
+    {
+        "ID_Medio_Crono": 485,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses economic data related to job creation and business formation in two regions of Spain, Catalunya and Andaluc\u00eda. This relates directly to policy issues surrounding economic performance and regional development.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article fact-checks a political claim made by the president of the Partido Popular de Catalunya, which could be seen as criticizing political elites who make exaggerated or false statements to sway public opinion. The focus on unpacking this claim positions the narrative against a political elite that may misrepresent facts."
+    },
+    {
+        "ID_Medio_Crono": 6373,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a controversial political issue surrounding the interpretation of a scientific study on gender perspectives in disaster response and its funding by the government. The focus is on the dissemination and political implications of information related to the study, as well as its association with various political parties, particularly in the context of the current government and its predecessors.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques how some media outlets and social media participants distort facts regarding government spending and the implications of the study on gender and disasters. It reveals a narrative that links the study's funding to political elites with an undertone of distrust towards the government and established institutions, which is a characteristic of populist criticism of the elite."
+    },
+    {
+        "ID_Medio_Crono": 6330,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a false claim regarding the Spanish government's announcement about financial aid to Nigeria, which relates to government decisions and actions in a political context.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters a misinformation narrative that suggests elites (in this case, the Spanish government) are misusing public funds, highlighting the falsely claimed context of 'our taxes' being used to send a large sum to Nigeria."
+    },
+    {
+        "ID_Medio_Crono": 37,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the misinterpretation of an international legal decision related to independence movements, specifically focusing on the political context surrounding claims for independence, particularly in regards to Catalonia. This aligns well with the theme of political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The discussion involves the misuse of legal interpretations by political figures and the media, highlighting how these elites manipulate information and legal rulings to support their agendas. This criticism of elites aligns with the populist strategy of critiquing those in power."
+    },
+    {
+        "ID_Medio_Crono": 38,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily addresses issues related to the claims made about Carmen Calvo, a political figure, and challenges the veracity of statements regarding her legal status and participation in political activities. This relates to the broader context of political discourse and accountability.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article mentions judicial accusations and decisions involving a political elite member, Carmen Calvo, which suggests a critique of established political figures. The focus is on discrediting her alleged legal troubles and influencing public perception, typical of a populist approach that targets perceived elite corruption."
+    },
+    {
+        "ID_Medio_Crono": 51,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the issue of disinformation that can influence public perception and political discourse. It discusses how false messages relating to a criminal incident have spread on social media, which falls under the category of political issues as it pertains to the manipulation of information in the political context.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article emphasizes the role of independent journalists and their efforts to combat misinformation, implicitly critiquing the media and other elites that may propagate false narratives. By positioning itself against the spread of misinformation often perpetuated by established sources, it aligns with the populist strategy of criticizing the elites."
+    },
+    {
+        "ID_Medio_Crono": 52,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the financial allocations and distribution of salaries and bonuses within the Royal House, which pertains to the political structure and handling of public funds in Spain. This falls under the realm of political matters since it involves state governance and the accountability of public institutions.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critically examines the financial practices of the Royal House, implying a critique of the elite class that the monarchy represents. By highlighting the substantial bonuses and the opaque nature of the financial reporting, it suggests a disconnect between the monarchy's financial management and public interest, fitting the populist strategy of criticizing the elites."
+    },
+    {
+        "ID_Medio_Crono": 54,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses the current state of COVID-19 measures and potential lockdowns in Catalunya, focusing on the governmental response to the pandemic, making it a clear policy issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article includes mentions of government measures and statements from political leaders, which can be critiqued as a response to public fears and misinformation. This aligns with the populist strategy of criticizing elites, in this case, how governmental and elite responses are managed in the context of public health."
+    },
+    {
+        "ID_Medio_Crono": 149,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily addresses the policy decisions regarding the closure of the hospitality sector as a measure to control the spread of COVID-19. It discusses scientific evidence related to contagion risks in bars and restaurants, positioning the issue within the framework of public health policy.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article presents sentiments and arguments from individuals in the hospitality industry, who are critical of government officials' decisions impacting their businesses. This reflects a common populist strategy of opposing elite decisions that are perceived to harm the general populace, particularly illustrating the frustration towards government authorities during the pandemic."
     }
 ]
