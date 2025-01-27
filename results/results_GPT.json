@@ -50,98 +50,98 @@
     {
         "feat":"11. Macro tema",
         "test":"And22",
-        "f1":0.7733333333,
-        "accuracy":0.8235294118,
+        "f1":0.5345695971,
+        "accuracy":0.6612903226,
         "clf":"gpt-4o-mini",
-        "completion":"55%"
+        "completion":"100%"
     },
     {
         "feat":"11. Macro tema",
         "test":"Cat21",
-        "f1":0.3678120617,
-        "accuracy":0.725,
+        "f1":0.3994380049,
+        "accuracy":0.5529411765,
         "clf":"gpt-4o-mini",
-        "completion":"47%"
+        "completion":"100%"
     },
     {
         "feat":"11. Macro tema",
         "test":"CyL22",
-        "f1":0.5252525253,
-        "accuracy":0.8,
+        "f1":0.328525641,
+        "accuracy":0.6304347826,
         "clf":"gpt-4o-mini",
-        "completion":"54%"
+        "completion":"100%"
     },
     {
         "feat":"11. Macro tema",
         "test":"Gal-Eus20",
-        "f1":0.5664160401,
-        "accuracy":0.8235294118,
+        "f1":0.3095744681,
+        "accuracy":0.5853658537,
         "clf":"gpt-4o-mini",
-        "completion":"41%"
+        "completion":"100%"
     },
     {
         "feat":"11. Macro tema",
         "test":"Gen19",
-        "f1":0.5466666667,
-        "accuracy":0.756097561,
+        "f1":0.4792261905,
+        "accuracy":0.5869565217,
         "clf":"gpt-4o-mini",
-        "completion":"45%"
+        "completion":"100%"
     },
     {
         "feat":"11. Macro tema",
         "test":"Mad21",
-        "f1":0.3882352941,
-        "accuracy":0.64,
+        "f1":0.2952333403,
+        "accuracy":0.4634146341,
         "clf":"gpt-4o-mini",
-        "completion":"30%"
+        "completion":"100%"
     },
     {
         "feat":"12. Populismo",
         "test":"And22",
-        "f1":0.1304347826,
-        "accuracy":0.3529411765,
+        "f1":0.1593406593,
+        "accuracy":0.4677419355,
         "clf":"gpt-4o-mini",
-        "completion":"55%"
+        "completion":"100%"
     },
     {
         "feat":"12. Populismo",
         "test":"Cat21",
-        "f1":0.1428571429,
-        "accuracy":0.4,
+        "f1":0.1755725191,
+        "accuracy":0.5411764706,
         "clf":"gpt-4o-mini",
-        "completion":"47%"
+        "completion":"100%"
     },
     {
         "feat":"12. Populismo",
         "test":"CyL22",
-        "f1":0.1764705882,
-        "accuracy":0.36,
+        "f1":0.1515151515,
+        "accuracy":0.4347826087,
         "clf":"gpt-4o-mini",
-        "completion":"54%"
+        "completion":"100%"
     },
     {
         "feat":"12. Populismo",
         "test":"Gal-Eus20",
-        "f1":0.1851851852,
-        "accuracy":0.5882352941,
+        "f1":0.1693548387,
+        "accuracy":0.512195122,
         "clf":"gpt-4o-mini",
-        "completion":"41%"
+        "completion":"100%"
     },
     {
         "feat":"12. Populismo",
         "test":"Gen19",
-        "f1":0.1132075472,
-        "accuracy":0.2926829268,
+        "f1":0.1592592593,
+        "accuracy":0.4673913043,
         "clf":"gpt-4o-mini",
-        "completion":"45%"
+        "completion":"100%"
     },
     {
         "feat":"12. Populismo",
         "test":"Mad21",
-        "f1":0.1428571429,
-        "accuracy":0.4,
+        "f1":0.1893939394,
+        "accuracy":0.6097560976,
         "clf":"gpt-4o-mini",
-        "completion":"30%"
+        "completion":"100%"
     },
     {
         "feat":"13. Ataque",

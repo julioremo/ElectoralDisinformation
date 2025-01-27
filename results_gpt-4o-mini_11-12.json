@@ -1258,5 +1258,1545 @@
         "theme_reasoning": "The article primarily addresses the policy decisions regarding the closure of the hospitality sector as a measure to control the spread of COVID-19. It discusses scientific evidence related to contagion risks in bars and restaurants, positioning the issue within the framework of public health policy.",
         "populist_strategy": "Cr\u00edtica a las \u00e9lites",
         "populist_strategy_reasoning": "The article presents sentiments and arguments from individuals in the hospitality industry, who are critical of government officials' decisions impacting their businesses. This reflects a common populist strategy of opposing elite decisions that are perceived to harm the general populace, particularly illustrating the frustration towards government authorities during the pandemic."
+    },
+    {
+        "ID_Medio_Crono": 150,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a political issue related to misinformation and the implications of foreign military presence (specifically concerning Morocco's military aircraft and its supposed incursions into Spanish airspace), which falls under the domain of political discourse.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of false information that can provoke fear and mistrust among the populace regarding government and elite authorities, including Spain's management of security and military affairs related to Morocco."
+    },
+    {
+        "ID_Medio_Crono": 164,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses claims surrounding the saturation of hospitals during the pandemic and counters these claims with factual data and expert opinions. This is primarily a political issue as it relates to the governance of public health and the management of the pandemic response, particularly in how information is communicated and perceived in the public sphere.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses a narrative that suggests a disconnect between the information provided by authorities (the elites) and the claims made by individuals that challenge this information. The spread of misleading information about hospital capacity can be seen as a critique of the elite's management of the crisis and their authority in conveying the truth about public health."
+    },
+    {
+        "ID_Medio_Crono": 208,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily addresses the allocation of the Ministry of Equality's budget and the factual inaccuracies surrounding the publication of a sexual health guide. It focuses on policy-related matters, particularly concerning education and equality.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article discusses a derogatory portrayal of the Minister of Equality in social media, linking misinformation to criticisms of the political elite. This reflects a populist strategy that targets political leaders and established institutions."
+    },
+    {
+        "ID_Medio_Crono": 217,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily discusses the misleading health information regarding vaccine side effects and compares various medical risks, indicating that it deals with policy issues related to public health and misinformation management.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article criticizes the use of misleading statistics and information likely perpetuated by authoritative figures or institutions, fitting the populist strategy of critiquing elites for spreading false information and highlighting the need for transparency in public health communications."
+    },
+    {
+        "ID_Medio_Crono": 382,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily discusses false claims regarding public financial aid for rental assistance and the conditions under which it is provided, which falls under policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article responds to a virally shared disinformation piece that portrays the government as favoring foreigners over citizens, a common narrative used in populist discourse to critique elite governance and promote division."
+    },
+    {
+        "ID_Medio_Crono": 393,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation regarding the connections between Santiago Abascal and the infamous 'B\u00e1rcenas papers,' which involves the political context of corruption and accountability in the Partido Popular and VOX party narratives. This makes it a matter of political issues rather than mere campaigning or personal issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The focus of the article is on the misleading claims that connect Abascal to corruption, which reflects a populist strategy by highlighting the behavior of political elites (in this case, the Partido Popular) and how they are scrutinized. This aligns with the populist tactic of criticizing elite behavior to mobilize support against establishment parties."
+    },
+    {
+        "ID_Medio_Crono": 395,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a political demonstration by ultra-Orthodox Jews in Israel against a specific military draft law, which pertains to political action and governmental policies affecting a specific group of citizens.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses a conflict between ultra-Orthodox Jews and state authorities over military obligations, indicating a critique of elite governmental decisions that impact the community, fitting the strategy of criticizing the elites."
+    },
+    {
+        "ID_Medio_Crono": 399,
+        "theme": "Political issues",
+        "theme_reasoning": "The article deals with a dispute involving the Catalan government and the Spanish royal family, specifically regarding a public event and the symbolism associated with Catalonia's political climate. As it addresses actions and statements from political figures concerning the broader political context, it fits well within the 'Political issues' category.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights accusations against the Casa Real (Royal House) related to the suppression of a political symbol (the yellow ribbon). This narrative challenges the actions of an elite institution in Spain, making it an instance of 'Cr\u00edtica a las \u00e9lites', where the focus is on criticizing the ruling powers over perceived manipulations or misrepresentations."
+    },
+    {
+        "ID_Medio_Crono": 400,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a specific claim related to the electoral law and its implications for political parties, particularly focusing on the status of Vox during the electoral campaign. It deals with political regulations and processes, fitting into the 'Political issues' category.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the government's actions (specifically mentioning Pedro S\u00e1nchez) regarding the management of electoral regulations that affect Vox, implying a narrative of elite manipulation against this party. This aligns with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 402,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on the false claims regarding the government's plans to share personal data, which falls under the category of policy issues related to data privacy and governmental actions.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques misleading statements that attribute false declarations to the government, which can be seen as a criticism of elite manipulation of information and its effects on public perception."
+    },
+    {
+        "ID_Medio_Crono": 406,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation related to the treatment of immigrants and refugees, which is a significant and contentious political issue in Spain, especially related to immigration policies and humanitarian responses.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the dissemination of misleading information by political figures, highlighting how such narratives are harmful and possibly manipulative, aligning with a populist strategy that criticizes elites who spread falsehoods or exploit vulnerable groups."
+    },
+    {
+        "ID_Medio_Crono": 407,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation related to a political situation involving civil guards and a political group (CDR) in the context of ongoing protests. This falls under political issues as it discusses the implications of misinformation in the political landscape.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights a false narrative that frames the situation in a way that seems to blame a specific political group (CDR), which can be interpreted as a critique of \u00e9lites (represented by the CDR) manipulating information for their advantage. This aligns with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 423,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses theoretical electoral outcomes and the parliamentary representation of different parties, which is a central aspect of political analysis and debate.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article indirectly critiques the effectiveness of political parties and their strategies in the face of electoral results, suggesting underlying issues with the current political elite's inability to consolidate voting power."
+    },
+    {
+        "ID_Medio_Crono": 470,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the politicized interpretation of a symbol (the LGTBI flag) in relation to current geopolitical events (the invasion of Ukraine), highlighting the intersection of LGBTQ+ rights and international politics.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article criticizes the reaction of high-profile individuals (including a congresswoman) who shared a false representation of the flag, reflecting a broader theme of critique against elites for misinforming the public on social issues."
+    },
+    {
+        "ID_Medio_Crono": 482,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the misleading correlation between the number of sexual assaults and the population of unaccompanied minors, which is a topic tied to broader political debates in Spain regarding immigration and security, making it a political issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the implications made by some political groups, specifically Vox, that link crime to foreigners, reflecting a common populist strategy that critiques elites and political narratives that shape public perception of immigration and safety."
+    },
+    {
+        "ID_Medio_Crono": 487,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the political implications of a motion passed by the Claustro of the Universitat Pompeu Fabra regarding the use of languages within the university. It touches on institutional decisions and the political environment surrounding language use in Catalonia, which are inherently political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article illustrates a narrative where the decision made by the UPF's Claustro is framed as controversial and potentially elitist by some politicians and media outlets. The backlash around the motion and the language politics involved, especially in the context of Catalan versus Spanish, reflects a populist strategy of criticizing perceived elitism in institutional decisions."
+    },
+    {
+        "ID_Medio_Crono": 851,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a public health controversy regarding the use of face masks during the COVID-19 pandemic, which is inherently political due to the implications for public policy and government recommendations.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The content critiques the interpretation and claims made by individuals in authority (the medical experts referenced) regarding the safety of masks, reflecting a populist theme that questions the credibility of elites in handling public concerns."
+    },
+    {
+        "ID_Medio_Crono": 917,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily discusses the failure of the Spanish government to meet its vaccination goals amidst the COVID-19 pandemic, which is a substantial policy issue related to public health and governmental response to a crisis.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the government, specifically President Pedro S\u00e1nchez and his promises regarding vaccination benchmarks, which aligns with a populist strategy of criticizing elites in power for their unfulfilled commitments and oversight in a public health crisis."
+    },
+    {
+        "ID_Medio_Crono": 1127,
+        "theme": "Political issues",
+        "theme_reasoning": "The article revolves around the allegations concerning voting by mail and its implications for the upcoming elections in Catalonia. This discussion relates directly to political dynamics and processes surrounding electoral integrity, making it a political issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses claims that voting by mail facilitates electoral fraud, which is a critical accusation against established electoral authorities and institutions. By challenging the credibility of these elites (the electoral authorities and the political establishment), the content resonates with a populist critique of the elites."
+    },
+    {
+        "ID_Medio_Crono": 1131,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the political controversy surrounding the removal of electoral posters in Barcelona, specifically analyzing the actions of the municipal government and the response from various political parties, particularly concerning the electoral context in Catalonia.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights the criticisms aimed at the municipal government by the Junts per Catalunya party regarding the perceived unfairness in the enforcement of regulations about electoral advertising, suggesting a narrative of opposition against established authorities (the municipal elites) which is a common feature of populist rhetoric."
+    },
+    {
+        "ID_Medio_Crono": 1134,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a political context involving public perception and misinformation around crime, particularly related to immigration and the portrayal of specific groups (in this case, unaccompanied minors) in the media, which are key aspects of political discourse.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article\u2019s focus on debunking misinformation linked to alleged crimes by specific groups aligns with a strategy that criticizes the elites for their handling of immigration and public safety narratives, highlighting populist sentiments against perceived establishment narratives regarding law and order."
+    },
+    {
+        "ID_Medio_Crono": 1136,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the political context of Laura Borr\u00e0s, a leader of the Junts party, and focuses on her stance regarding the closure of the Centro de Internamiento de Extranjeros (CIE) during an election campaign in Catalonia. This involves the political implications of her actions and statements, making it appropriate to classify under 'Political issues'.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article discusses the manipulation of information related to a political figure and her criticism of an institution (CIE) that is characterized as violating human rights. This aligns with the populist strategy of criticizing elites, in this case, the governmental authorities managing the CIE, thus calling for the institution's closure reflects a challenge to established powers."
+    },
+    {
+        "ID_Medio_Crono": 1233,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on verifying and debunking false claims regarding a public figure (Pedro S\u00e1nchez) and an event involving international relations (a dinner with the Guatemalan president), which falls under political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses a viral misinformation that portrays a leader (Pedro S\u00e1nchez) in a negative light, suggesting privilege or irresponsibility. This aligns with the populist strategy of criticizing elites, as it implicates political leaders in misleading behaviors."
+    },
+    {
+        "ID_Medio_Crono": 1235,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on the political implications and actions related to COVID-19 measures and the legal rulings surrounding them in various countries, especially in Germany and the Netherlands. It discusses claims linked to government policies, rights, and public health regulations, which fits squarely within the realm of political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses conspiracy theories and misinformation that position government actions and health measures as violations of human rights, essentially criticizing the authorities and elites responsible for these policies. This mirrors a populist strategy of critiquing elite decision-making and governance during the pandemic."
+    },
+    {
+        "ID_Medio_Crono": 1236,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily addresses the issue of COVID-19 regulations and measures in the Comunidad Valenciana, focusing on the verification and clarification of public health policies which aligns with policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misinformation propagated regarding government measures, which reflects a critical stance towards elite sources of information, like the government officials or agencies that may not communicate effectively, and serves to empower the public through verified information."
+    },
+    {
+        "ID_Medio_Crono": 1238,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses political threats directed towards Pablo Iglesias, a notable political figure in Spain, and addresses misinformation related to him and the role of Correos in the electoral process. These aspects reflect broader political concerns and the interaction between political entities and the public.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights misinformation which can be seen as a critique of institutional handling (like that of Correos) and the political elite's response to threats and lies. This aligns well with populist themes that often position ordinary people against established elites."
+    },
+    {
+        "ID_Medio_Crono": 1242,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a false claim attributed to the political party Vox, concerning statements they allegedly made about two murdered journalists. This situation is inherently political as it involves the responsibilities and discourse of a political party regarding sensitive events and public sentiment.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights how Vox is portrayed as blaming journalists and associated political figures, using a narrative that plays into populist sentiments by criticizing elites and suggesting that those who defend certain ideologies or people are ultimately responsible for their own fates. This aligns with the populist strategy of criticizing established elites."
+    },
+    {
+        "ID_Medio_Crono": 1245,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the new legislation regarding the Registro Civil and addresses misinformation related to the privatization of the service, which directly pertains to public policy and its implications.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The false claims about privatization suggest a narrative that criticizes perceived elite decisions that could negatively impact the public. The emphasis on the supposed interests of civil servants to protect the public from costs they are currently avoiding aligns with a populist critique of elites."
+    },
+    {
+        "ID_Medio_Crono": 1248,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the safety and regulation of masks and vaccines, addressing false claims and misinformation surrounding these health policies during the COVID-19 pandemic. This aligns more closely with policy issues, as it centers on health regulations and public safety measures.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misinformation that comes from certain elite opinions or unverified sources regarding masks and vaccines. By fact-checking and debunking these claims, it implies a defense of public health measures against elite narratives that spread falsehoods."
+    },
+    {
+        "ID_Medio_Crono": 1698,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a viral claim that contrasts the aid of Catholic social food banks against others categorized as 'socialcommunist', 'LGTBIQ+', 'Islamic', and 'feminist'. This involves political themes as it pertains to social services and community aid distribution, and highlights ideological divisions.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misleading representation of different social organizations providing assistance, which can be seen as a criticism of elite narratives that dismiss non-Catholic aid as invalid or non-existent. This aligns with a populist strategy that seeks to challenge dominant narratives by emphasizing class and social identity conflicts."
+    },
+    {
+        "ID_Medio_Crono": 1700,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses the misinformation surrounding the efficacy of COVID-19 antigen tests, which is a critical aspect of public health policy and safety measures during the pandemic. Fact-checking such claims is vital for informed public health decision-making.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the unfounded claims circulating on social media, which often emanate from populist narratives that challenge established scientific and medical expertise. It underscores the need for trust in expert knowledge against misleading information promoted by those outside the scientific community."
+    },
+    {
+        "ID_Medio_Crono": 1713,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the dissemination of false information about violent incidents in Madrid and the governmental response to these issues, which aligns closely with political and public safety matters.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The focus on discrediting false narratives and panic surrounding the government's handling of violence implies a critique of the elite narratives or media portrayals that fuel public fear, which resonates with populist strategies."
+    },
+    {
+        "ID_Medio_Crono": 1907,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on the political implications of a misinformation incident involving Roc\u00edo Monasterio, a prominent figure in the Vox party. It highlights how false images can impact political perception and discourse, which fits best under political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses a manipulation of information that targets a political figure, which reflects a critique of the actions and narratives propagated by elites or opposing political groups. This aligns with the populist strategy of criticizing elites, particularly in the context of social media misinformation."
+    },
+    {
+        "ID_Medio_Crono": 1908,
+        "theme": "Political issues",
+        "theme_reasoning": "The article deals primarily with the misinformation related to the Guardia Civil, its director, and the implications of changing uniforms, which reflect broader political and institutional matters concerning law enforcement and government operations.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article responds to a sensational claim that criticizes the actions of the elite, in this case, the leadership of the Guardia Civil, which suggests a disconnect between the governing body and public perception, fitting the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 1911,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses a specific misinformation related to immigration policy and statements regarding nationality, which falls under policy issues as it pertains to government practices and legislation.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of misinformation that targets a government official and reflects a broader narrative against elite institutions and media manipulation, which is characteristic of populist rhetoric."
+    },
+    {
+        "ID_Medio_Crono": 1914,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses a false phishing email related to tax refunds, which pertains to issues regarding tax policy and the security measures taken by tax authorities to protect citizens from fraud.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights the threat posed by fraudsters impersonating an official agency (the Agencia Tributaria), thereby criticizing the issues related to elite organizations not adequately protecting the public from such scams."
+    },
+    {
+        "ID_Medio_Crono": 1920,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a deceptive image related to a political candidate, Juan Manuel Moreno Bonilla, and the implications of such imagery in the context of the elections in Andaluc\u00eda. This falls under political issues as it concerns the representation and framing of political figures during an electoral process.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights a false narrative that implicates political figures with controversial symbols, thus critiquing the elite\u2019s connection to historical ideologies like Francoism. By exposing the falsehood, it challenges the credibility of the elite (in this case, the PP and its candidates) and promotes a discourse against the representation of political elites in negative lights."
+    },
+    {
+        "ID_Medio_Crono": 1922,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on a political figure and her campaign in the context of the upcoming elections. It addresses the implications of rumors and misinformation surrounding Teresa Rodr\u00edguez, which are directly linked to her political position and candidacy.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of disinformation which seems to aim at undermining the credibility of Teresa Rodr\u00edguez and her party, suggesting that there are forces (elites) attempting to manipulate public perception through falsehoods during an election campaign."
+    },
+    {
+        "ID_Medio_Crono": 1927,
+        "theme": "Political issues",
+        "theme_reasoning": "The article deals with misinformation linked to a political discourse regarding 'MENAs' (minor foreign unaccompanied) and how this narrative is misleadingly presented in social media, thus touching on political implications and debates surrounding immigration policies.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article references claims made by social media users who are criticizing politicians, including Teresa Rodr\u00edguez, suggesting a populist strategy that targets political elites and their narratives regarding immigration, particularly the portrayal of 'MENAs.'"
+    },
+    {
+        "ID_Medio_Crono": 1929,
+        "theme": "Personal issues",
+        "theme_reasoning": "The article focuses on the dissemination of manipulated images of Santiago Abascal, addressing a personal issue related to his public image and the integrity of images shared on social media.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The content critiques the use of manipulated images, which can be seen as a response to elite media narratives or tactics that seek to undermine Abascal's character. This reflects a populist strategy by challenging how the political elite portrays public figures."
+    },
+    {
+        "ID_Medio_Crono": 1931,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily addresses the political implications and misinformation surrounding Juan Espadas, a candidate for the presidency of the Junta de Andaluc\u00eda, in the context of elections. This links directly to the political climate in Andaluc\u00eda, thus it fits best under 'Political issues'.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article discusses claims that reflect attempts to undermine Juan Espadas by associating him with past corruption scandals, leveraging the public's distrust towards political elites. Thus, it reflects a populist strategy that criticizes the elite, making it align best with 'Cr\u00edtica a las \u00e9lites'."
+    },
+    {
+        "ID_Medio_Crono": 1932,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily addresses issues related to climate change and the propagation of misinformation regarding temperature maps in Spain, which falls under the category of policy issues as it discusses implications for climate policy and public understanding of environmental science.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the dissemination of misleading information about climate change, implicitly targeting those who manipulate facts for their own purposes, which reflects a populist strategy that criticizes elites or authorities who may be spreading falsehoods about climate science."
+    },
+    {
+        "ID_Medio_Crono": 1987,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses specific claims regarding financial aid discrepancies between minors of foreign origin and Spanish citizens, focusing on the factual accuracy of welfare distribution policies. This aligns it with policy issues rather than general political or campaign-oriented concerns.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters misinformation that may be used to create a narrative of elites favoring certain groups over others, implying that there is unfair treatment or allocation of resources. This critiques the misconceptions that often perpetuate tensions between different societal groups."
+    },
+    {
+        "ID_Medio_Crono": 1991,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses the issue of electoral participation and the misrepresentation of voting figures in the context of a specific election, making it a clear example of policy issues that affect the electoral process.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article refutes a claim that suggests manipulation or deceit by those in power regarding election results. By debunking this 'pucherazo' narrative, it implicitly criticizes elite narratives that undermine public confidence in democratic processes."
+    },
+    {
+        "ID_Medio_Crono": 1993,
+        "theme": "Personal issues",
+        "theme_reasoning": "The article discusses a satirical claim about Jos\u00e9 Mar\u00eda Aznar's personal experiences and alleged conversations with God. This content focuses on an individual's narrative rather than broader political or policy themes, making it a matter of personal issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the distorted representation of a public figure's (Aznar's) statements, likely resonating with a populist sentiment that questions the integrity of elites and public figures. By debunking a misleading narrative about a former president, it aligns with a strategy that challenges elite authority and misinformation."
+    },
+    {
+        "ID_Medio_Crono": 1995,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses misinformation regarding health advisories from the Ministry of Health about the use of ibuprofen, making it clear that the information circulating about age and cardiovascular risks is incorrect. This relates to policy issues around health guidance and medication use.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article criticizes the spread of misinformation possibly propagated by those in positions of authority or influence, as represented by the initial false claims about the health advisory from the Ministry of Health. This aligns with the populist strategy of denouncing the elite for misleading the public."
+    },
+    {
+        "ID_Medio_Crono": 2003,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on a political figure, Pablo Casado, and addresses a potentially damaging statement attributed to him regarding social assistance and poverty. This aligns with political issues as it involves a critique of political commentary and public perception of policy.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the allegations made against Pablo Casado, who represents a political elite, suggesting that the statement about working parents and state aid could lead to populist sentiments against established politicians. Therefore, it fits the framework of criticizing the elites."
+    },
+    {
+        "ID_Medio_Crono": 2004,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on the misinformation regarding voter registration and the implications of immigration on electoral processes, which are central to political discussions and debates in Spain.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a narrative that suggests manipulation of electoral processes by elites, specifically targeting the misrepresentation of immigration statistics and their impact on voting, which aligns with a common populist critique of elite manipulation."
+    },
+    {
+        "ID_Medio_Crono": 2006,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the spread of misinformation regarding a political figure, Roger Torrent, and clarifies a false statement attributed to him. This situation is deeply rooted in political discourse and concerns the integrity of political communication.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters a harmful rumor that seeks to undermine the credibility of a political leader. By debunking this false narrative, it defends the political elite against disparaging misinformation that can skew public perception."
+    },
+    {
+        "ID_Medio_Crono": 2009,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on the announcement and potential establishment of a National Data Institute, which involves policy decisions regarding data management and governance by the government. This fits into the category of Policy issues as it deals with government policy and initiatives rather than just political maneuvering or personal matters.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the dissemination of unverified and potentially misleading information regarding government initiatives, highlighting the discrepancies between media claims and the actual governmental position. This aligns with the populist strategy of critiquing elites, as it seeks to expose how elite media narratives can misrepresent reality and calls into question the integrity of those sources."
+    },
+    {
+        "ID_Medio_Crono": 2012,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a resolution from the European Parliament regarding the historical assessment of totalitarian regimes and the implications for Spain, focusing on the political context of recognition and commemoration of such figures in public spaces.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters a misleading narrative that suggests a top-down imposition by a European institution on Spanish politics, implicitly addressing populist sentiments against perceived external elites imposing their values on national matters."
+    },
+    {
+        "ID_Medio_Crono": 2013,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation related to the current Spanish president, Pedro S\u00e1nchez, specifically regarding a fraudulent investment scheme that misuses his name. This falls under political issues as it involves the public perception and reputation of a political figure.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article criticizes deceptive practices that exploit public trust in political figures and celebrity endorsements for financial gain. This aligns with the populist strategy of critiquing elites who deceive the public, as the fraudster uses a high-profile figure's image to manipulate individuals."
+    },
+    {
+        "ID_Medio_Crono": 2015,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the dissemination of false information regarding crime statistics and immigration, which are critical topics in the realm of political discourse. It highlights how the manipulation of data can affect public perception and policy dialogues, aligning it closely with political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the use of misleading statistics by media outlets and political groups that may manipulate public opinion against immigrants. This reflects a populist strategy that emphasizes criticism of elites (in this case, media and political narratives) who may be seen as distorting realities for their own agenda."
+    },
+    {
+        "ID_Medio_Crono": 2016,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a statement attributed to political figures Pablo Iglesias and Pablo Casado, focusing on the misinformation surrounding their alleged comments. This relates to issues of political discourse and public perception in politics.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights and debunks a false statement attributed to political elites, implying a criticism of how political narratives can be misrepresented or manipulated by those in power. This aligns with the populist strategy of critiquing elites."
+    },
+    {
+        "ID_Medio_Crono": 2017,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the actions of law enforcement (Mossos d'Esquadra) during a political rally involving a high-profile political figure, Pedro S\u00e1nchez. It addresses the context and implications of these actions in relation to political events, which aligns with 'Political issues'.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article mentions the situation where a person was removed from a political event, and the framing of the incident as involving 'secuestradores espa\u00f1oles' (Spanish kidnappers) suggests an attempt to portray the actions of the authorities as oppressive. This resonates with the populist strategy of criticizing elite power dynamics, which is characterized by a rhetoric that questions the legitimacy and actions of the established political order."
+    },
+    {
+        "ID_Medio_Crono": 2018,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses misinformation related to the Spanish royal family and addresses a rumor about the actions of the Casa Real, which pertains to the political landscape due to its connection to national representation and government.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article criticizes the perceived manipulation by the Casa Real and the media, reflecting a common populist strategy of challenging the actions of elite institutions, highlighting a disconnect between the elites and the general public."
+    },
+    {
+        "ID_Medio_Crono": 2021,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a controversy involving the Royal House of Spain and the allegations made by various political parties regarding manipulated photographs, which is a matter of political significance.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The focus on the Royal House, a representation of the established elite in Spanish society, and the assertions that they engaged in manipulative behavior suggest a populist critique of the elites."
+    },
+    {
+        "ID_Medio_Crono": 2024,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a controversy around statements attributed to a political figure, In\u00e9s Arrimadas. It clarifies her position regarding respect for the office of the 'jefe de Estado' and disproves the claims made about her comments in relation to other countries, which falls under the realm of political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of misinformation that could be perceived as undermining the political elite and institutions represented by In\u00e9s Arrimadas. It emphasizes the importance of accurate representations of political figures, indirectly positioning the accountability of elites against the public's understanding."
+    },
+    {
+        "ID_Medio_Crono": 2025,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the spread of misinformation regarding Amancio Ortega's alleged comments about taxation and public figures, which relates to broader issues about public perception and political discourse regarding wealth, taxation, and accountability.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The focus on accusations against Ortega regarding tax payments speaks to a criticism of wealthy elites and their accountability, reflecting populist sentiments regarding economic disparities and elite privilege."
+    },
+    {
+        "ID_Medio_Crono": 2028,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses a specific legal issue regarding electoral laws and regulations, clarifying the situation surrounding the access to electoral census data and the legality of sending propaganda, which fall under policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters misinformation that suggests that certain political parties (like Vox) are being unfairly treated due to changes in the law allegedly made by the political elite (Pedro S\u00e1nchez), highlighting a theme of criticizing the supposed manipulation by elites to favor established parties over new ones."
+    },
+    {
+        "ID_Medio_Crono": 2029,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily discusses the implications of a voting strategy among right-wing parties in the context of Senate elections in Spain. This relates to the political dynamics and strategies that could affect electoral outcomes, which are inherently political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the political strategies that may favor the PSOE over right-wing parties and highlights how voting for multiple parties could undermine the PSOE's power. This can be interpreted as a critique of the current political elites, especially the ruling party, which fits within the populist strategy of challenging established political structures."
+    },
+    {
+        "ID_Medio_Crono": 2031,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the misinformation regarding healthcare access for immigrants in Spain, specifically addressing policies related to medication costs based on nationality and income. This focus relates to broader policy issues surrounding immigration and healthcare.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters a popular misconception that portrays immigrants as privileged within the healthcare system, suggesting that such narratives stem from elite perspectives rather than factual realities. This alludes to a critique of elites who perpetuate misconceptions about social services and immigrants."
+    },
+    {
+        "ID_Medio_Crono": 2032,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a specific political concern related to the validity of electoral ballots, clarifying misinformation regarding the electoral process. As it focuses on the implications for voting and electoral rules, it fits within political issues rather than policy or campaign issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of misinformation often propagated by unverified sources, such as WhatsApp chains. This aligns with a populist strategy of criticizing elites or established power structures who may be seen as failing to adequately inform the public, directly connecting to the notion of accountability regarding electoral integrity."
+    },
+    {
+        "ID_Medio_Crono": 2033,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses claims regarding statements made by the owner of a company that reflect broader political tensions in Spain, particularly concerning Catalan identity and the perception of Spaniards. Such discussions often intertwine with political narratives about regionalism and identity in Spain, which categorizes it under political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques unverified claims about a business leader's statements that allegedly belittle Spaniards and favor other regional identities, reflecting a populist strategy that targets elite figures in the business sphere for their perceived role in regional disparities and tensions."
+    },
+    {
+        "ID_Medio_Crono": 2034,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the legal framework governing the voting process by mail in Spain, clarifying misconceptions about voter identification requirements. This pertains to policy issues, particularly electoral law.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The piece addresses a narrative circulating on social media that accuses the electoral process and institutions of potential fraud or malpractice, suggesting that this is a deliberate act by elites. By debunking this myth, the article critiques the elite's manipulation of information related to democratic processes."
+    },
+    {
+        "ID_Medio_Crono": 2042,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a specific false claim regarding a journalist's statements about the political situation in Catalonia, which is a significant political issue in Spain. The focus on the authenticity of the statement and its implications places it under the category of Political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spreading of misinformation and positions itself against what it implies are elite figures (politicians and influential personalities) perpetuating falsehoods. This criticism aligns with the populist strategy that targets elites for creating or allowing the rumors to circulate."
+    },
+    {
+        "ID_Medio_Crono": 2047,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses a false alert related to the safety regulation of medications, specifically concerning fenilpropanolamina. It examines the implications of public health policy as it pertains to medication safety and the dissemination of misinformation.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the failure to adequately inform the public about health risks and the pharmaceutical industry, hinting at a distrust of authorities and elites that may downplay such risks. It reflects a sentiment often found in populist discourse that challenges established institutions."
+    },
+    {
+        "ID_Medio_Crono": 2048,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a false statement attributed to a political figure, Roc\u00edo Monasterio, and the implications of misinformation in the political sphere. It highlights issues related to public discourse and the credibility of political statements, which are central to political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article engages in a critique of the way political figures create narratives and the misinformation spread through social media, implying a critique of the elites who disseminate falsehoods or allow such misinformation to proliferate. This aligns with the populist strategy of criticizing elite behavior."
+    },
+    {
+        "ID_Medio_Crono": 2049,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the political implications of a government decree regarding digital administration and Internet governance, focusing on its relationship with the current government's powers and actions, which corresponds to political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques misinformation propagated by an individual who positions the government's actions as an attack on freedom, which aligns with populist strategies that involve criticizing elite narratives or actions. This framing suggests a dichotomy between the elite (government) and the common people (the public affected by decrees), thus fitting the classification of 'Cr\u00edtica a las \u00e9lites'."
+    },
+    {
+        "ID_Medio_Crono": 2050,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a misinformation campaign that incorrectly links violent incidents in Chile to Spain's political context, specifically mentioning the Catalan independence movement and the role of the Civil Guard. This suggests a focus on political implications rather than specific policy or campaign issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "By highlighting how misinformation is spread regarding violent acts involving the state security forces (guardias civiles), the article critiques the manipulation of information that can serve elite narratives or political agendas, indirectly appealing to the public\u2019s distrust of elite-driven narratives."
+    },
+    {
+        "ID_Medio_Crono": 2054,
+        "theme": "Political issues",
+        "theme_reasoning": "The article analyzes misinformation regarding voting rights and the electoral process in Spain, which are inherently political topics. It addresses a specific misleading claim related to the voting capabilities of Moroccan citizens in the context of Spanish elections, making it relevant to political discourse.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article seems to implicitly criticize the use of misinformation by elites or influential figures (in this case, the voice in the audio) to manipulate public perception and behavior regarding the political process, which is a common tactic in populist discourse aimed at discrediting established power structures."
+    },
+    {
+        "ID_Medio_Crono": 2055,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the dissemination of a false text attributed to Arturo P\u00e9rez-Reverte that criticizes multiple governments, focusing on the political consequences of misinformation. This falls under the category of political issues as it addresses the relationship between politicians and society, particularly in terms of accountability and governance.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The text attacks various political elites for their perceived incompetence and corruption, criticizing the privileges and mismanagement of politicians. This aligns with the populist strategy of critiquing elites, as it emphasizes a divide between the ordinary citizens and those in power."
+    },
+    {
+        "ID_Medio_Crono": 2059,
+        "theme": "Campaign issues",
+        "theme_reasoning": "The article focuses on the legality and implications of a specific campaign tactic employed by the Partido Popular (PP) during an electoral period, discussing the sending of an SMS to solicit votes for Pablo Casado. This directly relates to actions and strategies taken by a political party in the context of an election campaign.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article hints at a critical view of the practices used by the PP in leveraging data marketing for electoral advantage, which aligns with a populist strategy of critiquing established political elites for their methods and transparency. This is reflected in the commentary on the legality and ethical concerns surrounding the purchase of data and the solicitation of votes."
+    },
+    {
+        "ID_Medio_Crono": 2067,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the implications of voting rights and election procedures for security forces, thus addressing matters directly related to the political process and electoral participation, classifying it under political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The content references a claim regarding the manipulation of votes by higher authorities (implied by the reference to Vox), suggesting distrust towards elite institutions managing electoral processes, which aligns with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 2071,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the misinformation surrounding incidents involving minors and education in Spain, linking it to broader socio-political discussions about immigration and public perception. Thus, it falls under political issues rather than policy, campaign, or personal issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters a narrative that portrays a specific view of immigrants and education, which is often propagated by particular political elites. By debunking the misinformation and clarifying the source, it critiques the manipulation of these narratives by certain factions in society."
+    },
+    {
+        "ID_Medio_Crono": 2072,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily addresses claims related to the integrity and administration of the electoral process in Spain, specifically focusing on the election oversight and potential manipulation claims about Pedro S\u00e1nchez. This falls under political issues as it discusses the technicalities of how elections and oversight bodies function within the political system.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article functions as a counter-narrative to populist claims that suggest an elite conspiracy involving Pedro S\u00e1nchez manipulating electoral processes and institutions. By debunking these claims, the article criticizes the rhetoric used by those alleging elite control over the electoral system."
+    },
+    {
+        "ID_Medio_Crono": 2073,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the political controversy surrounding the manifesto 'Vox y las Ciencias Sociales' and focuses on the alleged false signatures and the manipulation of data related to a political party, which falls under political issues rather than purely policy or campaign issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article discusses the reaction from academics and social scientists against the political party Vox, implying a criticism of the political elite and their actions. This aligns with the populist strategy of critiquing elites for purported misrepresentation and manipulation."
+    },
+    {
+        "ID_Medio_Crono": 2076,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the misleading claims surrounding the political campaign tactics employed by the Partido Popular (PP) and the allegations made against them regarding data privacy and electoral influence. This falls clearly under political issues as it involves the actions and operations of political parties and their implications.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights a narrative that frames the Partido Popular's actions as corrupt and manipulative, suggesting involvement with elite figures such as George Soros. This critical perspective on the elite and the assertion of wrongdoing reflects the populist strategy of criticizing elites, which attempts to resonate with the public's distrust of those in power."
+    },
+    {
+        "ID_Medio_Crono": 2089,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a specific misconception related to the counting of votes regarding a particular electoral context in Catalonia, which pertains to the broader realm of electoral law and political processes, thus categorizing it under political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article responds to a misinformation that may cater to populist narratives surrounding authority figures like the police and government institutions. By debunking the myth around the voting of these security forces, it indirectly critiques the potential exploitation of this narrative by populist movements to question the integrity of electoral and governmental systems."
+    },
+    {
+        "ID_Medio_Crono": 2090,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the public concern surrounding election processes and the allegations of electoral fraud, which are significant political issues. It clarifies the role of Indra in the electoral process and emphasizes the importance of transparency in political elections, thus falling under the category of political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters the narrative of a manipulated electoral process that often emerges from claims by certain populist movements, implicitly criticizing those who perpetuate such conspiracies. By providing factual information about how votes are counted and refuting the misleading claims about Indra's involvement, it challenges the elite narrative that tends to discredit the electoral system."
+    },
+    {
+        "ID_Medio_Crono": 2093,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a claim regarding alleged electoral fraud related to the counting of postal votes versus in-person votes, which is fundamentally connected to political processes and election integrity.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The claim in the viral video suggests that there is a fraudulent manipulation by political elites (specifically naming Pedro S\u00e1nchez), implying a criticism of the establishment and suggesting that the political elite is engaging in unscrupulous behavior to alter election outcomes."
+    },
+    {
+        "ID_Medio_Crono": 2094,
+        "theme": "Political issues",
+        "theme_reasoning": "The article debunks a claim regarding alleged fraud in voting processes related to the CERA (Censo Electoral de los Residentes Ausentes), which is a matter of political concern and trust in electoral integrity.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques misleading narratives that could be propagated by political elites or media, framing the understanding of electoral laws in a manner that seeks to undermine confidence in the system, thus directly addressing elitism in political discourse."
+    },
+    {
+        "ID_Medio_Crono": 2099,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily addresses claims related to electoral integrity and allegations of electoral fraud involving the PSOE party, which are central to political matters during the election period.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article discusses allegations made against the PSOE and the context of election fraud claims, reflecting a critical perspective towards established political authorities and the integrity of the electoral process."
+    },
+    {
+        "ID_Medio_Crono": 3490,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses the specifics of tax distribution in Spain, particularly the allocation of the VAT (IVA) among various autonomous communities. This focus on fiscal policy and taxation methods falls under the category of policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a narrative that suggests corruption or mismanagement by the government of Madrid regarding tax revenues. By clarifying the truth behind the claims made, it indirectly critiques the elites who propagate misinformation about fiscal policies, aligning with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 3498,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on an incident involving a politician from the Vox party and the surrounding public reactions, which highlight tensions related to a political event. The verification of the authenticity of the politician's injury and the reaction from various parties, including Vox, falls under electoral and political dynamics rather than specific policy or campaign strategies.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "Throughout the article, Vox's narrative of victimhood and the challenge it poses to perceived elites (i.e., other political entities and media that question their claims) directly reflects a populist strategy criticizing the elites. Vox is portrayed as being attacked by opposition forces, framing the incident in a way that positions them against a larger, elitist narrative."
+    },
+    {
+        "ID_Medio_Crono": 3503,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses claims related to government actions and decisions, specifically regarding the celebration of the LGTBI Pride event during the coronavirus pandemic. This involvement of government policy surrounding public gatherings places the article within the political issues theme.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misinformation spread by a media outlet about government permissions, positioning the government as responsible and contrasting it with the misleading narratives from 'Mediterr\u00e1neo Digital.' This highlights a criticism of elite media sources, aligning with the populist strategy of critiquing the elites."
+    },
+    {
+        "ID_Medio_Crono": 3504,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a manipulated image associated with a royal visit, and provides clarification about the political implications of misrepresenting such events. This falls under political issues as it addresses concerns regarding the portrayal of the monarchy and public sentiment.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misleading representation used to potentially discredit or mock elite figures, namely the monarchy, by showcasing fake imagery. This aligns well with populist strategies that criticize elites by addressing misinformation aimed at them."
+    },
+    {
+        "ID_Medio_Crono": 3508,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the acquisition of a vehicle for the royal family, focusing on the transparency and accountability of state spending, and how this relates to governance and public perception, which are key elements of political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights a controversial aspect of state expenditure involving the royal family, which can be perceived as a critique of how elites manage public funds, fitting into the populist strategy of criticizing the elite."
+    },
+    {
+        "ID_Medio_Crono": 3509,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the spread of misinformation regarding a political and social symbol (the statue of Alexander Fleming) in the context of Spanish society's ongoing debates around statues and public figures, which ties it to broader political discussions.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misrepresentation and management of public narratives, which can be seen as a response to elite-driven media practices, calling attention to how misinformation is used to manipulate public perception and the actions of authorities."
+    },
+    {
+        "ID_Medio_Crono": 3517,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses the issue of misinformation related to immigrants and the Ingreso M\u00ednimo Vital (IMV), which directly pertains to social welfare policy and its misconceptions. This fits well within the theme of Policy issues as it revolves around the implications of policy on immigrant communities and how it is represented in public discourse.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks claims that use outdated images to suggest wrongdoing by immigrants in relation to the Ingreso M\u00ednimo Vital. This reflects a critique of the elites responsible for disseminating misinformation, possibly to stir xenophobic sentiments against immigrants and manipulate public perception. Thus, it aligns with the populist strategy of critiquing elites who spread such narratives."
+    },
+    {
+        "ID_Medio_Crono": 3519,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily revolves around misinformation related to the Ingreso M\u00ednimo Vital and its association with immigration, which reflects broader political concerns regarding immigration policy and welfare systems in Spain. This aligns best with 'Political issues' as it touches on policies affecting immigrant communities and social assistance programs.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights the dissemination of false information by certain groups aimed at manipulating public opinion against immigrants and welfare programs, which can be seen as a critique of elite narratives that use misinformation to promote division and fear among the populace. This aligns with the 'Cr\u00edtica a las \u00e9lites' populist strategy."
+    },
+    {
+        "ID_Medio_Crono": 3520,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on the claims and statements made by Isabel D\u00edaz Ayuso, a political figure, regarding the management of COVID-19 in Madrid. It investigates the political implications of her alleged comments about blaming medical professionals for the situation, which relates directly to political accountability and public perception of leadership during a crisis.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses the accusations aimed at a political leader, which reflects a common populist strategy of criticizing elites, particularly in the context of how they handle crises. It scrutinizes the alleged statements attributed to Ayuso, positioning her as someone who may be shifting blame away from herself, which aligns with a populist narrative of challenging established political figures."
+    },
+    {
+        "ID_Medio_Crono": 3521,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a viral image related to a public event involving the Spanish royals, which fits into the broader context of political issues, particularly concerning public perception and representation of the monarchy.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a viral image that disrespects the monarchy, thereby engaging in a critique of the elite (in this case, the royal family) and the misinformation spread about them, a common populist strategy."
+    },
+    {
+        "ID_Medio_Crono": 3525,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the spread of misinformation related to immigrants and health, which ties into broader political issues surrounding immigration policy and public health response during a crisis.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The text emphasizes the role of authorities (government and local officials) in correcting misinformation, which implies a critique of the sources of such misinformation and highlights a tension between elite institutions and the public perception created by the misinformation."
+    },
+    {
+        "ID_Medio_Crono": 3535,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a specific event in the context of political discourse and actions involving various political figures and their responses to a public act, which pertains to the broader theme of political issues rather than specific policies or campaigns.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights how certain politicians are being criticized for their perceived disrespect towards victims of terrorism, which reflects a strategy often used in populist rhetoric to position certain political groups as elite detractors who fail to honor the public sentiment or the collective memory of the population."
+    },
+    {
+        "ID_Medio_Crono": 3537,
+        "theme": "Political issues",
+        "theme_reasoning": "The article is focused on debunking a political claim that involves separatist sentiments in the context of an image misrepresentation. This suggests it falls under political issues rather than policy, campaign, or personal issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The debunked claim uses the image to mock and criticize individuals associated with separatist ideologies, reflecting a common populist strategy of criticizing elites or groups perceived as out of touch with the majority."
+    },
+    {
+        "ID_Medio_Crono": 3538,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation that relates to social behaviors and public health during a political crisis (the pandemic). It critiques the spreading of false narratives about societal issues, particularly during a politically charged time.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article points to the manipulation of information by certain individuals or groups, which reflects a critique of elites who might exploit situations for their agendas. This aligns with the populist strategy of criticizing elites for creating or perpetuating misinformation."
+    },
+    {
+        "ID_Medio_Crono": 3541,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the political implications of a video showing Pedro S\u00e1nchez's travel, indicating it is relevant to political discourse, particularly around his campaign activities and government conduct. It focuses on the intersection between video evidence and political narratives.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses accusations regarding S\u00e1nchez's travel costs and the perception of governmental excess, highlighting a critical stance towards the political elite\u2019s behavior. The surrounding narrative suggests a dissatisfaction with how politicians are perceived to utilize public resources."
+    },
+    {
+        "ID_Medio_Crono": 3544,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily addresses the spread of misinformation concerning a specific incident related to a coronavirus outbreak and its implications for immigrant communities. It discusses claims made about the situation in a neighborhood and the responses from local authorities, indicating a political context where public health, immigration, and government accountability intersect.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The misinformation mentioned in the article points to a narrative that blames the authorities (the government and the media) for allegedly covering up the truth regarding the outbreak. This invokes a criticism of elites and their handling of the issue, which aligns with a common populist strategy that positions the common people against perceived elite actions or inactions."
+    },
+    {
+        "ID_Medio_Crono": 3546,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a false email purportedly from the Guardia Civil, which relates to a governmental authority and public trust in governmental communications. It highlights important issues regarding state security and public interactions with governmental organizations, thus classifying it as a political issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article serves to criticize how misinformation can undermine public trust in government institutions, suggesting an elite (in this case, the perpetrators of the misinformation) is deceiving or harming the populace. This reflects a populist strategy of criticizing the elite responsible for spreading misinformation."
+    },
+    {
+        "ID_Medio_Crono": 3549,
+        "theme": "Personal issues",
+        "theme_reasoning": "The article primarily addresses a personal issue related to Bego\u00f1a G\u00f3mez, wife of the Prime Minister Pedro S\u00e1nchez, by debunking rumors about her alleged presence at the Palacio de las Marismillas.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misinformation and negative narratives surrounding public figures, highlighting the contrast between the claims made against them and the truth. This reflects a populist strategy of criticizing elites or those in power through the lens of debunking unsubstantiated claims."
+    },
+    {
+        "ID_Medio_Crono": 3555,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a false claim regarding a statement made by a political figure (S\u00e1nchez) related to tax policy and immigration, making it primarily a political issue involving misinformation and public perception of government actions.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a misleading claim, implying a critique of elite media or political manipulation, which aligns with a populist strategy that often targets misinformation spread by perceived elites."
+    },
+    {
+        "ID_Medio_Crono": 3558,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a misleading image that is used to attack feminists, touching on the broader social and political debate surrounding gender issues and feminism. Hence, it aligns best with political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the manipulation of information by elites (in this case, those who perpetuate false narratives against feminists) through the use of a fabricated image, thus aligning with a populist strategy that focuses on criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 4313,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the impact of a misleading image involving political figures, Javier Ortega Smith and Iv\u00e1n Redondo, highlighting the implications of misinformation in the political landscape. Therefore, it falls under political issues rather than policy, campaign, or personal issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article illustrates a critique of perceived alliances between political elites from different parties (PSOE and Vox), emphasizing the suspicion and division in political narratives. This aligns with the populist strategy of criticizing the elites, as it discusses the misrepresentation between powerful political figures."
+    },
+    {
+        "ID_Medio_Crono": 4317,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily discusses a misinformation campaign regarding the COVID-19 vaccination priorities, which falls under political issues as it relates to government health policies and the response to public health crises.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The misinformation highlights a perceived prioritization of migrants over native citizens in the vaccination process, which reflects a critique of governmental and political elites who are accused of making decisions that favor specific groups, thereby stirring public sentiment against those in power."
+    },
+    {
+        "ID_Medio_Crono": 4320,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses the issue of eligibility for the Renta M\u00ednima de Inserci\u00f3n in Madrid, clarifying misconceptions about who can receive this financial aid, which is primarily a matter of policy.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counteracts a misinformation narrative that blames a specific group (MENA) for perceived economic benefits. By highlighting policies and government confirmation, it implicitly critiques those spreading false information, which can often be associated with elite narratives that manipulate public perception."
+    },
+    {
+        "ID_Medio_Crono": 4328,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a political topic related to the controversial figure of Franco and the implications of misinformation regarding the Valle de los Ca\u00eddos, a significant site in Spanish history. The focus is on the misinformation surrounding political sentiment and legal matters tied to Franco\u2019s legacy, making it primarily a political issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article exposes a troll account that impersonated a reputable media source (eldiario.es) to spread false information regarding Franco, which suggests a broader criticism of the manipulation by elites or those in positions of influence who use misinformation to shape public opinion. This aligns with the populist strategy of criticizing elites who engage in deceptive practices."
+    },
+    {
+        "ID_Medio_Crono": 4337,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the dissemination of misinformation regarding an incident tied to immigration claims, highlighting the political implications of how such narratives can influence public perception and sentiment towards migrants. This falls under 'Political issues' as it addresses the broader context of governmental and societal responses to migration-related incidents.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article reflects a populist discourse that criticizes the framing of immigrants in criminal contexts, which is often perpetuated by elite media narratives. By clarifying the facts about the supermarket incident and its misrepresentation, it challenges the elite's role in shaping divisive narratives about immigration."
+    },
+    {
+        "ID_Medio_Crono": 4347,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the misinformation surrounding immigration and crime, which are significant political issues that impact public discourse and policy making in Spain.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The false claims in the video suggest an elite narrative that connects immigration to crime, criticizing perceived elites for allowing immigration without considering its consequences. The article debunks these claims, which are often used in populist rhetoric to manipulate public opinion."
+    },
+    {
+        "ID_Medio_Crono": 4353,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the misinformation regarding political figures and their statements about the government's management of the COVID-19 crisis, focusing on the impact of these claims on political discourse.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters a viral audio that disparages the government's handling of the pandemic, positioning itself against the misleading claims that criticize political elites, implying a defense against the narrative that promotes animosity towards established political figures."
+    },
+    {
+        "ID_Medio_Crono": 4356,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a political issue by fact-checking misinformation related to a significant political figure, Mariano Rajoy, and the allegation of corruption against him, which falls under the broader category of political discourse and accountability.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of false information that targets a political elite figure, Mariano Rajoy. By clarifying the misinformation, it indirectly highlights the manipulation of public perception by unauthorized actors claiming to expose elite corruption, fitting the strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 4357,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation related to immigration and crime, which are significant political issues in Spain. The way the false narrative casts a particular group (immigrants) as criminals impacts political discourse and policy-making.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article's focus on debunking a narrative that accuses immigrants of crime implies a critique of how certain elites might manipulate public perception. By labeling immigrants as criminals, a narrative is created that speaks to broader societal fears often exploited by political elites."
+    },
+    {
+        "ID_Medio_Crono": 4358,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a claim related to Santiago Abascal, a political figure, and clarifies information regarding his family, thus the focus is primarily on political relationships and actions rather than specific policy or campaign strategies.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article implicitly relates to criticism of political elites by clarifying misleading information that could be used to undermine Abascal's family's reputation and, subsequently, the Vox party. It engages with the narrative surrounding established political figures and their connections, which is a common theme in populist discourse."
+    },
+    {
+        "ID_Medio_Crono": 4359,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily discusses a false statement attributed to a political figure, Mar\u00eda Dolores de Cospedal, related to political finances and allegations against the popular political party (PP). This situates the article clearly within the realm of political issues, as it addresses claims and statements that directly impact political discourse and party reputation.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article targets claims made by a political figure associated with the elite political establishment (Cospedal of the PP) and seeks to debunk misinformation regarding the party's financial integrity. This approach can be understood as a critique of the elite's narrative regarding the existence of a 'caja B,' reflecting an ongoing populist strategy that challenges the established narrative and seeks to hold elites accountable for their claims."
+    },
+    {
+        "ID_Medio_Crono": 4361,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a situation involving public safety and misleading information that has potential implications for community trust in local authorities and law enforcement. This falls under political issues as it pertains to the relationship between citizens and state institutions, particularly in how rumors and misinformation can influence public perception and safety.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The piece highlights the failure of local and national authorities to address claims of danger, suggesting a critique of their competence and reliability. By emphasizing the lack of evidence and official recognition of the claims made on social media, the article inherently questions the effectiveness of elite institutions in protecting and informing the public."
+    },
+    {
+        "ID_Medio_Crono": 4362,
+        "theme": "Personal issues",
+        "theme_reasoning": "The article focuses on a specific incident involving Pablo Iglesias, addressing the misinformation about a manipulated image concerning his attire. This aligns with personal issues as it pertains to an individual's public representation.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a false narrative created about a public figure, which can be seen as a critique of those who spread misinformation, often associated with elite figures in media or politics aiming to mislead the public."
+    },
+    {
+        "ID_Medio_Crono": 4364,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the proposal for a reform of the Law of Health in Galicia, including measures related to public health and the management of COVID-19. This aligns closely with policy issues as it examines legislation and its implications for public health.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses misinformation circulated by groups opposed to the reform, framing their claims as an attack on public authorities' measures. This reflects a populist strategy focused on criticizing elites (in this case, government actions and decisions) and dispelling myths propagated by these groups."
+    },
+    {
+        "ID_Medio_Crono": 4367,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily addresses misconceptions regarding unemployment benefits and eligibility criteria within Spain, focusing on the policies related to social welfare and employment rights. Therefore, it falls under the category of policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of misinformation that misrepresents government policies and welfare systems, reflecting a critical stance toward the elites or those spreading falsehoods. By highlighting the inaccuracies propagated through images and statements, it aligns with the populist strategy of criticizing elite misinformation."
+    },
+    {
+        "ID_Medio_Crono": 4368,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a false claim regarding official voting communication by the Government of Catalonia, which relates directly to political processes and electoral integrity. It is focused on clarifying misinformation surrounding an election, thus classifying it as a political issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses the spread of misinformation that may undermine the credibility of official sources, specifically targeting governmental communication. This aligns with a critique of elites, as it emphasizes the failure of the government or official bodies to communicate effectively or accurately. The discourse challenges the elite's authority and resonates with a populist rhetoric that questions their credibility."
+    },
+    {
+        "ID_Medio_Crono": 4372,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses the misinformation surrounding the use of masks and their alleged health effects, which is a significant public health policy issue. It emphasizes the importance of accurate scientific information in health policy and debunks false claims related to COVID-19 safety measures.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article indirectly critiques misinformation propagated by certain individuals and groups, which can be seen as a challenge to the established scientific and medical authorities. It positions factual and verified information as a defense against misleading narratives, appealing to a distrust of elite sources that spread false information."
+    },
+    {
+        "ID_Medio_Crono": 4373,
+        "theme": "Political issues",
+        "theme_reasoning": "The article specifically addresses a false statement attributed to Pablo Iglesias that has implications for the political landscape, particularly concerning his relationship with the right-wing party PP. This centers around political discourse and accusations during a time of crisis, making it relevant to political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "By debunking a sensational claim that suggests extreme views towards the leadership of the PP, the fact-checking article indirectly addresses a populist strategy that critiques and delegitimizes elite figures and parties (in this case, the right-wing) by associating them with extreme negative rhetoric."
+    },
+    {
+        "ID_Medio_Crono": 4374,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a misattributed statement made by Spain's Minister of Foreign Affairs regarding political prisoners, which involves clarification and correction of political discourse. This aligns with the classification of political issues due to its focus on political statements and the implications for national and international political contexts.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article's central focus is on debunking false claims attributed to a government official, which is indicative of a broader critique of misinformation associated with political elites. This strategy highlights the responsibility of political figures and counters attempts to manipulate public perception, thus fitting the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 4377,
+        "theme": "Political issues",
+        "theme_reasoning": "The article deals with a false statement attributed to a politician, which relates to the political discourse surrounding nationalism and public figures in Spain. It focuses on the inaccuracies regarding what the politician \u00cd\u00f1igo Errej\u00f3n supposedly said, categorizing it firmly under political issues rather than policy, campaign, or personal issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The content addresses a myth propagated by media outlets associated with the elite, specifically highlighting the fake narrative constructed by Intereconom\u00eda. This critique of how mainstream and elite media distort political figures' statements serves as a strong critique of elites, which is a common populist strategy."
+    },
+    {
+        "ID_Medio_Crono": 4379,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses an incident involving a person who was detained near the home of a political figure, Pablo Iglesias. This situation has political implications and relates to the responses and actions of political representatives and law enforcement regarding public protests and their treatment.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses a misconception that the individual was condemned simply for eating 'rosc\u00f3n' in front of a political leader's residence. This reflects a populist narrative that criticizes elites, as it involves public perception and frictions between the public and political figures, emphasizing the actions of authorities against an individual expressing dissent near a political figure."
+    },
+    {
+        "ID_Medio_Crono": 4381,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a political issue by refuting a false claim involving Eugenio Espinosa de los Monteros, a historical figure, and his alleged connection to the contemporary politician Iv\u00e1n Espinosa de los Monteros from the Vox party. This involves clarifying misinformation that could impact public perception of political figures.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The fact-checking aspect of the article implicitly critiques the spread of misinformation by certain elites or influential figures who may propagate historical inaccuracies. By debunking these falsehoods, it highlights a broader issue of accountability among political elites and how their actions and legacies are used in political discourse."
+    },
+    {
+        "ID_Medio_Crono": 4384,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a specific project funded by the Madrid city council that revolves around the use of the Spanish flag, thus engaging directly with political themes related to national identity, government funding for artistic projects, and public perception of symbols of state.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article implicitly critiques the misunderstanding and propagation of claims about government actions regarding the funding of public art, implicitly suggesting a disconnect between the artist's intentions and the perception of such funding by the public, which can be interpreted as a critique of governmental institutions and elite decision-making."
+    },
+    {
+        "ID_Medio_Crono": 4386,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses allegations regarding financial transactions and payments associated with political figures in the context of broader political scandals surrounding the Partido Popular, particularly the controversy over the 'caja B' or slush fund. Since these issues relate directly to the political conduct and accountability of individuals within the party, it fits best under Political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The content critiques high-ranking members of the Partido Popular, particularly focusing on the alleged misuse of funds and financial misconduct. This aligns with a populist strategy that targets and criticizes the elite political class, reflective of the ongoing narrative in Spanish politics surrounding corruption among political elites."
+    },
+    {
+        "ID_Medio_Crono": 4392,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the dissemination of false information regarding child kidnapping, which can influence public perception and trust in law enforcement and governance\u2014key aspects of political discourse.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The fact-checking nature of the article implicitly criticizes the spread of misinformation, which is often perpetuated by elites or influential figures in society, thereby reflecting a populist strategy of holding powerful actors accountable."
+    },
+    {
+        "ID_Medio_Crono": 4393,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily addresses claims regarding the political context of campaign posters being removed, investigating allegations of political censorship and the regulations governing electoral campaigning. This situates the discussion squarely within political issues rather than focusing on specific policies, campaigns, or personal matters.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters assertions made by political figures suggesting that the removal of their campaign posters was due to biased actions by city officials or elites. By refuting these claims and illustrating the impartial nature of the city\u2019s response, the article critiques the notion of an elite manipulating political expression, which aligns with the populist strategy of critiquing elites."
+    },
+    {
+        "ID_Medio_Crono": 4394,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses claims regarding the Spanish government's proposed construction of concentration camps, which ties directly into the political landscape and governance of Spain, hence categorizing it under Political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques and debunks sensational claims made against the government, reflecting a common populist strategy of criticizing elites by countering narratives that paint governmental authorities in a negative light, specifically relating to public health and governance."
+    },
+    {
+        "ID_Medio_Crono": 4397,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the political implications of Salvador Illa's actions and statements during a debate, which relates to the broader context of electoral politics and candidate behavior, making it fit under the category of political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article discusses the controversy surrounding a candidate's refusal to follow certain health protocols and explores accusations against him, which implies a critique of political elites in handling public health matters and transparency, reflecting the populist strategy of criticizing those in power."
+    },
+    {
+        "ID_Medio_Crono": 4398,
+        "theme": "Personal issues",
+        "theme_reasoning": "The article primarily discusses the claims and clarifications regarding Salvador Illa's personal health status, specifically related to his COVID-19 vaccination. This constitutes a personal issue as it focuses on an individual's actions and statements.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The piece critiques the spread of misinformation and the implications of such false claims during the electoral process. This aligns with a populist strategy that targets the elites by emphasizing the need for transparency and accountability from public officials, particularly in the context of public health in the face of damaging rumors."
+    },
+    {
+        "ID_Medio_Crono": 4401,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on the misattribution of audio related to the topic of Catalan independence, which is a political matter central to ongoing debates in Spain. The fact-checking aspect of the article highlights the political implications of spreading misinformation regarding Catalonia's independence.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article indirectly critiques the dissemination of misinformation by certain influential figures or the elite in media, as the erroneous attribution to Ricardo Dar\u00edn suggests a broader commentary on the manipulation of information regarding political topics affecting the populace. This aligns with a populist strategy that often targets the elites responsible for misinformation."
+    },
+    {
+        "ID_Medio_Crono": 4410,
+        "theme": "Personal issues",
+        "theme_reasoning": "The article primarily discusses a personal interaction between two politicians, focusing on In\u00e9s Arrimadas' unfollowing and following of Toni Cant\u00f3 on Twitter. It delves into the specifics of their social media relationship rather than addressing broader political or policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "Although the theme is personal, the article includes elements of critique common in political narratives, especially regarding public perception and behavior of politicians on social media. The events described may suggest a critical view of political elites and their conduct in a public domain, which is a common populist strategy."
+    },
+    {
+        "ID_Medio_Crono": 4418,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the false claim regarding Salvador Illa's social media activities related to a political party, which falls under political issues as it discusses implications tied to electoral results and behavior of political figures.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The piece critiques the spread of misinformation, suggesting it originates from deceptive sources that seek to manipulate public perception, which aligns with the populist strategy of criticizing elites or entities that mislead the public."
+    },
+    {
+        "ID_Medio_Crono": 4419,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a false claim related to the actions of a political figure, Toni Cant\u00f3, in the context of a political party, Ciudadanos, especially following an election. This situates the article squarely within the realm of political issues, as it discusses events that have implications for political parties and their representatives.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights misinformation related to a politicians' decisions, potentially undermining trust in established political communication channels and elites, such as official Twitter accounts. By debunking false narratives that can be perceived to be propagated by elites (in this case, political figures or parties), it aligns with a critique of the misinformation often linked to political elites and their handling of information."
+    },
+    {
+        "ID_Medio_Crono": 4420,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a political statement attributed to a political figure, Adriana Lastra, and discusses the implications of misinformation in the political context, focusing on the actions of political parties and figures.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of false information and how it is used to undermine political figures, highlighting the behavior of political adversaries and the implications of such misinformation on public perception, which aligns with a populist strategy that criticizes elites for manipulating information."
+    },
+    {
+        "ID_Medio_Crono": 4422,
+        "theme": "Personal issues",
+        "theme_reasoning": "The article focuses on the health status of Juan Carlos I, the former king of Spain, and addresses rumors about his well-being and potential return to Spain. This is categorized as a personal issue as it specifically concerns an individual's health and personal situation.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article indirectly critiques the spread of misinformation that may involve the elite (the royal family and its connections) by emphasizing the denial from the Casa Real and the importance of accurate information regarding a public figure's health. This reflects a populist strategy of critiquing elite participation in the dissemination of false information."
+    },
+    {
+        "ID_Medio_Crono": 4423,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the dissemination of false information regarding the actions of political figures on Twitter, which is a political issue as it relates to the behavior and representation of politicians in the public sphere.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the manipulation of social media and the spread of misinformation, which often targets perceived elite figures in politics. The exposure of a parody account that misleads the public about politicians\u2019 actions reflects a critique of political elites and their influence."
+    },
+    {
+        "ID_Medio_Crono": 4425,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on the representation of Falange Espa\u00f1ola in the Andalusian Parliament, the assignment of office space to the deputies, and the implications of political affiliations, which are central to political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article discusses the political maneuvers and decisions regarding the allocation of office space, which can reflect critical views on political elites and their role in facilitating or obstructing representation of certain groups, thus engaging with populist critique."
+    },
+    {
+        "ID_Medio_Crono": 4728,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the spread of a false alarm related to potential home invasions that are politically charged due to their association with how law enforcement and judicial processes are communicated to the public during a crisis, which can influence public opinion and trust in authorities.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article criticizes the false information being spread, which underscores a broader distrust of elites (in this case, possibly including authorities or judicial representatives), highlighting a populist narrative that the public needs to be aware of misleading information purported by institutions."
+    },
+    {
+        "ID_Medio_Crono": 4729,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a specific claim regarding the security and custody of votes by the Guardia Civil and the role of Correos in the electoral process, which falls under the category of political issues since it concerns the integrity of the electoral system and public trust in the electoral process.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article refutes a claim made by a figure associated with an organization purportedly advocating for transparent elections, thus challenging the misinformation that could undermine public confidence in institutions. This aligns with the populist strategy of critiquing elites or established systems that might be seen as corrupt or misleading."
+    },
+    {
+        "ID_Medio_Crono": 4731,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a false claim about the European Union allegedly demanding that the Spanish Prime Minister Pedro S\u00e1nchez call early elections, which falls under the category of political issues as it involves the governance and political actions of the Spanish state.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights misinformation that taps into distrust of political elites, such as claims of interference by the European Union and criticisms of the Spanish journalism landscape, which aligns with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 4732,
+        "theme": "Campaign issues",
+        "theme_reasoning": "The article discusses a false image related to Podemos during the electoral campaign for the Community of Madrid, specifically mentioning that the image began circulating in April 2021, which is directly tied to the campaign environment.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article criticizes the spread of misinformation potentially used by political opponents, which reflects a strategy of challenging the credibility of elites (in this case, those disseminating false information about political rivals) rather than a direct appeal to the people or patriotic values."
+    },
+    {
+        "ID_Medio_Crono": 4741,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a political campaign led by the municipality of Getafe regarding educational materials related to gender issues and the ensuing debate over its implications, indicating a significant focus on the political context and responses.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights the backlash against the mayor and her administration, particularly from groups like HazteOir, which frames their concerns as a rejection of 'elitist' educational approaches being imposed on the community, thus emphasizing a populist critique of the establishment."
+    },
+    {
+        "ID_Medio_Crono": 4743,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses allegations and misinformation related to the electoral process, focusing on voting by mail and the associated claims of fraud. This directly addresses the political context surrounding upcoming elections and electoral integrity, making it a political issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks false claims about the voting process that are likely propagated by critics of the establishment, particularly those seeking to undermine trust in the electoral system. This aligns with the populist strategy of criticizing elites, who are often viewed as manipulating electoral processes for their own benefit."
+    },
+    {
+        "ID_Medio_Crono": 4750,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on the misrepresentation of tax procedures and the implications for religious tax assignment, which falls under policy issues related to taxation and government protocols.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a misleading narrative that suggests manipulation by a political party (PSOE) regarding the tax assignment to the Church. This suggests an implicit critique of the political elite's alleged actions and misrepresentations, aligning with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 4752,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article discusses a false document claiming to outline new COVID-19 measures in the Comunidad Valenciana, which relates directly to health policy and government regulations regarding the pandemic.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article criticizes the spread of misinformation and emphasizes the importance of checking official sources, implicitly critiquing the manner in which misinformation undermines public trust in elite institutions (such as government entities) that are responsible for health policy."
+    },
+    {
+        "ID_Medio_Crono": 4753,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a specific event related to the political debate involving election candidates and the communication mishap that occurred. It pertains to issues surrounding political figures and their interactions in a public debate setting, making it a clear case of political issues rather than general policy or campaign issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The misinformation surrounding the sign language interpreter's actions appears to target perceived incompetence or failures of the media and the government organization RTVE. This aligns with a populist critique of the elites, as it undermines the credibility of established institutions and portrays them as failing to serve the people effectively."
+    },
+    {
+        "ID_Medio_Crono": 4754,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily addresses a false claim regarding the integrity of electoral processes and voting materials related to the Partido Popular, indicating a focus on political matters surrounding the elections in Madrid.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques disinformation and the use of rumors as a tactic in political campaigns, which often targets established political entities like the Partido Popular, reflecting a populist strategy that positions itself against perceived elite manipulation."
+    },
+    {
+        "ID_Medio_Crono": 4755,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a widely circulated misinformation regarding the name of the pharmaceutical company AstraZeneca amidst the ongoing COVID-19 pandemic, which has implications on public trust in vaccination efforts and the governance response to such misinformation. This ties into broader political context about health policies and public perception of government measures.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misinformation prevalent in social media, which is often fueled by mistrust towards elites or institutions, including pharmaceutical companies and governments. By debunking the myths associated with AstraZeneca, the article indirectly addresses the elite narratives surrounding public health and emphasizes the importance of reliable information over misinformation."
+    },
+    {
+        "ID_Medio_Crono": 4757,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article mainly discusses the specifics of a subsidy granted to a film by the Ministry of Culture, including details about the amount, purpose of the subsidy, and context of the film's release. This is directly related to policy matters concerning government funding and cultural production.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters misinformation related to public funds, which often feeds into a narrative of elite misuse of taxpayer money. By clarifying the facts and exposing the misleading claims about the subsidy and film's earnings, it addresses a common populist critique of elites in government."
+    },
+    {
+        "ID_Medio_Crono": 4758,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a viral false alarm that has political implications regarding safety and public perception of violence against women. It involves discussions around social media's role in spreading misinformation, which falls under political discourse as it influences public awareness and policy reactions.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the role of social media platforms and media outlets in amplifying false narratives, which can be viewed as an attack on the elite knowledge and power structures that fail to regulate or fact-check such dangerous content effectively."
+    },
+    {
+        "ID_Medio_Crono": 4761,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a post related to a misinformation claim involving high-profile political figures and institutions in Spain, such as the Minister of the Interior and Correos. This context aligns best with political issues as it concerns the actions and communications of political figures rather than specific policies or campaigns.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses the dissemination of false information that implicates authority figures and government entities, revealing how misinformation can undermine trust in established institutions. This reflects a populist strategy that criticizes elites by highlighting failures or issues within authoritative bodies, suggesting a disconnect between the public and elite institutions."
+    },
+    {
+        "ID_Medio_Crono": 4764,
+        "theme": "Political issues",
+        "theme_reasoning": "The article primarily discusses the political ramifications of death threats received by prominent political figures in Spain, focusing on the incident involving Pablo Iglesias and its implications for security and the perception of governmental functions.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The discussion around the incident evokes sentiments of distrust in established systems and elites, particularly in how such serious security lapses could occur within governmental operations, thus framing the narrative as a critique of the failures of the elite to protect their own."
+    },
+    {
+        "ID_Medio_Crono": 4765,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses the issue of misinformation regarding health and safety related to food consumption, which falls under the realm of policy issues involving public health regulation and consumer safety.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of misinformation and highlights the accountability of authorities in preventing such false claims, thus framing it in a context of challenging elite narratives and emphasizing the importance of relying on official sources."
+    },
+    {
+        "ID_Medio_Crono": 4766,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a political incident involving the Minister of Industry, Reyes Maroto, who received a threatening package. This event pertains to the political sphere as it involves a government official and raises issues of security and political violence.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article outlines a scenario where a government minister is threatened, which can be interpreted as reflecting a criticism of the political establishment's ability to protect its officials. Such incidents often resonate with populist rhetoric that highlights vulnerabilities within the political elite."
+    },
+    {
+        "ID_Medio_Crono": 4767,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the dissemination of false information regarding a supposed serial killer, which implicates the role of law enforcement and public safety in the political discourse, especially in relation to how the authorities communicate about criminal investigations.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of misinformation by individuals in the media and social networks, which reflects a broader populist distrust towards elites, particularly institutions like the police and the media that are expected to provide accurate information."
+    },
+    {
+        "ID_Medio_Crono": 4769,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation related to a specific incident that has broader implications on public health measures, societal reactions, and the management of safety during the COVID-19 pandemic. This involves a political context as it relates to the handling of public health policies and community safety.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of misinformation and manipulative narratives that can arise from elite or authoritative sources, such as media or public figures, thereby framing them as responsible for the confusion and danger stemming from false claims about safety and public health issues."
+    },
+    {
+        "ID_Medio_Crono": 4770,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article addresses a specific claim regarding the payment of pensions to immigrants, focusing on the factual details surrounding government policy on social security and pensions, which falls under policy issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article refutes a misconception that is likely perpetuated by political elites or media narratives, effectively aiming to debunk misleading information that may contribute to anti-immigrant sentiments. This aligns with the populist strategy of criticizing elites who might be seen as responsible for spreading falsehoods."
+    },
+    {
+        "ID_Medio_Crono": 4771,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily discusses the regulation and policies regarding vaccines containing genetically modified organisms (GMOs) in the context of COVID-19, focusing on the legislative framework and scientific explanations surrounding vaccine safety and efficacy.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters misinformation propagated by certain groups regarding the vaccines by referencing official sources and scientific experts, thus implicitly critiquing elite misinformation and conspiracy theories that undermine public trust in health authorities and vaccine policies."
+    },
+    {
+        "ID_Medio_Crono": 4773,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the behavior of social media users in the context of an electoral campaign, focusing on how certain accounts are spreading messages about voting for a political party (Vox) and the implications of this behavior for political discourse. This clearly places the article under political issues rather than other themes.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article indicates that the accounts spreading these messages portray themselves as disillusioned voters who feel misled and manipulated by traditional leftist parties. This skepticism towards established political elites and the idea of voters 'switching' their allegiance to a populist party like Vox reflects a critical stance towards these elites, which aligns with the populist strategy of critiquing elites."
+    },
+    {
+        "ID_Medio_Crono": 4775,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the false claims regarding the relationship between Iv\u00e1n Espinosa de los Monteros and a person who sent a threatening letter to a government minister, which falls under the category of political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misleading information being circulated by a media outlet (P\u00fablico) about a political figure, highlighting the notion of accountability and transparency regarding elite narratives."
+    },
+    {
+        "ID_Medio_Crono": 4777,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the political context surrounding the questioning of Isabel D\u00edaz Ayuso's management and the public's support for her during a televised interview. This aligns with the classification of political issues as it addresses the electoral and governance dynamics in Madrid.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights a controversy involving alleged bias in the media (RTVE) against politicians like Isabel D\u00edaz Ayuso, which is reflective of a critique against established political and media elites. It suggests a focus on undermining the credibility of institutions that are perceived as promoting certain political figures or narratives."
+    },
+    {
+        "ID_Medio_Crono": 4778,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the false claims made about Vox Madrid and its alleged comments regarding the deaths of journalists. It involves the actions and statements of a political party, focusing on misinformation and the political context surrounding it.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article deals with how Vox's supposed narrative positions itself against perceived elite ideas by attributing blame for the deaths of these journalists to a wider political narrative. It highlights how misinformation can be used to undermine political opponents or portray a specific societal group negatively, which aligns with a populist critique against the elites."
+    },
+    {
+        "ID_Medio_Crono": 4780,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a claim regarding the appointment of Enrique Ram\u00edrez Palac\u00edn, which relates to the functioning of the government and its personnel choices. It clarifies misinformation about a political appointment and the connections to the current government, making it a political issue rather than a strictly policy or campaign issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a rumor that implicates the government and an affiliated individual in a secretive reassignment, suggesting a critique of elite practices within government appointments. By highlighting the inaccuracies of the claim and presenting factual evidence, it serves to challenge the narratives that may be seen as promoting negativity towards the elites in political power."
+    },
+    {
+        "ID_Medio_Crono": 4781,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the political issue of misinformation related to the statements attributed to Roc\u00edo Monasterio regarding race and intolerance, particularly in the context of the upcoming elections in Madrid.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques a misleading narrative that is likely aimed at discrediting a political figure (Roc\u00edo Monasterio) by attributing controversial statements to her, which could reflect broader populist strategies of attacking perceived elite figures through misinformation."
+    },
+    {
+        "ID_Medio_Crono": 4784,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the discussion surrounding electoral fraud allegations linked to mail-in voting, a significant political theme, especially considering it relates to upcoming elections and the integrity of the electoral process.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article responds to claims of electoral fraud by highlighting misinformation circulated by individuals potentially exploiting fears about electoral integrity, thus indirectly addressing criticisms of institutional elites (in this case, Correos and electoral authorities) accused of failing to protect the voting process."
+    },
+    {
+        "ID_Medio_Crono": 4785,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation regarding immigration and its effects on electoral processes, which directly relates to political issues concerning electoral integrity and public perception during election campaigns.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks claims made in a viral video, suggesting that these claims may be part of a strategy that critiques political elites' handling of immigration and census data, thereby aligning with populist rhetoric that often seeks to expose manipulation by those in power."
+    },
+    {
+        "ID_Medio_Crono": 4786,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the debate and confusion surrounding a politically charged incident involving threats to prominent politicians, which is inherently linked to broader political implications and discussions.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The union's claims about the manipulation of the image and the implications of misleading information reflect a critique of the established authorities (Correos and the government), positioning themselves as protectors of the truth against perceived elite deception."
+    },
+    {
+        "ID_Medio_Crono": 4788,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a false statement attributed to a political figure, Pablo Iglesias, regarding violence against leaders of the PP, which is fundamentally a matter of political discourse and misinformation about political figures.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks an accusation that could be used to critique political elites and figures. By highlighting the falsehood of the statement attributed to Iglesias, the article indirectly addresses the narratives that may seek to delegitimize political opponents, serving to maintain a critical stance towards elite political discourse."
+    },
+    {
+        "ID_Medio_Crono": 4789,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a misinformation regarding the electoral process and voting procedures, which falls under political issues as it pertains to election integrity and conduct.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The misinformation discussed in the article relates to a challenge to official processes and statements from institutions like Correos, fitting the populist strategy of criticizing elites, particularly in terms of authority and the electoral bodies."
+    },
+    {
+        "ID_Medio_Crono": 4790,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on disinformation regarding political messages associated with the party Unidas Podemos and addresses the implications of misleading or false social media accounts in the context of politics.",
+        "populist_strategy": "Ostracismo",
+        "populist_strategy_reasoning": "The article points out that the account in question does not represent Unidas Podemos and highlights the issue of troll accounts, which are often meant to undermine legitimate political discourse, distancing the party from these false representations."
+    },
+    {
+        "ID_Medio_Crono": 4791,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses accusations against \u00c1ngel Gabilondo, a political figure and candidate. It involves the dissemination of potentially damaging information related to Gabilondo\u2019s past, particularly in the context of his political career and electoral campaigning, thereby classifying it under political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights a narrative that reflects attacks on Gabilondo's character and credibility, linking it to the lower-class perceptions of the political elite. The dissemination of this controversial information appears aimed at undermining Gabilondo's status as part of the elite, fitting the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 4792,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation regarding a political figure's statements, specifically focusing on the actions and public perception of Isabel D\u00edaz Ayuso, which pertains to her political role and the context of the upcoming elections.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of false information that is associated with a political figure, which can be interpreted as a criticism of the elites in political communications and media. It exposes how misrepresentation in political discourse can undermine trust in established political narratives."
+    },
+    {
+        "ID_Medio_Crono": 4794,
+        "theme": "Political issues",
+        "theme_reasoning": "The article revolves around an incident related to political figures and parties, specifically the detainment of individuals linked to Podemos and the implications for Pablo Iglesias as a candidate in the electoral context. This situational focus highlights a political controversy, making 'Political issues' the most appropriate classification.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article discusses public accusations and reactions concerning figures perceived as part of the elite political establishment, particularly in the context of the allegations against Pablo Iglesias and Podemos. This aligns with the populist strategy of criticizing elites and their connections, as it addresses the tension between political parties and their stakeholders."
+    },
+    {
+        "ID_Medio_Crono": 4795,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a specific political matter regarding the regulations surrounding voting by mail in Spain, which falls under the category of political issues. It critiques misinformation related to the voting process and discusses legislative aspects, making it primarily a political topic.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The piece highlights how a supposed notary is portraying a lack of democracy and accusing the authorities of negligence or malfeasance in the electoral process. This represents an elitist critique, framing the situation as a struggle against an elite government perceived as corrupt or incompetent, thus aligning with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 4796,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the manipulation of social media and disinformation practices connected to the political context of the upcoming elections in the Comunidad de Madrid. This falls under political issues as it directly relates to the behavior and strategies of political affiliations and their impact on voter perceptions.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses the emergence of politically motivated social media accounts that aim to undermine democratic participation by fostering disinformation. It critiques the tactics that are typically used by elites or powerful groups to sway public opinion and coerce discussions, thereby aligning with the populist strategy of criticizing such elite manipulations."
+    },
+    {
+        "ID_Medio_Crono": 4797,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a political issue related to the dissemination of misinformation about a political party, PACMA, and their stance on animal rights, specifically in the context of a manipulated image that could sway public perception. This aligns with the classification of political issues, as it involves the actions and representations of a political party.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the manipulation of information that can be seen as an elite tactic in media and politics. By debunking a false narrative created against a political group, it highlights how misleading information can impact public discourse, thus aligning with the populist strategy of criticizing elites who spread such misinformation."
+    },
+    {
+        "ID_Medio_Crono": 4799,
+        "theme": "Personal issues",
+        "theme_reasoning": "The article addresses a false claim specifically about Crist\u00f3bal Montoro, focusing on his personal and professional reputation regarding his alleged acquisition of properties, which falls under personal issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "By debunking a rumor involving a former government minister and financial dealings, the article indirectly critiques the elites in politics and financial sectors, which is characteristic of populist discourse aimed at scrutinizing elite behavior."
+    },
+    {
+        "ID_Medio_Crono": 4800,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a misleading video related to parliamentary practices, specifically addressing the misconception about voting procedures in various countries. This aligns with political issues as it involves the functioning of parliamentary systems and the integrity of political representation.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters a narrative that disparages politicians by revealing the truth about a viral video that incorrectly implicates Spanish politicians. By refuting false claims and defending political integrity, it serves as a critique against elites who spread misinformation for sensationalism or political gain."
+    },
+    {
+        "ID_Medio_Crono": 4801,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the political party Vox and the misinformation surrounding the origin of its name, which has implications for understanding its identity and historical context, categorizing it under political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters a narrative that links Vox to a Nazi propaganda magazine, an insinuation that can be seen as an attack on the legitimacy of the party, thus reflecting a populist strategy of criticizing elite narratives that attempt to delegitimize populist movements like Vox."
+    },
+    {
+        "ID_Medio_Crono": 4803,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the phenomenon of users on Twitter, allegedly acting as representatives for Vox, a political party in Spain. It explores how narratives around voters and their political choices circulate, particularly about the elections in the Community of Madrid, making it a matter of political relevance.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights misinformation and the tactics used on social media to manipulate public opinion and influence elections, which are typical criticisms of political elites and their manipulation of narratives. It discusses the criticism against both the alleged bots/troller accounts being misused for political manipulation and the broader implications this has on perceived credibility in political discourse."
+    },
+    {
+        "ID_Medio_Crono": 4804,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on misinformation related to the political events surrounding the elections in Madrid and clarifies a specific misconception about electoral fraud, which ties closely to political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses the spread of false information and the allegations regarding electoral misconduct, often rooted in distrust towards political elites and institutions. It highlights how misinformation can manipulate public perception of political processes."
+    },
+    {
+        "ID_Medio_Crono": 4809,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a claim related to the seating order of ballots in an election, which is a matter of political procedure rather than a specific policy proposal or campaign issue. It clarifies misinformation surrounding the electoral process, focusing on the actions and regulations governing political parties during an election.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the false narrative being spread regarding supposed manipulations by the PSOE or the Ministry of the Interior to confuse voters. This reflects a populist strategy that highlights the actions of political elites (in this case, suggesting that they are scheming to deceive voters), positioning this narrative against perceived political authority."
+    },
+    {
+        "ID_Medio_Crono": 4810,
+        "theme": "Campaign issues",
+        "theme_reasoning": "The article discusses a supposed electoral poll and the misinformation surrounding it, which is directly related to the electoral campaign for the Comunidad de Madrid elections. This makes it most relevant to the theme of campaign issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article addresses the dissemination of false information and the implications it has for public perception of political parties and their leaders, which often ties into a critique of the elites who may be seen as manipulating or misleading the public. This aligns with the strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 4811,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the political implications of judicial decisions regarding the handling of COVID-19 in nursing homes, specifically focusing on the actions and responsibilities of political figures, which falls under the category of political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misrepresentation of a judicial ruling to shift blame onto a specific political leader (Pablo Iglesias) while exculpating another (Isabel D\u00edaz Ayuso), highlighting tensions between political elites and emphasizing accountability, which aligns with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 5645,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on the proposed reforms to the law related to public security, specifically addressing myths about the legal ramifications of such changes regarding the act of throwing stones at police officers. This clearly categorizes it under policy issues, as it discusses legislative details and implications.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article refutes a viral claim that suggests the elites (in this case, the political parties involved) are enabling criminal behavior through legislative changes. By addressing this misconception, the article implicitly critiques the misrepresentation of elite political actions and aims to clarify facts for the public, indicating a strategy that counters elite narrative distortions."
+    },
+    {
+        "ID_Medio_Crono": 5848,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a false claim involving the Ministry of Equality, which pertains to political discourse and actions regarding media representation and equality issues. This fits most closely with political issues rather than policy, campaign, or personal issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article discusses the wrongful attribution of statements and actions to the Ministry of Equality, framing it as a case of misinformation spread by a parody account. This speaks to a critical narrative against perceived elite deceit or manipulation of information, aligning well with the populist strategy of critiquing elites."
+    },
+    {
+        "ID_Medio_Crono": 5853,
+        "theme": "Political issues",
+        "theme_reasoning": "The article directly addresses a political issue by clarifying misinformation regarding Manuel Chaves, a former president of the Junta de Andaluc\u00eda, and the financial aid approved by the government for a business associated with him. This falls under the category of political issues as it involves government actions and public figures in politics.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The misinformation presented in the article suggests that the aid given to the company is a favor to an elite figure (Manuel Chaves), implying that the government is acting in the interests of powerful individuals rather than the general public. The strategy of criticizing the elites is evidenced by the phrasing used in the messages, which conveys distrust towards the political establishment."
+    },
+    {
+        "ID_Medio_Crono": 5854,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article focuses on the claims made regarding the increase in the quota for self-employed workers and the alleged stance of two significant trade unions (UGT and CCOO) on this policy issue. The discussion revolves around the implications of potential reforms in the system of contributions for self-employed individuals, which is a direct policy matter.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a false claim that these unions support a position that may be perceived as diminishing the economic burdens on the working class in favor of the state's welfare system. By addressing the fabrication and asserting the truth, it critiques the misinformation that might represent elite interests distancing themselves from the concerns of regular workers."
+    },
+    {
+        "ID_Medio_Crono": 5856,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a false claim about the Barcelona City Council and its leadership, specifically involving the mayor Ada Colau and a controversial project related to a religious structure. This indicates a focus on political matters rather than just policy or campaign issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The piece highlights misinformation regarding a local government initiative and mentions negative public reactions, suggesting a criticism of political elites and their decision-making, especially regarding perceived impacts on cultural and religious matters."
+    },
+    {
+        "ID_Medio_Crono": 5860,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the misinformation about the removal of a statue related to the decisions made by local councils in C\u00e1diz and San Fernando, emphasizing the political actions taken by these institutions regarding historical legacy.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article implicitly critiques the media and political narratives that distort facts, emphasizing how these institutions (the media and local governing bodies) play a role in shaping public perception, which aligns with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 5872,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation related to Teresa Rodr\u00edguez\u2019s political role and her party affiliation. It clarifies her position within the political landscape of Andaluc\u00eda, making it a political issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the dissemination of false information, which is often propagated by political elites or parties to mislead the public. By debunking the misinformation, it highlights a critical stance towards those who manipulate facts for political gain."
+    },
+    {
+        "ID_Medio_Crono": 5873,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the issue of public safety in relation to recent incidents of violence in Madrid, which ties into broader political issues regarding law enforcement and public order.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights misinformation spread about safety in the city, which can be interpreted as a criticism of elite institutions (like law enforcement or social media) that fail to control the narrative or prevent fear-mongering among the population."
+    },
+    {
+        "ID_Medio_Crono": 5874,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation regarding statements attributed to the European Commission about the Spanish government, which relates to the political context and the actions of the government in Spain.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a claim that paints the European Commission as an authoritative body critiquing the current government, highlighting a critique of elite institutions that are perceived to influence domestic governance."
+    },
+    {
+        "ID_Medio_Crono": 5875,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a controversy related to a statement made during a parliamentary session regarding the COVID-19 vaccines, which involves political discourse and actions within the legislative context, making it primarily a political issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "Various figures involved in spreading the misinformation about the video's supposed deletion appeal to a narrative of censorship by authorities and elites, suggesting that these elites are suppressing dissenting views, which is characteristic of the populist strategy that criticizes the elite."
+    },
+    {
+        "ID_Medio_Crono": 5878,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a false narrative regarding an incident in Moncloa, which reflects on political themes, especially in the context of public safety and government accountability in the midst of misinformation.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The piece aims to debunk a prevalent myth that could be exploited by political elites to stir fear and tension among the populace; thus, it critiques the actions and authority of those who spread such misinformation."
+    },
+    {
+        "ID_Medio_Crono": 5881,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses a false claim related to statements made by the Prime Minister of Spain, Pedro S\u00e1nchez, regarding vaccination and external pressures. This falls under political issues since it directly relates to government actions and statements made by a political leader.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights a false narrative suggesting that European authorities and pharmaceutical companies are exerting undue influence or pressure on the Spanish government, which aligns with the populist strategy of critiquing elites and their supposed manipulation of the public and politicians."
+    },
+    {
+        "ID_Medio_Crono": 5884,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the misinformation surrounding a government-supported rental aid for immigrants, focusing on policies and claims made by public authorities, which relates to the political discourse on immigration and social welfare policies.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights the rhetoric of accusations against the government and elites, suggesting that it allows foreigners to receive preferential treatment over locals, which reflects a common populist strategy of criticizing those in power."
+    },
+    {
+        "ID_Medio_Crono": 5885,
+        "theme": "Political issues",
+        "theme_reasoning": "The article deals primarily with the attribution of a politically charged text about various leaders in Spain to a well-known author, which falls under the category of political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The content of the attributed text includes derogatory terms towards various political figures and implies a critique of the political elite, aligning it with the strategy of criticizing the elites."
+    },
+    {
+        "ID_Medio_Crono": 5886,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses the implications of a statement that was misattributed to Albert Rivera, focusing on the political dynamics and affiliations within Spanish politics, particularly regarding liberalism and the figure of Isabel D\u00edaz Ayuso. This aligns with the theme of political issues as it explores relationships between political figures and the resulting narratives.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights the media's role and identifies misinformation being spread regarding a prominent political figure. This critique of how elites (in this case, journalists and political actors) handle information reflects a populist strategy of criticizing the established elite's narrative and the power they wield in shaping public perception."
+    },
+    {
+        "ID_Medio_Crono": 5887,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a false statement attributed to a political figure, Irene Montero, which falls under political issues as it pertains to misinformation related to a politician's statements.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article disproves a manipulated narrative that could undermine trust in traditional media elites like 'El Pa\u00eds', thereby utilizing the populist strategy of criticizing elites who propagate misinformation."
+    },
+    {
+        "ID_Medio_Crono": 5890,
+        "theme": "Political issues",
+        "theme_reasoning": "The article deals with a false tweet claiming that Pablo Iglesias made specific statements regarding favor exchanges within Podemos, and it addresses the misinformation related to political figures, hence it fits under 'Political issues'.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights a case of misinformation that could undermine public trust in established media and political elites by showcasing how a social media account impersonates a credible source, which reflects a common populist critique of elite narratives."
+    },
+    {
+        "ID_Medio_Crono": 5891,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the broader implications of identity and crime, specifically in the context of allegations that involve different ethnic backgrounds. It highlights the misinformation being propagated about the incident, which holds political significance in the realm of immigration, racism, and societal attitudes towards different communities.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The narrative seems to use the incident to critique authorities and media narratives that may manipulate facts for political ends. The emphasis on the police's denial of the ethnic backgrounds of the aggressors reflects a broader populist strategy of calling out perceived elite control over the truth and the narrative surrounding social issues."
+    },
+    {
+        "ID_Medio_Crono": 6323,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a political topic as it pertains to a claim regarding the political party Vox and its alleged statements about communism, which touches on broader political debates and misinformation surrounding ideologies and party positions.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The focus of the article is on debunking a false claim attributed to a political party, which reflects a critique of how misinformation can be utilized by certain factions in politics to undermine or manipulate truths about political groups and ideologies. This aligns with a common populist strategy of criticizing elites or established narratives."
+    },
+    {
+        "ID_Medio_Crono": 6326,
+        "theme": "Policy issues",
+        "theme_reasoning": "The article primarily addresses a specific policy issue related to the funding and distribution of informational guides about drug use during sex, issued by health authorities. It discusses the intent, context, and implications of these guides, making it a focused analysis on policy rather than broader political or personal issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article responds to sensationalist claims made by certain media outlets regarding the guides, which could be seen as criticisms of the elite decision-makers in health policy. It tackles misinformation and points out how these institutions are portrayed negatively, thereby framing the narrative as a contrast between the public\u2019s understanding and the actions of the elites (state institutions)."
+    },
+    {
+        "ID_Medio_Crono": 6327,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the false claims regarding the Ministry of Equality and its supposed organization of an event related to the 'day of the diversity of vaginas'. This is relevant to political issues as it involves the actions of a government ministry and its representation in public discourse.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a misleading narrative that could be seen as a criticism of the political elite, specifically targeting how certain narratives are spun by media outlets against government actions or policies. This aligns closely with the populist strategy of critiquing elites who spread misinformation."
+    },
+    {
+        "ID_Medio_Crono": 6334,
+        "theme": "Campaign issues",
+        "theme_reasoning": "The article specifically addresses inaccuracies regarding a supposed campaign event for the PSOE candidate in the context of electoral activities, which falls within campaign issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the misleading narrative presented by individuals and factions within the political elite (in this case, the opposition party Vox), focusing on misinformation spread regarding the PSOE candidate's campaign efforts."
+    },
+    {
+        "ID_Medio_Crono": 6335,
+        "theme": "Campaign issues",
+        "theme_reasoning": "The article addresses misinformation concerning the candidacy of Salud Anguita for the elections, which falls under the category of campaign issues as it pertains to the electoral candidates and the information disseminated about them ahead of the elections.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of false information by illustrating how misleading claims about a candidate may manipulate public perception, thus aligning with the populist strategy of criticizing elites or authority figures who are responsible for such misinformation."
+    },
+    {
+        "ID_Medio_Crono": 6336,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation regarding government and institutional support for Ukrainian refugees in Spain, which intersects with broader political discussions about immigration policy and a government's response to a crisis.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques false claims that imply preferential treatment for Ukrainian refugees over locals, suggesting a narrative often used by populist movements that vilifies elites and the government for disproportionately aiding specific groups, thereby stirring public sentiment."
+    },
+    {
+        "ID_Medio_Crono": 6337,
+        "theme": "Political issues",
+        "theme_reasoning": "The article focuses on a false tweet related to a political candidate, specifically addressing misinformation that could affect the political landscape leading up to the elections. It deals with the integrity of political communication and the actions of a political figure, which clearly falls under political issues rather than policy, campaign-specific details, or personal matters.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article implicitly critiques the manipulation of public perception by those posing as credible political figures or media, which can be seen as a form of criticism of elite behavior in controlling narratives. This aligns with the populist strategy of criticizing elites for the spread of misinformation and using disinformation tactics to sway public opinion."
+    },
+    {
+        "ID_Medio_Crono": 6338,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses misinformation that potentially influences public perception regarding issues such as crime and security within the context of Spain, making it relevant to broader political discussions about law and order.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "By debunking the misinformation, the article implicitly criticizes the spread of false narratives that may be propagated by elites or media figures, aimed at sensationalizing crime and creating fear among the public."
+    },
+    {
+        "ID_Medio_Crono": 6345,
+        "theme": "Political issues",
+        "theme_reasoning": "The article revolves around misinformation related to a specific event (a video) that has political implications, especially in the context of migration and identity, thus categorizing it under political issues.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the spread of misinformation by certain elite social media users who mislabel the event, which reflects a populist strategy that aims to expose deceit and misinformation propagated by those in influential positions."
+    },
+    {
+        "ID_Medio_Crono": 6354,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a political figure, Pedro S\u00e1nchez, and clarifies misleading information regarding his actions and public perception. It points out a misconception related to his image, which relates directly to his role in politics.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article counters a narrative that criticizes S\u00e1nchez by suggesting he is out of touch with the public, as depicted in the viral message. By clarifying the misinformation, it indirectly defends his role against elite criticism, common in populist rhetoric."
+    },
+    {
+        "ID_Medio_Crono": 6355,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses a false claim regarding electoral ballots and candidates in the context of the recent elections in Andaluc\u00eda, which pertains to the political landscape and related issues of misinformation.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article debunks a rumor that could be perceived as a critique of established political parties (Vox and PP) by portraying them as incapable of managing the electoral process accurately, which aligns with the populist strategy of criticizing elites."
+    },
+    {
+        "ID_Medio_Crono": 6358,
+        "theme": "Political issues",
+        "theme_reasoning": "The article discusses misinformation regarding Juanma Moreno's statements and electoral candidacy, focusing on the manipulation of audio related to a political figure and the implications for the party he represents. This aligns with political issues as it deals with election-related misinformation and the behavior of political actors.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article critiques the manipulation of political statements and challenges the actions of elites associated with political parties, in this case, the Partido Popular. This fits the populist strategy of criticizing elites by highlighting their potential deceit and manipulation in an electoral context."
+    },
+    {
+        "ID_Medio_Crono": 6360,
+        "theme": "Political issues",
+        "theme_reasoning": "The article deals with misinformation related to a public facility and claims made about access based on religion, which falls under political issues intersecting with social governance and community regulations.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article criticizes the false claims suggesting that local authorities are enabling discriminatory practices against a specific group (Muslims), which reflects a populist strategy aimed at challenging perceived elites or authority figures who are purportedly allowing this misinformation to spread."
+    },
+    {
+        "ID_Medio_Crono": 6364,
+        "theme": "Political issues",
+        "theme_reasoning": "The article addresses the political dynamics between the PSOE and Vox, including the registration of Propositions by the PSOE and reactions from Vox. It discusses the implications and interpretations of these political actions, making it primarily a political issue.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "The article highlights the PSOE's stance on Vox and its framing of the extreme right as a threat to democratic values, positioning Vox as 'anti-democratic' and indirectly criticizing the elite or ruling class's prior associations with such parties. This framing can resonate with populist sentiments against perceived political elites."
+    },
+    {
+        "ID_Medio_Crono": 6367,
+        "theme": "Campaign issues",
+        "theme_reasoning": "The article addresses a specific false claim regarding the results of the elections in Arcos de la Frontera, which is directly related to electoral campaigning and the positioning of political parties during the election process.",
+        "populist_strategy": "Cr\u00edtica a las \u00e9lites",
+        "populist_strategy_reasoning": "By debunking a false narrative related to election results, the article implicitly critiques the manipulation of information by political elites or their supporters who spread misinformation to advantage their positions or damage competitor parties."
     }
 ]
