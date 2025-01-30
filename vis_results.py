@@ -41,6 +41,12 @@ def __():
     resultsRF_CV = pd.read_json('results/results_RF_CV.json')
     resultsRF_CV['clf'] = 'RandomForest_CV'
 
+    resultsSVM = pd.read_json('results/results_SVM.json')
+    resultsSVM['clf'] = 'SVM'
+
+    resultsSVM_CV = pd.read_json('results/results_SVM_CV.json')
+    resultsSVM_CV['clf'] = 'SVM_CV'
+
     # resultsBETO = pd.read_json('results_BETO.json')
     # resultsBETO['clf'] = 'BETO'
 
@@ -58,9 +64,8 @@ def __():
 
     results = pd.concat([
                         baselines,
-                        resultsRF, resultsBETO,
-                        resultsRF_CV, resultsBETO_CV,
-                        #  resultsBETO_1e4, resultsBETO_CV_1e4,
+                        resultsRF_CV, resultsSVM_CV, resultsBETO_CV,
+                        resultsRF, resultsSVM, resultsBETO,
                         resultsGPT,
                         ]).reset_index(drop=True)
 
@@ -72,9 +77,6 @@ def __():
     #     lambda l: [p['prediction'] for p in l])
     results_multiple_traincs = results[results.train.apply(type) == tuple]
     results_single_traincs = results[results.train.apply(type) != tuple]
-
-    results.loc[results.clf.isin(
-        ['baseline', 'BETO_CV', 'RandomForest_CV', 'gpt-4o-mini']), 'train'] = ''
     return (
         baselines,
         campañas_order,
@@ -88,6 +90,8 @@ def __():
         resultsGPT,
         resultsRF,
         resultsRF_CV,
+        resultsSVM,
+        resultsSVM_CV,
         results_multiple_traincs,
         results_single_traincs,
     )
@@ -97,6 +101,31 @@ def __():
 def __(campañas_order, display, results):
     # group results by campaign and visualize groups
     import altair as alt
+    from altair import datum
+
+    color_range = ['coral', 'blue', 'red',
+                   'orange', '#7D3C98', 'seagreen', 'coral']
+    color_range_b = ['gray', 'blue', 'red',
+                     'orange', '#7D3C98', 'seagreen', 'coral']
+
+    results.loc[results.clf.isin(
+        ['baseline', 'BETO_CV', 'RandomForest_CV', 'SVM_CV', 'gpt-4o-mini']), 'train'] = ''
+
+    results['is_baseline'] = (results['clf'].str.contains('CV') |
+                              results['clf'].str.contains('baseline'))
+
+    data = results[
+        ['feat', 'is_baseline', 'clf', 'train', 'test', 'f1']]
+    # .sort_values('f1', ascending=False)
+
+
+    displaying_feats = [
+        '9. Protagonista', '10. Atributo',
+        '9. Protagonista reduced',
+        '11. Macro tema', '12. Populismo',
+        '13. Ataque', '14. Tipo de ataque',
+        # '14. Tipo de ataque reduced'
+    ]
 
 
     def join_elements(ob):
@@ -106,54 +135,62 @@ def __(campañas_order, display, results):
             return ob
 
 
-    for feat, g in results.groupby('feat', sort=True):
-        if feat not in [
-            # '9. Protagonista', '10. Atributo',
-            #  '9. Protagonista reduced',
-            '11. Macro tema', '12. Populismo',
-            '13. Ataque', '14. Tipo de ataque',
-            # '14. Tipo de ataque reduced'
-        ]:
+    data.loc[:, 'train'] = data['train'].apply(join_elements)
+
+
+    selection = alt.selection_point(
+        # bind=input_dropdown,
+        fields=['clf'], bind='legend')
+    when_sel = alt.when(selection)
+
+    hover = alt.selection_point(
+        name="highlight", on="pointerover", empty=False)
+    when_hover = alt.when(hover)
+
+    stroke_width = (
+        alt.when(hover).then(alt.value(1)).otherwise(alt.value(0))
+    )
+
+    color_baselines = alt.Color('clf:N', title='Baseline',
+                                sort=['BETO_CV', 'RandomForest_CV', 'SVM_CV', 'baseline']).scale(scheme='tableau10')
+
+    color_estimators = alt.Color('clf:N', title='Estimator',
+                                 sort=['BETO', 'RandomForest', 'SVM', 'gpt-4o-mini']).scale(scheme='tableau10')
+
+
+    for feat, g in data.groupby('feat', sort=True):
+        if feat not in displaying_feats:
             continue
 
-        byfeat = g.sort_values('f1', ascending=False)[
-            ['feat', 'clf', 'train', 'test', 'f1']]
-
-        byfeat['train'] = byfeat['train'].apply(join_elements)
-
-        selection = alt.selection_point(
-            fields=['clf'], bind='legend')  # bind=input_dropdown,
-
-        hover = alt.selection_point(
-            name="highlight", on="pointerover", empty=False)
-        when_hover = alt.when(hover)
-        stroke_width = (
-            alt.when(hover).then(alt.value(1)).otherwise(alt.value(0))
-        )
-        stroke_color = (
-            alt.when(hover).then(alt.ColorValue("black")
-                                 ).otherwise(alt.ColorValue("white"))
+        chart = alt.Chart(g, width=520, title=feat).encode(
+            x=alt.X('test', sort=list(campañas_order.keys()), title='Campaña test'),
+            y='f1:Q',
         )
 
-        color = alt.condition(
-            selection,
-            alt.Color('clf:N', title='Estimator').scale(range=[
-                'red', 'orange', 'blue', 'seagreen', 'coral', '#7D3C98']),
-            alt.value('lightgray'))
-
-        # order = alt.condition(
-        # selection, 1, 0)
-
-        points = alt.Chart(byfeat, width=420, title=feat).mark_point(
-            filled=True, size=50, opacity=0.6, stroke='black'
+        points = chart.transform_filter(datum.is_baseline == False).mark_point(
+            size=50, opacity=0.8,  filled=True,
+            strokeWidth=1,
         ).encode(
-            y='f1', tooltip='train',  # tooltip=['clf', 'train', 'test', 'f1']
-            color=color, order='clf',
-            strokeWidth=stroke_width
+            xOffset=alt.XOffset('jitter:Q',
+                                scale=alt.Scale(range=[60, 30])),
+            tooltip='train',  # tooltip=['clf', 'train', 'test', 'f1']
+            color=alt.condition(selection, color_estimators,
+                                alt.value('lightgray')),
+            stroke=alt.when(hover).then(
+                alt.ColorValue("black")).otherwise(alt.ColorValue("white")),
+            # order='clf',
+            order=when_sel.then(alt.value(1)).otherwise(alt.value(0))
+        ).add_params(selection, hover).transform_calculate(jitter="sqrt(-2*log(random()))*cos(2*PI*random())")
+
+        ticks = chart.transform_filter(datum.is_baseline == True).mark_line(
+            # size=200, shape='stroke',
+            interpolate='step',
+            opacity=0.5, strokeWidth=1,
         ).encode(
-            alt.X('test', sort=list(campañas_order.keys()), title='Campaña test'),
-            alt.Y('f1')
-        ).add_params(selection, hover)  # .transform_filter(selection)
+            stroke=alt.when(hover).then(
+                alt.ColorValue("black")).otherwise(color_baselines),
+            order='clf',
+        )
 
         # text = points.mark_text(
         #     align='left',
@@ -165,7 +202,7 @@ def __(campañas_order, display, results):
         #     color=alt.value("black")
         # )
 
-        display(points)  # + text)
+        display(ticks + points)  # + text)
 
         # for camp, h in byfeat.groupby('test', sort=False):
         #     display(h)
@@ -174,17 +211,24 @@ def __(campañas_order, display, results):
         #     display(byfeat[byfeat.test == camp])
     return (
         alt,
-        byfeat,
-        color,
+        chart,
+        color_baselines,
+        color_estimators,
+        color_range,
+        color_range_b,
+        data,
+        datum,
+        displaying_feats,
         feat,
         g,
         hover,
         join_elements,
         points,
         selection,
-        stroke_color,
         stroke_width,
+        ticks,
         when_hover,
+        when_sel,
     )
 
 
