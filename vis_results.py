@@ -103,11 +103,6 @@ def __(campañas_order, display, results):
     import altair as alt
     from altair import datum
 
-    color_range = ['coral', 'blue', 'red',
-                   'orange', '#7D3C98', 'seagreen', 'coral']
-    color_range_b = ['gray', 'blue', 'red',
-                     'orange', '#7D3C98', 'seagreen', 'coral']
-
     results.loc[results.clf.isin(
         ['baseline', 'BETO_CV', 'RandomForest_CV', 'SVM_CV', 'gpt-4o-mini']), 'train'] = ''
 
@@ -117,7 +112,6 @@ def __(campañas_order, display, results):
     data = results[
         ['feat', 'is_baseline', 'clf', 'train', 'test', 'f1']]
     # .sort_values('f1', ascending=False)
-
 
     displaying_feats = [
         '9. Protagonista', '10. Atributo',
@@ -135,34 +129,36 @@ def __(campañas_order, display, results):
             return ob
 
 
-    data.loc[:, 'train'] = data['train'].apply(join_elements)
+    data['train_repr'] = data['train'].apply(join_elements)
 
 
-    selection = alt.selection_point(
-        # bind=input_dropdown,
-        fields=['clf'], bind='legend')
-    when_sel = alt.when(selection)
+    def my_chart(data):
 
-    hover = alt.selection_point(
-        name="highlight", on="pointerover", empty=False)
-    when_hover = alt.when(hover)
+        color_range = ['coral', 'blue', 'red',
+                       'orange', '#7D3C98', 'seagreen', 'coral']
+        color_range_b = ['gray', 'blue', 'red',
+                         'orange', '#7D3C98', 'seagreen', 'coral']
 
-    stroke_width = (
-        alt.when(hover).then(alt.value(1)).otherwise(alt.value(0))
-    )
+        selection = alt.selection_point(
+            # bind=input_dropdown,
+            fields=['clf'], bind='legend')
+        when_sel = alt.when(selection)
 
-    color_baselines = alt.Color('clf:N', title='Baseline',
-                                sort=['BETO_CV', 'RandomForest_CV', 'SVM_CV', 'baseline']).scale(scheme='tableau10')
+        hover = alt.selection_point(
+            name="highlight", on="pointerover", empty=False)
+        when_hover = alt.when(hover)
 
-    color_estimators = alt.Color('clf:N', title='Estimator',
-                                 sort=['BETO', 'RandomForest', 'SVM', 'gpt-4o-mini']).scale(scheme='tableau10')
+        stroke_width = (
+            alt.when(hover).then(alt.value(1)).otherwise(alt.value(0))
+        )
 
+        color_baselines = alt.Color('clf:N', title='Baseline',
+                                    sort=['BETO_CV', 'RandomForest_CV', 'SVM_CV', 'baseline']).scale(scheme='tableau10')
 
-    for feat, g in data.groupby('feat', sort=True):
-        if feat not in displaying_feats:
-            continue
+        color_estimators = alt.Color('clf:N', title='Estimator',
+                                     sort=['BETO', 'RandomForest', 'SVM', 'gpt-4o-mini']).scale(scheme='tableau10')
 
-        chart = alt.Chart(g, width=520, title=feat).encode(
+        chart = alt.Chart(data, width=520, title=feat).encode(
             x=alt.X('test', sort=list(campañas_order.keys()), title='Campaña test'),
             y='f1:Q',
         )
@@ -192,44 +188,44 @@ def __(campañas_order, display, results):
             order='clf',
         )
 
-        # text = points.mark_text(
-        #     align='left',
-        #     baseline='middle',
-        #     dx=7,
-        #     fontSize=9
-        # ).encode(
-        #     text='train',
-        #     color=alt.value("black")
-        # )
+        return ticks + points
 
-        display(ticks + points)  # + text)
 
-        # for camp, h in byfeat.groupby('test', sort=False):
-        #     display(h)
+    for feat, g in data.groupby('feat', sort=True):
+        if feat not in displaying_feats:
+            continue
 
-        # for camp in campañas_order:
-        #     display(byfeat[byfeat.test == camp])
+        display(my_chart(g))
     return (
         alt,
-        chart,
-        color_baselines,
-        color_estimators,
-        color_range,
-        color_range_b,
         data,
         datum,
         displaying_feats,
         feat,
         g,
-        hover,
         join_elements,
-        points,
-        selection,
-        stroke_width,
-        ticks,
-        when_hover,
-        when_sel,
+        my_chart,
     )
+
+
+@app.cell
+def __():
+    # text = points.mark_text(
+    #     align='left',
+    #     baseline='middle',
+    #     dx=7,
+    #     fontSize=9
+    # ).encode(
+    #     text='train',
+    #     color=alt.value("black")
+    # )
+
+    # for camp, h in byfeat.groupby('test', sort=False):
+    #     display(h)
+
+    # for camp in campañas_order:
+    #     display(byfeat[byfeat.test == camp])
+    return
 
 
 @app.cell
